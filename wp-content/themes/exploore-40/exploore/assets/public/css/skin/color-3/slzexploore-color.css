@@ -1,0 +1,973 @@
+a:active,
+a:focus,
+a:hover {
+    color: #E91E63
+}
+
+.spinner > div {
+    background-color: #E91E63
+}
+
+.bg-transparent .header-topbar .topbar-left li:hover i,
+.bg-transparent .header-topbar .topbar-left li:hover span {
+    color: #E91E63
+}
+
+.bg-transparent .header-main.header-fixed .nav-search form .searchbutton {
+    background-color: #E91E63
+}
+
+.bg-white .header-topbar .topbar-left li:hover i,
+.bg-white .header-topbar .topbar-left li:hover span {
+    color: #E91E63
+}
+
+.header-03 .header-topbar .btn-menu:hover .icons,
+.header-03 .header-topbar .btn-menu:hover .text {
+    color: #E91E63
+}
+
+.header-topbar a:hover,
+.header-topbar p:hover,
+.header-topbar span:hover {
+    color: #E91E63
+}
+
+.header-topbar .topbar-left > li:hover i,
+.header-topbar .topbar-left > li:hove span {
+    color: #E91E63
+}
+
+.navigation .nav-links li.active .main-menu,
+.navigation .nav-links li:hover .main-menu {
+    color: #E91E63
+}
+
+.navigation .nav-links li:hover .main-menu .icons-dropdown i {
+    color: #E91E63
+}
+
+.navigation .nav-links .main-menu:after,
+.navigation .nav-links .main-menu:before {
+    background-color: #E91E63
+}
+
+.bg-transparent .navigation .nav-links li.active .main-menu,
+.bg-transparent .navigation .nav-links li:hover .main-menu {
+    color: #E91E63!important
+}
+
+.bg-white .navigation .nav-links li.active .main-menu,
+.bg-white .navigation .nav-links li:hover .main-menu {
+    color: #E91E63!important
+}
+
+.dropdown-menu-1,
+.dropdown-menu-2 {
+    border-bottom: 2px solid #E91E63
+}
+
+.wrapper-mobile-nav {
+    background: #E91E63
+}
+
+.wrapper-mobile-nav .header-main .login-widget .item:hover {
+    background-color: #E91E63
+}
+
+.menu-mobile .main-menu {
+    background-color: #E91E63
+}
+
+.menu-mobile .main-menu:active,
+.menu-mobile .main-menu:hover {
+    background-color: #E91E63
+}
+
+.contact-us-widget .info-list ul li .link:hover {
+    color: #E91E63
+}
+
+.contact-us-widget .info-list > div .link:hover span {
+    color: #E91E63
+}
+
+.form-email .btn-email {
+    background-color: #E91E63
+}
+
+.booking-widget ul li .link:before {
+    color: #E91E63
+}
+
+.booking-widget ul li:hover .link {
+    color: #E91E63
+}
+
+.explore-widget ul li:hover .link,
+.top-deals-widget ul li:hover .link {
+    color: #E91E63
+}
+
+.find-widget {
+    background-color: #E91E63
+}
+
+.find-widget .submit-btn-wrapper .submit-btn {
+    color: #E91E63
+}
+
+.find-widget .submit-btn-wrapper .text {
+    color: #E91E63
+}
+
+.tab-search-condensed {
+    background-color: #E91E63
+}
+
+.flight-time-widget .flight-time-visual-widget .visual .bar .arrive.indicator,
+.flight-time-widget .flight-time-visual-widget .visual .bar .depart.indicator {
+    background-color: #E91E63
+}
+
+.price-widget .nstSlider .leftGrip.indicator,
+.price-widget .nstSlider .rightGrip.indicator {
+    background-color: #E91E63
+}
+
+.tab-search .tab-btn-wrapper .tab-btn:active,
+.tab-search .tab-btn-wrapper .tab-btn:focus,
+.tab-search .tab-btn-wrapper .tab-btn:hover {
+    background-color: #E91E63
+}
+
+.tab-search .tab-btn-wrapper.active .tab-btn {
+    background-color: #E91E63
+}
+
+.tab-search-default .tab-btn-wrapper .tab-btn i {
+    color: #E91E63
+}
+
+.tab-search-default .tab-content-bg {
+    background-color: #E91E63
+}
+
+.tab-search-condensed .tab-btn-wrapper .tab-btn {
+    color: #E91E63
+}
+
+.tab-search-condensed .tab-btn-wrapper .tab-btn i {
+    color: #E91E63
+}
+
+.fds-widget .price-select.yellow {
+    background-color: #E91E63
+}
+
+.single-flight-result form.flight-class .class-selection-wrapper label.radio-box span.text-wrapper span.price {
+    color: #E91E63
+}
+
+.social-widget ul li a.social-icon:hover {
+    border-color: #E91E63;
+    background-color: #E91E63
+}
+
+.bg-blue-gradient .link:hover {
+    color: #E91E63!important
+}
+
+.subscribe-email {
+    background-color: #E91E63
+}
+
+.form-subscribe-email .btn-email {
+    color: #E91E63
+}
+
+.page-title-wrapper .breadcrumb li .link:hover {
+    color: #E91E63
+}
+
+.page-title-wrapper .breadcrumb li.active .link:after {
+    background-color: #E91E63
+}
+
+.page-title-wrapper .price .number {
+    color: #E91E63
+}
+
+.page-title-wrapper .price .unit {
+    color: #E91E63
+}
+
+.page-title-wrapper .breadcrumb {
+    border-bottom: 1px solid #E91E63
+}
+
+.page-title-wrapper .breadcrumb li .link:hover {
+    color: #E91E63
+}
+
+.page-title-wrapper .price .number {
+    color: #E91E63
+}
+
+.page-title-wrapper .price .unit {
+    color: #E91E63
+}
+
+.group-title .sub-title .icons:after {
+    background-color: #E91E63
+}
+
+.title-style-2:after {
+    background-color: #E91E63
+}
+
+.btn.btn-maincolor {
+    background-color: #E91E63;
+    border: 1px solid #E91E63
+}
+
+.btn.btn-gray:hover {
+    background-color: #E91E63;
+    border: 1px solid #E91E63
+}
+
+.btn-slide {
+    color: #E91E63
+}
+
+.btn-slide .text {
+    color: #E91E63
+}
+
+.btn-slide .icons {
+    color: #E91E63
+}
+
+.btn-slide:before {
+    color: #E91E63
+}
+
+#back-top .link {
+    border: 2px solid #E91E63;
+    color: #E91E63
+}
+
+#back-top .link:hover {
+    background-color: #E91E63
+}
+
+.stars:after {
+    color: #E91E63
+}
+
+.label-sale {
+    background-color: #E91E63
+}
+
+.tours-layout .image-wrapper .title-wrapper .title:before {
+    background: #E91E63
+}
+
+.tours-layout .image-wrapper .title-wrapper .title:hover {
+    color: #E91E63
+}
+
+.tours-layout .content-wrapper .list-info li .link:hover {
+    background-color: #E91E63
+}
+
+.tours-layout .content-wrapper > .content .title .price {
+    color: #E91E63
+}
+
+.tours-layout .content-wrapper > .content .group-btn-tours .left-btn:hover,
+.tours-layout .content-wrapper > .content .group-btn-tours .right-btn:hover {
+    background-color: #E91E63
+}
+
+.hotels-layout .image-wrapper .title-wrapper .title:before {
+    background: #E91E63
+}
+
+.hotels-layout .image-wrapper .title-wrapper .title:hover {
+    color: #E91E63
+}
+
+.hotels-layout .content-wrapper .list-info .link:hover {
+    background-color: #E91E63
+}
+
+.hotels-layout .content-wrapper .list-info .share-social-list .link-social:hover {
+    background-color: #E91E63
+}
+
+.hotels-layout .content-wrapper > .content .title .price {
+    color: #E91E63
+}
+
+.hotels-layout .content-wrapper > .content .group-btn-tours:hover {
+    background-color: #E91E63
+}
+
+.new-layout .content-wrapper .title:hover {
+    color: #E91E63
+}
+
+.new-layout .content-wrapper .info li .link:hover {
+    color: #E91E63
+}
+
+.cruises-layout .content-wrapper .title:hover {
+    color: #E91E63
+}
+
+.cruises-layout .content-wrapper .price {
+    color: #E91E63
+}
+
+.special-offer-layout .image-wrapper .title-wrapper .title:before {
+    background: #E91E63
+}
+
+.special-offer-layout .image-wrapper .title-wrapper .title:hover {
+    color: #E91E63
+}
+
+.categories-widget li.single-widget-item:hover .category,
+.categories-widget li.single-widget-item:hover .count {
+    color: #E91E63
+}
+
+.mozilla5 .homepage-default .group-title .title,
+.safari .homepage-default .group-title .title {
+    background: -webkit-linear-gradient(left, #fff 0%, #fff 15%, #fff 35%, #fff 50%, #fff 85%, #E91E63 90%, #fff 100%);
+    background: linear-gradient(to right, #fff 0%, #fff 15%, #fff 35%, #fff 50%, #fff 85%, #E91E63 90%, #fff 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-animation: color-text 5s infinite
+}
+
+.box-media:hover .icons {
+    background: #E91E63;
+    border: 1px solid #E91E63
+}
+
+.tours-wrapper .tours-list .slick-dots li button:hover {
+    border: 1px solid #E91E63
+}
+
+.tours-wrapper .tours-list .slick-dots li button:hover:before {
+    color: #E91E63
+}
+
+.tours-wrapper .tours-list .slick-dots li.slick-active button {
+    border: 1px solid #E91E63
+}
+
+.tours-wrapper .tours-list .slick-dots li.slick-active button:before {
+    color: #E91E63
+}
+
+.travelers .traveler-list .slick-dots li button:hover {
+    border: 1px solid #E91E63
+}
+
+.travelers .traveler-list .slick-dots li button:hover:before {
+    color: #E91E63
+}
+
+.travelers .traveler-list .slick-dots li.slick-active button {
+    border: 1px solid #E91E63
+}
+
+.travelers .traveler-list .slick-dots li.slick-active button:before {
+    color: #E91E63
+}
+
+.traveler .wrapper-content .name {
+    color: #E91E63
+}
+
+.news .news-list .slick-dots li button:hover {
+    border: 1px solid #E91E63
+}
+
+.news .news-list .slick-dots li button:hover:before {
+    color: #E91E63
+}
+
+.news .news-list .slick-dots li.slick-active button {
+    border: 1px solid #E91E63
+}
+
+.news .news-list .slick-dots li.slick-active button:before {
+    color: #E91E63
+}
+
+.text-salebox .text-left .sale-box .number {
+    color: #E91E63
+}
+
+.text-salebox .text-left .sale-box .sup-1 {
+    color: #E91E63
+}
+
+.a-fact-image-wrapper .a-fact-image .icons:hover {
+    background: #E91E63;
+    border: 2px solid #E91E63
+}
+
+.contact-box {
+    background-color: #E91E63
+}
+
+.item-blog-detail .blog-text .sideline:after {
+    background-color: #E91E63
+}
+
+.item-blog-detail .blog-text .blog-comment .comment-list .media-right .btn.btn-crystal:hover {
+    color: #E91E63
+}
+
+.stars-rating a.star-1:before,
+.stars-rating a.star-2:before,
+.stars-rating a.star-3:before,
+.stars-rating a.star-4:before,
+.stars-rating a.star-5:before {
+    color: #E91E63
+}
+
+.schedule-block .element {
+    background-color: #E91E63
+}
+
+.timeline-title span {
+    background-color: #E91E63
+}
+
+.contact-list-media:hover .icons {
+    background: #E91E63;
+    border: 1px solid #E91E63
+}
+
+.map-block .map-info p.mail:hover a {
+    color: #E91E63
+}
+
+.map-block .map-info .footer-block {
+    background-color: #E91E63
+}
+
+.map-block .map-info .footer-block .btn-open-map:hover {
+    border: 1px solid #E91E63
+}
+
+.list-continent-wrapper .continent:before {
+    background-color: #E91E63;
+    border: 1px solid #E91E63
+}
+
+.special-offer-list .slick-dots li button:hover {
+    border: 1px solid #E91E63
+}
+
+.special-offer-list .slick-dots li button:hover:before {
+    color: #E91E63
+}
+
+.special-offer-list .slick-dots li.slick-active button {
+    border: 1px solid #E91E63
+}
+
+.special-offer-list .slick-dots li.slick-active button:before {
+    color: #E91E63
+}
+
+.our-content .our-icon {
+    color: #E91E63
+}
+
+.content-expert .caption-expert {
+    background-color: #E91E63
+}
+
+.content-tours .wrapper-thin:hover .icon-thin {
+    color: #E91E63
+}
+
+.content-tours .wrapper-thin:hover .tours-title {
+    color: #E91E63
+}
+
+.content-organization:hover .wrapper-img {
+    border: 1px solid #E91E63
+}
+
+.content-organization .organization-title .title:hover {
+    color: #E91E63
+}
+
+.content-organization .content-widget .link:hover {
+    color: #E91E63
+}
+
+.flight-result-main .date-selection .btn-wrapper .btn-select:hover {
+    color: #E91E63;
+    border-color: #E91E63
+}
+
+.blog-post .blog-content .heading:hover {
+    color: #E91E63
+}
+
+.blog-post .blog-content .quote-wrapper .quote:hover {
+    color: #E91E63
+}
+
+.wrapper-car-result .car-wigdet .car-item:hover {
+    color: #E91E63
+}
+
+.item-list-style06 .wrapper-car-result .car-wigdet .car-item:hover span {
+    color: #E91E63
+}
+
+.item-list-style06 .wrapper-car-result .car-wigdet .car-item:hover > .car-icon {
+    color: #E91E63
+}
+
+.car-price-wrapper {
+    background-color: #E91E63
+}
+
+.wrapper-driver-detail .driver-title {
+    background-color: #E91E63
+}
+
+.form-check-img .input-check:checked ~ .img-radio:before {
+    border: 2px solid #E91E63
+}
+
+.wrapper-accordion .panel.active .panel-heading {
+    background-color: #E91E63
+}
+
+.wrapper-caption-team .wrapper-team-title .team-title:hover {
+    color: #E91E63
+}
+
+.wrapper-caption-team .wrapper-team-title .team-title-andress .item-andress:hover {
+    color: #E91E63
+}
+
+.team-purchase .title-yellow {
+    color: #E91E63
+}
+
+.main-position .list-info .link:hover {
+    background-color: #E91E63
+}
+
+.group-number .about-us-list li:hover .text {
+    color: #E91E63
+}
+
+.group-number .about-us-list li:hover .text:after {
+    color: #E91E63
+}
+
+.group-number .about-us-list li:hover .text-number {
+    color: #E91E63
+}
+
+.wrapper-llc .list-llc .item:hover {
+    color: #E91E63
+}
+
+.view-more .more {
+    color: #E91E63
+}
+
+.datepicker thead .next:hover:before,
+.datepicker thead .prev:hover:before {
+    background-color: #E91E63
+}
+
+.datepicker tbody td.day.active:before,
+.datepicker tbody td.day.range-end:before,
+.datepicker tbody td.day.range-start:before {
+    background-color: #E91E63
+}
+
+.title-style-2 span {
+    color: #E91E63
+}
+
+.star-rating span {
+    color: #E91E63
+}
+
+.slz-woocommerce .type-product .onsale {
+    background-color: #E91E63
+}
+
+.slz-woocommerce .type-product .entry-summary .price > .amount {
+    color: #E91E63
+}
+
+.slz-woocommerce .type-product .entry-summary .single_add_to_cart_button,
+.slz-woocommerce .type-product .entry-summary .single_add_to_cart_button::before {
+    color: #E91E63
+}
+
+.slz-woocommerce .type-product .entry-summary .single_add_to_cart_button:hover {
+    background-color: #E91E63
+}
+
+.slz-woocommerce .type-product .upsells h2::after {
+    background-color: #E91E63
+}
+
+.slz-woocommerce .type-product .related h2::after {
+    background-color: #E91E63
+}
+
+.woocommerce ul.products li.type-product .onsale,
+.slz-woocommerce ul.products li.type-product .onsale {
+    background-color: #E91E63
+}
+
+.slz-woocommerce a.button:hover,
+.slz-woocommerce a.button:focus {
+    background-color: #E91E63
+}
+
+.slz-woocommerce a.button {
+    color: #E91E63
+}
+
+.woocommerce .products .type-product .price > .amount,
+.slz-woocommerce .products .type-product .price > .amount {
+    color: #E91E63
+}
+
+.slz-woocommerce .products .type-product .price ins .amount {
+    color: #E91E63
+}
+
+.slz-woocommerce .products .type-product .price ins {
+    color: #E91E63
+}
+
+.slz-woocommerce .products .type-product h3:hover {
+    color: #E91E63
+}
+
+.woocommerce a.button:hover,
+.woocommerce a.button:focus,
+.woocommerce a.button.alt:hover {
+    background-color: #E91E63
+}
+
+.woocommerce a.button,
+.woocommerce a.button.alt,
+.woocommerce a:focus,
+.woocommerce a:hover,
+.woocommerce a:active {
+    color: #E91E63
+}
+
+.woocommerce table.shop_table a.remove {
+    color: #E91E63
+}
+
+.woocommerce table.shop_table td.product-name a:hover {
+    color: #E91E63
+}
+
+.woocommerce a.remove {
+    color: #E91E63!important
+}
+
+.woocommerce ul.products li.product .price ins .amount {
+    color: #E91E63
+}
+
+.woocommerce ul.products li.product .price ins {
+    color: #E91E63
+}
+
+.woocommerce ul.products li.product .button::before {
+    color: #E91E63
+}
+
+.woocommerce ul.products li.product h3:hover {
+    color: #E91E63
+}
+
+.woocommerce .star-rating::before {
+    color: #E91E63
+}
+
+.woocommerce input#submit {
+    color: #E91E63
+}
+
+.woocommerce #respond input#submit:hover {
+    background-color: #E91E63
+}
+
+.woocommerce table.shop_table thead tr th {
+    background-color: #E91E63
+}
+
+.status-publish.hentry .woocommerce h2::after {
+    background-color: #E91E63
+}
+
+.yith-wcwl-add-to-wishlist .add_to_wishlist:hover {
+    background-color: #E91E63;
+    border: 2px solid #E91E63
+}
+
+.yith-wcwl-add-to-wishlist .yith-wcwl-wishlistexistsbrowse a {
+    color: #E91E63
+}
+
+.slz-woocommerce div.product .woocommerce-tabs ul.tabs > li.active > a,
+.slz-woocommerce div.product .woocommerce-tabs ul.tabs > li > a:focus {
+    color: #E91E63
+}
+
+.slz-woocommerce div.product .woocommerce-tabs ul.tabs > li a::before,
+.slz-woocommerce div.product .woocommerce-tabs ul.tabs > li a::after {
+    background-color: #E91E63
+}
+
+.slz-woocommerce div.product .woocommerce-tabs ul.tabs > li > a:hover {
+    color: #E91E63
+}
+
+.slz-woocommerce input#submit:hover {
+    background-color: #E91E63
+}
+
+.slz-woocommerce a.added_to_cart:focus {
+    background-color: #E91E63
+}
+
+.slz-woocommerce a.added_to_cart:hover {
+    background-color: #E91E63
+}
+
+.slz-woocommerce .added_to_cart.wc-forward {
+    color: #E91E63
+}
+
+.slz-woocommerce ul.yith_magnifier_gallery > button.slick-prev:hover,
+.slz-woocommerce ul.yith_magnifier_gallery > button.slick-next:hover {
+    border-color: #E91E63;
+    background-color: #E91E63
+}
+
+.slz-woocommerce input#submit {
+    color: #E91E63
+}
+
+p.stars a.star-1::after,
+p.stars a.star-2::after,
+p.stars a.star-3::after,
+p.stars a.star-4::after,
+p.stars a.star-5::after {
+    color: #E91E63
+}
+
+span.product-title:hover,
+span.product-title:active,
+span.product-title:focus {
+    color: #E91E63
+}
+
+.woocommerce.widget_top_rated_products .product_list_widget .amount {
+    color: #E91E63
+}
+
+.woocommerce.widget_product_search .woocommerce-product-search input[type="submit"]:hover {
+    background-color: #E91E63
+}
+
+.woocommerce #respond input#submit,
+.woocommerce.widget_product_search .woocommerce-product-search input[type="submit"],
+.woocommerce.widget_products .product_list_widget .amount,
+.woocommerce ul.product_list_widget li .quantity .amount,
+.woocommerce .widget_shopping_cart .total .amount,
+.woocommerce.widget_shopping_cart .total .amount {
+    color: #E91E63
+}
+
+.woocommerce .widget_shopping_cart .cart_list li a.remove,
+.woocommerce.widget_shopping_cart .cart_list li a.remove,
+.woocommerce a.remove {
+    color: #E91E63!important
+}
+
+.woocommerce ul.products > button.slick-prev:hover,
+.slz-woocommerce ul.products > button.slick-prev:hover,
+.woocommerce ul.products > button.slick-next:hover,
+.slz-woocommerce ul.products > button.slick-next:hover {
+    border-color: #E91E63;
+    background-color: #E91E63
+}
+
+.about-us-wrapper .avatar:hover .image-wrapper {
+    border: 1px solid #E91E63
+}
+
+.contact-list-media .title:hover {
+    color: #E91E63
+}
+
+.car-rent-layout .content-wrapper .title:hover,
+.car-rent-layout-2 .content-wrapper .title:hover {
+    color: #E91E63
+}
+
+.car-rent-layout .content-wrapper .price,
+.car-rent-layout-2 .content-wrapper .price {
+    color: #E91E63
+}
+
+.contact-list-media .title:hover {
+    color: #E91E63
+}
+
+.blog-author-content .media-right .author:hover {
+    color: #E91E63
+}
+
+.sideline::after {
+    background-color: #E91E63
+}
+
+.stars-rating .review.star-1::before,
+.stars-rating .review.star-2::before,
+.stars-rating .review.star-3::before,
+.stars-rating .review.star-4::before,
+.stars-rating .review.star-5::before {
+    color: #E91E63
+}
+
+.sc_gallery .a-fact-image-wrapper .a-fact-image.active .icons {
+    background-color: #E91E63;
+    border-color: #E91E63
+}
+
+.homepage-04 .form-subscribe-email .btn-email {
+    background-color: #E91E63
+}
+
+.group-btn .btn-click {
+    color: #E91E63
+}
+
+.group-btn .btn-click .icons {
+    color: #E91E63
+}
+
+.slz-search-widget .widget a.btn-reset {
+    color: #E91E63
+}
+
+.result-meta .result-count-wrapper a.btn-reset-all {
+    color: #E91E63
+}
+
+.page-title .page-title-wrapper .breadcrumb {
+    border-bottom: 1px solid #E91E63
+}
+
+.mega-menu-content {
+    border-bottom: 2px solid #E91E63
+}
+
+.page-404 .btn.btn-maincolor {
+    background-color: #E91E63;
+    border: 1px solid #E91E63
+}
+
+.result-meta .result-count-wrapper span {
+    background-color: #E91E63
+}
+
+.result-meta a.btn-reset-all {
+    color: #E91E63
+}
+
+.woocommerce table.shop_table td.actions .button[name="apply_coupon"]:hover {
+    border: 2px solid #E91E63;
+    background-color: #E91E63
+}
+
+.woocommerce table.shop_table td.actions .button:hover {
+    background-color: #E91E63
+}
+
+.woocommerce input.button:hover {
+    background-color: #E91E63
+}
+
+.woocommerce input.button {
+    color: #E91E63
+}
+
+.slz-woocommerce input.button:hover {
+    background-color: #E91E63
+}
+
+.slz-woocommerce input.button {
+    color: #E91E63
+}
+
+.slz-booking-wrapper .table-responsive .table tr:first-child {
+    color: #E91E63
+}
+.slz-woocommerce .type-product .entry-summary .price ins, 
+.slz-woocommerce .type-product .entry-summary .price > .amount {
+    color:#E91E63
+}
+.btn-share-social:hover .btn-share {
+    background-color: #E91E63;
+    border-color: #E91E63;
+}
+.hotels-layout .content-wrapper .list-info .share-social-list .link-social:hover, 
+.tours-layout .content-wrapper .list-info .share-social-list .link-social:hover {
+    background-color: #E91E63;
+}
+.tour-view-main .tours-layout .content-wrapper .list-info > li .link,
+.hotel-view-main .tours-layout .content-wrapper .list-info > li .link {
+  background-color: #E91E63;
+}
+.tour-view-main .tours-layout .content-wrapper .list-info li .link:hover,
+.hotel-view-main .tours-layout .content-wrapper .list-info li .link:hover {
+  background-color: #E91E63;
+}
+.tour-view-main .slz-shortcode.tours-wrapper .tours-layout .content-wrapper .list-info li .link:hover,
+.hotel-view-main .slz-shortcode.tours-wrapper .tours-layout .content-wrapper .list-info li .link:hover {
+  background-color: #E91E63;
+}
+.cruises-result-detail .btn-share-social:hover .btn-share,
+.car-detail-main .btn-share-social:hover .btn-share {
+    background-color: #E91E63;
+    border-color: #E91E63;
+}
+.sc-map-location.slz-map-location-full .find-widget::before{
+	background-color: #E91E63;
+}
+#infowindow span::after{
+	color: #E91E63;
+}

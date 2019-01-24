@@ -1,0 +1,973 @@
+a:active,
+a:focus,
+a:hover {
+    color: #F1C40F
+}
+
+.spinner > div {
+    background-color: #F1C40F
+}
+
+.bg-transparent .header-topbar .topbar-left li:hover i,
+.bg-transparent .header-topbar .topbar-left li:hover span {
+    color: #F1C40F
+}
+
+.bg-transparent .header-main.header-fixed .nav-search form .searchbutton {
+    background-color: #F1C40F
+}
+
+.bg-white .header-topbar .topbar-left li:hover i,
+.bg-white .header-topbar .topbar-left li:hover span {
+    color: #F1C40F
+}
+
+.header-03 .header-topbar .btn-menu:hover .icons,
+.header-03 .header-topbar .btn-menu:hover .text {
+    color: #F1C40F
+}
+
+.header-topbar a:hover,
+.header-topbar p:hover,
+.header-topbar span:hover {
+    color: #F1C40F
+}
+
+.header-topbar .topbar-left > li:hover i,
+.header-topbar .topbar-left > li:hover span {
+    color: #F1C40F
+}
+
+.navigation .nav-links li.active .main-menu,
+.navigation .nav-links li:hover .main-menu {
+    color: #F1C40F
+}
+
+.navigation .nav-links li:hover .main-menu .icons-dropdown i {
+    color: #F1C40F
+}
+
+.navigation .nav-links .main-menu:after,
+.navigation .nav-links .main-menu:before {
+    background-color: #F1C40F
+}
+
+.bg-transparent .navigation .nav-links li.active .main-menu,
+.bg-transparent .navigation .nav-links li:hover .main-menu {
+    color: #F1C40F!important
+}
+
+.bg-white .navigation .nav-links li.active .main-menu,
+.bg-white .navigation .nav-links li:hover .main-menu {
+    color: #F1C40F!important
+}
+
+.dropdown-menu-1,
+.dropdown-menu-2 {
+    border-bottom: 2px solid #F1C40F
+}
+
+.wrapper-mobile-nav {
+    background: #F1C40F
+}
+
+.wrapper-mobile-nav .header-main .login-widget .item:hover {
+    background-color: #F1C40F
+}
+
+.menu-mobile .main-menu {
+    background-color: #F1C40F
+}
+
+.menu-mobile .main-menu:active,
+.menu-mobile .main-menu:hover {
+    background-color: #F1C40F
+}
+
+.contact-us-widget .info-list ul li .link:hover {
+    color: #F1C40F
+}
+
+.contact-us-widget .info-list > div .link:hover span {
+    color: #F1C40F
+}
+
+.form-email .btn-email {
+    background-color: #F1C40F
+}
+
+.booking-widget ul li .link:before {
+    color: #F1C40F
+}
+
+.booking-widget ul li:hover .link {
+    color: #F1C40F
+}
+
+.explore-widget ul li:hover .link,
+.top-deals-widget ul li:hover .link {
+    color: #F1C40F
+}
+
+.find-widget {
+    background-color: #F1C40F
+}
+
+.find-widget .submit-btn-wrapper .submit-btn {
+    color: #F1C40F
+}
+
+.find-widget .submit-btn-wrapper .text {
+    color: #F1C40F
+}
+
+.tab-search-condensed {
+    background-color: #F1C40F
+}
+
+.flight-time-widget .flight-time-visual-widget .visual .bar .arrive.indicator,
+.flight-time-widget .flight-time-visual-widget .visual .bar .depart.indicator {
+    background-color: #F1C40F
+}
+
+.price-widget .nstSlider .leftGrip.indicator,
+.price-widget .nstSlider .rightGrip.indicator {
+    background-color: #F1C40F
+}
+
+.tab-search .tab-btn-wrapper .tab-btn:active,
+.tab-search .tab-btn-wrapper .tab-btn:focus,
+.tab-search .tab-btn-wrapper .tab-btn:hover {
+    background-color: #F1C40F
+}
+
+.tab-search .tab-btn-wrapper.active .tab-btn {
+    background-color: #F1C40F
+}
+
+.tab-search-default .tab-btn-wrapper .tab-btn i {
+    color: #F1C40F
+}
+
+.tab-search-default .tab-content-bg {
+    background-color: #F1C40F
+}
+
+.tab-search-condensed .tab-btn-wrapper .tab-btn {
+    color: #F1C40F
+}
+
+.tab-search-condensed .tab-btn-wrapper .tab-btn i {
+    color: #F1C40F
+}
+
+.fds-widget .price-select.yellow {
+    background-color: #F1C40F
+}
+
+.single-flight-result form.flight-class .class-selection-wrapper label.radio-box span.text-wrapper span.price {
+    color: #F1C40F
+}
+
+.social-widget ul li a.social-icon:hover {
+    border-color: #F1C40F;
+    background-color: #F1C40F
+}
+
+.bg-blue-gradient .link:hover {
+    color: #F1C40F!important
+}
+
+.subscribe-email {
+    background-color: #F1C40F
+}
+
+.form-subscribe-email .btn-email {
+    color: #F1C40F
+}
+
+.page-title-wrapper .breadcrumb li .link:hover {
+    color: #F1C40F
+}
+
+.page-title-wrapper .breadcrumb li.active .link:after {
+    background-color: #F1C40F
+}
+
+.page-title-wrapper .price .number {
+    color: #F1C40F
+}
+
+.page-title-wrapper .price .unit {
+    color: #F1C40F
+}
+
+.page-title-wrapper .breadcrumb {
+    border-bottom: 1px solid #F1C40F
+}
+
+.page-title-wrapper .breadcrumb li .link:hover {
+    color: #F1C40F
+}
+
+.page-title-wrapper .price .number {
+    color: #F1C40F
+}
+
+.page-title-wrapper .price .unit {
+    color: #F1C40F
+}
+
+.group-title .sub-title .icons:after {
+    background-color: #F1C40F
+}
+
+.title-style-2:after {
+    background-color: #F1C40F
+}
+
+.btn.btn-maincolor {
+    background-color: #F1C40F;
+    border: 1px solid #F1C40F
+}
+
+.btn.btn-gray:hover {
+    background-color: #F1C40F;
+    border: 1px solid #F1C40F
+}
+
+.btn-slide {
+    color: #F1C40F
+}
+
+.btn-slide .text {
+    color: #F1C40F
+}
+
+.btn-slide .icons {
+    color: #F1C40F
+}
+
+.btn-slide:before {
+    color: #F1C40F
+}
+
+#back-top .link {
+    border: 2px solid #F1C40F;
+    color: #F1C40F
+}
+
+#back-top .link:hover {
+    background-color: #F1C40F
+}
+
+.stars:after {
+    color: #F1C40F
+}
+
+.label-sale {
+    background-color: #F1C40F
+}
+
+.tours-layout .image-wrapper .title-wrapper .title:before {
+    background: #F1C40F
+}
+
+.tours-layout .image-wrapper .title-wrapper .title:hover {
+    color: #F1C40F
+}
+
+.tours-layout .content-wrapper .list-info li .link:hover {
+    background-color: #F1C40F
+}
+
+.tours-layout .content-wrapper > .content .title .price {
+    color: #F1C40F
+}
+
+.tours-layout .content-wrapper > .content .group-btn-tours .left-btn:hover,
+.tours-layout .content-wrapper > .content .group-btn-tours .right-btn:hover {
+    background-color: #F1C40F
+}
+
+.hotels-layout .image-wrapper .title-wrapper .title:before {
+    background: #F1C40F
+}
+
+.hotels-layout .image-wrapper .title-wrapper .title:hover {
+    color: #F1C40F
+}
+
+.hotels-layout .content-wrapper .list-info .link:hover {
+    background-color: #F1C40F
+}
+
+.hotels-layout .content-wrapper .list-info .share-social-list .link-social:hover {
+    background-color: #F1C40F
+}
+
+.hotels-layout .content-wrapper > .content .title .price {
+    color: #F1C40F
+}
+
+.hotels-layout .content-wrapper > .content .group-btn-tours:hover {
+    background-color: #F1C40F
+}
+
+.new-layout .content-wrapper .title:hover {
+    color: #F1C40F
+}
+
+.new-layout .content-wrapper .info li .link:hover {
+    color: #F1C40F
+}
+
+.cruises-layout .content-wrapper .title:hover {
+    color: #F1C40F
+}
+
+.cruises-layout .content-wrapper .price {
+    color: #F1C40F
+}
+
+.special-offer-layout .image-wrapper .title-wrapper .title:before {
+    background: #F1C40F
+}
+
+.special-offer-layout .image-wrapper .title-wrapper .title:hover {
+    color: #F1C40F
+}
+
+.categories-widget li.single-widget-item:hover .category,
+.categories-widget li.single-widget-item:hover .count {
+    color: #F1C40F
+}
+
+.mozilla5 .homepage-default .group-title .title,
+.safari .homepage-default .group-title .title {
+    background: -webkit-linear-gradient(left, #fff 0%, #fff 15%, #fff 35%, #fff 50%, #fff 85%, #F1C40F 90%, #fff 100%);
+    background: linear-gradient(to right, #fff 0%, #fff 15%, #fff 35%, #fff 50%, #fff 85%, #F1C40F 90%, #fff 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-animation: color-text 5s infinite
+}
+
+.box-media:hover .icons {
+    background: #F1C40F;
+    border: 1px solid #F1C40F
+}
+
+.tours-wrapper .tours-list .slick-dots li button:hover {
+    border: 1px solid #F1C40F
+}
+
+.tours-wrapper .tours-list .slick-dots li button:hover:before {
+    color: #F1C40F
+}
+
+.tours-wrapper .tours-list .slick-dots li.slick-active button {
+    border: 1px solid #F1C40F
+}
+
+.tours-wrapper .tours-list .slick-dots li.slick-active button:before {
+    color: #F1C40F
+}
+
+.travelers .traveler-list .slick-dots li button:hover {
+    border: 1px solid #F1C40F
+}
+
+.travelers .traveler-list .slick-dots li button:hover:before {
+    color: #F1C40F
+}
+
+.travelers .traveler-list .slick-dots li.slick-active button {
+    border: 1px solid #F1C40F
+}
+
+.travelers .traveler-list .slick-dots li.slick-active button:before {
+    color: #F1C40F
+}
+
+.traveler .wrapper-content .name {
+    color: #F1C40F
+}
+
+.news .news-list .slick-dots li button:hover {
+    border: 1px solid #F1C40F
+}
+
+.news .news-list .slick-dots li button:hover:before {
+    color: #F1C40F
+}
+
+.news .news-list .slick-dots li.slick-active button {
+    border: 1px solid #F1C40F
+}
+
+.news .news-list .slick-dots li.slick-active button:before {
+    color: #F1C40F
+}
+
+.text-salebox .text-left .sale-box .number {
+    color: #F1C40F
+}
+
+.text-salebox .text-left .sale-box .sup-1 {
+    color: #F1C40F
+}
+
+.a-fact-image-wrapper .a-fact-image .icons:hover {
+    background: #F1C40F;
+    border: 2px solid #F1C40F
+}
+
+.contact-box {
+    background-color: #F1C40F
+}
+
+.item-blog-detail .blog-text .sideline:after {
+    background-color: #F1C40F
+}
+
+.item-blog-detail .blog-text .blog-comment .comment-list .media-right .btn.btn-crystal:hover {
+    color: #F1C40F
+}
+
+.stars-rating a.star-1:before,
+.stars-rating a.star-2:before,
+.stars-rating a.star-3:before,
+.stars-rating a.star-4:before,
+.stars-rating a.star-5:before {
+    color: #F1C40F
+}
+
+.schedule-block .element {
+    background-color: #F1C40F
+}
+
+.timeline-title span {
+    background-color: #F1C40F
+}
+
+.contact-list-media:hover .icons {
+    background: #F1C40F;
+    border: 1px solid #F1C40F
+}
+
+.map-block .map-info p.mail:hover a {
+    color: #F1C40F
+}
+
+.map-block .map-info .footer-block {
+    background-color: #F1C40F
+}
+
+.map-block .map-info .footer-block .btn-open-map:hover {
+    border: 1px solid #F1C40F
+}
+
+.list-continent-wrapper .continent:before {
+    background-color: #F1C40F;
+    border: 1px solid #F1C40F
+}
+
+.special-offer-list .slick-dots li button:hover {
+    border: 1px solid #F1C40F
+}
+
+.special-offer-list .slick-dots li button:hover:before {
+    color: #F1C40F
+}
+
+.special-offer-list .slick-dots li.slick-active button {
+    border: 1px solid #F1C40F
+}
+
+.special-offer-list .slick-dots li.slick-active button:before {
+    color: #F1C40F
+}
+
+.our-content .our-icon {
+    color: #F1C40F
+}
+
+.content-expert .caption-expert {
+    background-color: #F1C40F
+}
+
+.content-tours .wrapper-thin:hover .icon-thin {
+    color: #F1C40F
+}
+
+.content-tours .wrapper-thin:hover .tours-title {
+    color: #F1C40F
+}
+
+.content-organization:hover .wrapper-img {
+    border: 1px solid #F1C40F
+}
+
+.content-organization .organization-title .title:hover {
+    color: #F1C40F
+}
+
+.content-organization .content-widget .link:hover {
+    color: #F1C40F
+}
+
+.flight-result-main .date-selection .btn-wrapper .btn-select:hover {
+    color: #F1C40F;
+    border-color: #F1C40F
+}
+
+.blog-post .blog-content .heading:hover {
+    color: #F1C40F
+}
+
+.blog-post .blog-content .quote-wrapper .quote:hover {
+    color: #F1C40F
+}
+
+.wrapper-car-result .car-wigdet .car-item:hover {
+    color: #F1C40F
+}
+
+.item-list-style06 .wrapper-car-result .car-wigdet .car-item:hover span {
+    color: #F1C40F
+}
+
+.item-list-style06 .wrapper-car-result .car-wigdet .car-item:hover > .car-icon {
+    color: #F1C40F
+}
+
+.car-price-wrapper {
+    background-color: #F1C40F
+}
+
+.wrapper-driver-detail .driver-title {
+    background-color: #F1C40F
+}
+
+.form-check-img .input-check:checked ~ .img-radio:before {
+    border: 2px solid #F1C40F
+}
+
+.wrapper-accordion .panel.active .panel-heading {
+    background-color: #F1C40F
+}
+
+.wrapper-caption-team .wrapper-team-title .team-title:hover {
+    color: #F1C40F
+}
+
+.wrapper-caption-team .wrapper-team-title .team-title-andress .item-andress:hover {
+    color: #F1C40F
+}
+
+.team-purchase .title-yellow {
+    color: #F1C40F
+}
+
+.main-position .list-info .link:hover {
+    background-color: #F1C40F
+}
+
+.group-number .about-us-list li:hover .text {
+    color: #F1C40F
+}
+
+.group-number .about-us-list li:hover .text:after {
+    color: #F1C40F
+}
+
+.group-number .about-us-list li:hover .text-number {
+    color: #F1C40F
+}
+
+.wrapper-llc .list-llc .item:hover {
+    color: #F1C40F
+}
+
+.view-more .more {
+    color: #F1C40F
+}
+
+.datepicker thead .next:hover:before,
+.datepicker thead .prev:hover:before {
+    background-color: #F1C40F
+}
+
+.datepicker tbody td.day.active:before,
+.datepicker tbody td.day.range-end:before,
+.datepicker tbody td.day.range-start:before {
+    background-color: #F1C40F
+}
+
+.title-style-2 span {
+    color: #F1C40F
+}
+
+.star-rating span {
+    color: #F1C40F
+}
+
+.slz-woocommerce .type-product .onsale {
+    background-color: #F1C40F
+}
+
+.slz-woocommerce .type-product .entry-summary .price > .amount {
+    color: #F1C40F
+}
+
+.slz-woocommerce .type-product .entry-summary .single_add_to_cart_button,
+.slz-woocommerce .type-product .entry-summary .single_add_to_cart_button::before {
+    color: #F1C40F
+}
+
+.slz-woocommerce .type-product .entry-summary .single_add_to_cart_button:hover {
+    background-color: #F1C40F
+}
+
+.slz-woocommerce .type-product .upsells h2::after {
+    background-color: #F1C40F
+}
+
+.slz-woocommerce .type-product .related h2::after {
+    background-color: #F1C40F
+}
+
+.woocommerce ul.products li.type-product .onsale,
+.slz-woocommerce ul.products li.type-product .onsale {
+    background-color: #F1C40F
+}
+
+.slz-woocommerce a.button:hover,
+.slz-woocommerce a.button:focus {
+    background-color: #F1C40F
+}
+
+.slz-woocommerce a.button {
+    color: #F1C40F
+}
+
+.woocommerce .products .type-product .price > .amount,
+.slz-woocommerce .products .type-product .price > .amount {
+    color: #F1C40F
+}
+
+.slz-woocommerce .products .type-product .price ins .amount {
+    color: #F1C40F
+}
+
+.slz-woocommerce .products .type-product .price ins {
+    color: #F1C40F
+}
+
+.slz-woocommerce .products .type-product h3:hover {
+    color: #F1C40F
+}
+
+.woocommerce a.button:hover,
+.woocommerce a.button:focus,
+.woocommerce a.button.alt:hover {
+    background-color: #F1C40F
+}
+
+.woocommerce a.button,
+.woocommerce a.button.alt,
+.woocommerce a:focus,
+.woocommerce a:hover,
+.woocommerce a:active {
+    color: #F1C40F
+}
+
+.woocommerce table.shop_table a.remove {
+    color: #F1C40F
+}
+
+.woocommerce table.shop_table td.product-name a:hover {
+    color: #F1C40F
+}
+
+.woocommerce a.remove {
+    color: #F1C40F!important
+}
+
+.woocommerce ul.products li.product .price ins .amount {
+    color: #F1C40F
+}
+
+.woocommerce ul.products li.product .price ins {
+    color: #F1C40F
+}
+
+.woocommerce ul.products li.product .button::before {
+    color: #F1C40F
+}
+
+.woocommerce ul.products li.product h3:hover {
+    color: #F1C40F
+}
+
+.woocommerce .star-rating::before {
+    color: #F1C40F
+}
+
+.woocommerce input#submit {
+    color: #F1C40F
+}
+
+.woocommerce #respond input#submit:hover {
+    background-color: #F1C40F
+}
+
+.woocommerce table.shop_table thead tr th {
+    background-color: #F1C40F
+}
+
+.status-publish.hentry .woocommerce h2::after {
+    background-color: #F1C40F
+}
+
+.yith-wcwl-add-to-wishlist .add_to_wishlist:hover {
+    background-color: #F1C40F;
+    border: 2px solid #F1C40F
+}
+
+.yith-wcwl-add-to-wishlist .yith-wcwl-wishlistexistsbrowse a {
+    color: #F1C40F
+}
+
+.slz-woocommerce div.product .woocommerce-tabs ul.tabs > li.active > a,
+.slz-woocommerce div.product .woocommerce-tabs ul.tabs > li > a:focus {
+    color: #F1C40F
+}
+
+.slz-woocommerce div.product .woocommerce-tabs ul.tabs > li a::before,
+.slz-woocommerce div.product .woocommerce-tabs ul.tabs > li a::after {
+    background-color: #F1C40F
+}
+
+.slz-woocommerce div.product .woocommerce-tabs ul.tabs > li > a:hover {
+    color: #F1C40F
+}
+
+.slz-woocommerce input#submit:hover {
+    background-color: #F1C40F
+}
+
+.slz-woocommerce a.added_to_cart:focus {
+    background-color: #F1C40F
+}
+
+.slz-woocommerce a.added_to_cart:hover {
+    background-color: #F1C40F
+}
+
+.slz-woocommerce .added_to_cart.wc-forward {
+    color: #F1C40F
+}
+
+.slz-woocommerce ul.yith_magnifier_gallery > button.slick-prev:hover,
+.slz-woocommerce ul.yith_magnifier_gallery > button.slick-next:hover {
+    border-color: #F1C40F;
+    background-color: #F1C40F
+}
+
+.slz-woocommerce input#submit {
+    color: #F1C40F
+}
+
+p.stars a.star-1::after,
+p.stars a.star-2::after,
+p.stars a.star-3::after,
+p.stars a.star-4::after,
+p.stars a.star-5::after {
+    color: #F1C40F
+}
+
+span.product-title:hover,
+span.product-title:active,
+span.product-title:focus {
+    color: #F1C40F
+}
+
+.woocommerce.widget_top_rated_products .product_list_widget .amount {
+    color: #F1C40F
+}
+
+.woocommerce.widget_product_search .woocommerce-product-search input[type="submit"]:hover {
+    background-color: #F1C40F
+}
+
+.woocommerce #respond input#submit,
+.woocommerce.widget_product_search .woocommerce-product-search input[type="submit"],
+.woocommerce.widget_products .product_list_widget .amount,
+.woocommerce ul.product_list_widget li .quantity .amount,
+.woocommerce .widget_shopping_cart .total .amount,
+.woocommerce.widget_shopping_cart .total .amount {
+    color: #F1C40F
+}
+
+.woocommerce .widget_shopping_cart .cart_list li a.remove,
+.woocommerce.widget_shopping_cart .cart_list li a.remove,
+.woocommerce a.remove {
+    color: #F1C40F!important
+}
+
+.woocommerce ul.products > button.slick-prev:hover,
+.slz-woocommerce ul.products > button.slick-prev:hover,
+.woocommerce ul.products > button.slick-next:hover,
+.slz-woocommerce ul.products > button.slick-next:hover {
+    border-color: #F1C40F;
+    background-color: #F1C40F
+}
+
+.about-us-wrapper .avatar:hover .image-wrapper {
+    border: 1px solid #F1C40F
+}
+
+.contact-list-media .title:hover {
+    color: #F1C40F
+}
+
+.car-rent-layout .content-wrapper .title:hover,
+.car-rent-layout-2 .content-wrapper .title:hover {
+    color: #F1C40F
+}
+
+.car-rent-layout .content-wrapper .price,
+.car-rent-layout-2 .content-wrapper .price {
+    color: #F1C40F
+}
+
+.contact-list-media .title:hover {
+    color: #F1C40F
+}
+
+.blog-author-content .media-right .author:hover {
+    color: #F1C40F
+}
+
+.sideline::after {
+    background-color: #F1C40F
+}
+
+.stars-rating .review.star-1::before,
+.stars-rating .review.star-2::before,
+.stars-rating .review.star-3::before,
+.stars-rating .review.star-4::before,
+.stars-rating .review.star-5::before {
+    color: #F1C40F
+}
+
+.sc_gallery .a-fact-image-wrapper .a-fact-image.active .icons {
+    background-color: #F1C40F;
+    border-color: #F1C40F
+}
+
+.homepage-04 .form-subscribe-email .btn-email {
+    background-color: #F1C40F
+}
+
+.group-btn .btn-click {
+    color: #F1C40F
+}
+
+.group-btn .btn-click .icons {
+    color: #F1C40F
+}
+
+.slz-search-widget .widget a.btn-reset {
+    color: #F1C40F
+}
+
+.result-meta .result-count-wrapper a.btn-reset-all {
+    color: #F1C40F
+}
+
+.page-title .page-title-wrapper .breadcrumb {
+    border-bottom: 1px solid #F1C40F
+}
+
+.mega-menu-content {
+    border-bottom: 2px solid #F1C40F
+}
+
+.page-404 .btn.btn-maincolor {
+    background-color: #F1C40F;
+    border: 1px solid #F1C40F
+}
+
+.result-meta .result-count-wrapper span {
+    background-color: #F1C40F
+}
+
+.result-meta a.btn-reset-all {
+    color: #F1C40F
+}
+
+.woocommerce table.shop_table td.actions .button[name="apply_coupon"]:hover {
+    border: 2px solid #F1C40F;
+    background-color: #F1C40F
+}
+
+.woocommerce table.shop_table td.actions .button:hover {
+    background-color: #F1C40F
+}
+
+.woocommerce input.button:hover {
+    background-color: #F1C40F
+}
+
+.woocommerce input.button {
+    color: #F1C40F
+}
+
+.slz-woocommerce input.button:hover {
+    background-color: #F1C40F
+}
+
+.slz-woocommerce input.button {
+    color: #F1C40F
+}
+
+.slz-booking-wrapper .table-responsive .table tr:first-child {
+    color: #F1C40F
+}
+.slz-woocommerce .type-product .entry-summary .price ins, 
+.slz-woocommerce .type-product .entry-summary .price > .amount {
+    color:#F1C40F
+}
+.btn-share-social:hover .btn-share {
+    background-color: #F1C40F;
+    border-color: #F1C40F;
+}
+.hotels-layout .content-wrapper .list-info .share-social-list .link-social:hover, 
+.tours-layout .content-wrapper .list-info .share-social-list .link-social:hover {
+    background-color: #F1C40F;
+}
+.tour-view-main .tours-layout .content-wrapper .list-info > li .link,
+.hotel-view-main .tours-layout .content-wrapper .list-info > li .link {
+  background-color: #F1C40F;
+}
+.tour-view-main .tours-layout .content-wrapper .list-info li .link:hover,
+.hotel-view-main .tours-layout .content-wrapper .list-info li .link:hover {
+  background-color: #F1C40F;
+}
+.tour-view-main .slz-shortcode.tours-wrapper .tours-layout .content-wrapper .list-info li .link:hover,
+.hotel-view-main .slz-shortcode.tours-wrapper .tours-layout .content-wrapper .list-info li .link:hover {
+  background-color: #F1C40F;
+}
+.cruises-result-detail .btn-share-social:hover .btn-share,
+.car-detail-main .btn-share-social:hover .btn-share {
+    background-color: #F1C40F;
+    border: #F1C40F;
+}
+.sc-map-location.slz-map-location-full .find-widget::before{
+	background-color: #F1C40F;
+}
+#infowindow span::after{
+	color: #F1C40F;
+}

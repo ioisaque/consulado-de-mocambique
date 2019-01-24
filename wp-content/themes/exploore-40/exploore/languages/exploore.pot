@@ -1,0 +1,3591 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-06-23 14:55+0700\n"
+"PO-Revision-Date: 2016-07-20 11:42+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html__;esc_html_e;esc_html_x;_n:1,2;"
+"_n_noop:1,2;_nx:1,2;_nx_noop:1,2;esc_attr__;esc_attr_e;esc_attr_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Section via hook"
+msgstr ""
+
+msgid ""
+"This is a section created by adding a filter to the sections array. Can be "
+"used by child themes to add/remove sections from the options."
+msgstr ""
+
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+msgid "Current theme preview"
+msgstr ""
+
+msgid "By %s"
+msgstr ""
+
+msgid "Version %s"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+msgid "Widget"
+msgstr ""
+
+msgid "Menus"
+msgstr ""
+
+msgid "Icon Page"
+msgstr ""
+
+msgid "Fontawesome"
+msgstr ""
+
+msgid "here"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Layout Display"
+msgstr ""
+
+msgid "Choose type of layout"
+msgstr ""
+
+msgid "This option will change layout for all page of theme."
+msgstr ""
+
+msgid "Fluid"
+msgstr ""
+
+msgid "Boxed"
+msgstr ""
+
+msgid "Body Background"
+msgstr ""
+
+msgid "Site Skin"
+msgstr ""
+
+msgid "Select a site skin"
+msgstr ""
+
+msgid "Header Logo"
+msgstr ""
+
+msgid "Choose logo image"
+msgstr ""
+
+msgid "Header Transparent Logo"
+msgstr ""
+
+msgid "Choose logo image for transparent header"
+msgstr ""
+
+msgid "Footer Logo"
+msgstr ""
+
+msgid "Footer Logo Light"
+msgstr ""
+
+msgid "Header Sticky Enable"
+msgstr ""
+
+msgid "Enable or disable fixed header when scroll"
+msgstr ""
+
+msgid "Back To Top Button"
+msgstr ""
+
+msgid "Setting for back to top button"
+msgstr ""
+
+msgid "Show"
+msgstr ""
+
+msgid "Hide"
+msgstr ""
+
+msgid "Currency Sign"
+msgstr ""
+
+msgid "Where To Show The Currency Sign?"
+msgstr ""
+
+msgid "Choose to show position of the currency symbol?"
+msgstr ""
+
+msgid "Before"
+msgstr ""
+
+msgid "After"
+msgstr ""
+
+msgid "Number of Decimals"
+msgstr ""
+
+msgid "This sets the number of decimal points shown in displayed prices."
+msgstr ""
+
+msgid "Map Google API Key"
+msgstr ""
+
+msgid ""
+"This key is used to run a some feature of Map.Please refer %s to create a key"
+msgstr ""
+
+msgid "Search Box"
+msgstr ""
+
+msgid "Setting for tabs in the \"search box\" on the homepage."
+msgstr ""
+
+msgid "Search Box Info"
+msgstr ""
+
+msgid "Choose what fields to show on search box of home page (tour,hotel...)"
+msgstr ""
+
+msgid "Tour"
+msgstr ""
+
+msgid "Hotel"
+msgstr ""
+
+msgid "Car Rent"
+msgstr ""
+
+msgid "Cruises"
+msgstr ""
+
+msgid "Search Tour Tab Icon"
+msgstr ""
+
+msgid "Please go on \"Exploore->%s\" to referentce about icons of our theme."
+msgstr ""
+
+msgid "Search Hotel Tab Icon"
+msgstr ""
+
+msgid "Search Car Rent Tab Icon"
+msgstr ""
+
+msgid "Search Cruises Tab Icon"
+msgstr ""
+
+msgid "Social"
+msgstr ""
+
+msgid "This part will be used for manage your social network"
+msgstr ""
+
+msgid "Social Page"
+msgstr ""
+
+msgid "These information will be used in footer area"
+msgstr ""
+
+msgid "Facebook"
+msgstr ""
+
+msgid "Twitter"
+msgstr ""
+
+msgid "Googleplus"
+msgstr ""
+
+msgid "Pinterest"
+msgstr ""
+
+msgid "Instagram"
+msgstr ""
+
+msgid "Dribbble"
+msgstr ""
+
+msgid "Social Share Link"
+msgstr ""
+
+msgid ""
+"These information will be used in some shortcodes like hotel, tour, car or "
+"cruise."
+msgstr ""
+
+msgid "LinkedIn"
+msgstr ""
+
+msgid "Digg"
+msgstr ""
+
+msgid "Google Plus"
+msgstr ""
+
+msgid "Header"
+msgstr ""
+
+msgid "This section will change setting for header"
+msgstr ""
+
+msgid "Main Layout"
+msgstr ""
+
+msgid ""
+"Select main content and sidebar alignment. Choose between 1, 2 or 3 column "
+"layout."
+msgstr ""
+
+msgid "Style 1"
+msgstr ""
+
+msgid "Style 2"
+msgstr ""
+
+msgid "Style 3"
+msgstr ""
+
+msgid "Style 4"
+msgstr ""
+
+msgid "Style 5"
+msgstr ""
+
+msgid "Only apply for header style 4"
+msgstr ""
+
+msgid "Search Icon"
+msgstr ""
+
+msgid "Show / Hide search icon in the navigation"
+msgstr ""
+
+msgid "Search Layout"
+msgstr ""
+
+msgid "Header Top"
+msgstr ""
+
+msgid "Configure detailed information for each content in header"
+msgstr ""
+
+msgid "Language Switcher On Header Top"
+msgstr ""
+
+msgid "Show language switcher of plugin WPML on header top"
+msgstr ""
+
+msgid "Settings social for header top"
+msgstr ""
+
+msgid "Social Content"
+msgstr ""
+
+msgid "Social list"
+msgstr ""
+
+msgid ""
+"Only apply for header three.Please go on \"Social\" menu to enter social "
+"link."
+msgstr ""
+
+msgid "Google plus"
+msgstr ""
+
+msgid "Add More Social"
+msgstr ""
+
+msgid ""
+"Please use format: icon / Social Link.<br>Ex: [\"fa fa-facebook\",\"http://"
+"facebook.com\"]"
+msgstr ""
+
+msgid "Show menu"
+msgstr ""
+
+msgid "Show or hide menu in header top."
+msgstr ""
+
+msgid "Menu Position"
+msgstr ""
+
+msgid "Select where display menu in header top."
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Select Menu"
+msgstr ""
+
+msgid ""
+"Select menu for topbar menu. This changes will be apply for all headers."
+msgstr ""
+
+msgid "Other Infomation"
+msgstr ""
+
+msgid "Please use format: icon / Content.<br>Ex: fa fa-phone / +84 909 015 345"
+msgstr ""
+
+msgid "Text Block Content"
+msgstr ""
+
+msgid ""
+"Enter text or HTML for header title content.\n"
+" Ex: <a href=\"tel:123456\"><i class=\"fa fa fa-phone \"></i> 123456</a>"
+msgstr ""
+
+msgid "Account Session"
+msgstr ""
+
+msgid "Choose type account to display or hide on header"
+msgstr ""
+
+msgid "Woocommerce"
+msgstr ""
+
+msgid "Theme"
+msgstr ""
+
+msgid "Menu"
+msgstr ""
+
+msgid "Configuration for main navigation on top"
+msgstr ""
+
+msgid "Main Menu Setting"
+msgstr ""
+
+msgid "Configuration for main menu"
+msgstr ""
+
+msgid "Main Menu Custom"
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Menu Item Color"
+msgstr ""
+
+msgid "Set color for menu item"
+msgstr ""
+
+msgid "Menu Item Height"
+msgstr ""
+
+msgid "Choose line height for each menu item"
+msgstr ""
+
+msgid "Dropdown Menu Setting"
+msgstr ""
+
+msgid "Configuration for submenu"
+msgstr ""
+
+msgid "Dropdown Menu Custom"
+msgstr ""
+
+msgid "In default, dropdown menu will follow \"Submenu Style\" above"
+msgstr ""
+
+msgid "Submenu Background"
+msgstr ""
+
+msgid "Set background color for submenu dropdown"
+msgstr ""
+
+msgid "SubMenu Item Color"
+msgstr ""
+
+msgid "Set color for text in submenu"
+msgstr ""
+
+msgid "Submenu Active Color"
+msgstr ""
+
+msgid "Choose bacground color for submenu when active."
+msgstr ""
+
+msgid "Submenu Width"
+msgstr ""
+
+msgid "Submenu Separate"
+msgstr ""
+
+msgid "Set border bottom attribute for submenu"
+msgstr ""
+
+msgid "SubMenu Item Padding"
+msgstr ""
+
+msgid "Choose inwards spacing for each submenu item"
+msgstr ""
+
+msgid "unit is \"px\""
+msgstr ""
+
+msgid "Dropdown Menu Align"
+msgstr ""
+
+msgid "Page Title Setting"
+msgstr ""
+
+msgid "Show Page Title"
+msgstr ""
+
+msgid "Choose to show or hide page title"
+msgstr ""
+
+msgid "Page Title Background Image"
+msgstr ""
+
+msgid "Body background image for page title section"
+msgstr ""
+
+msgid "Page Title Overlay Background"
+msgstr ""
+
+msgid "Background Parallax"
+msgstr ""
+
+msgid ""
+"To use background parallax effect for Page Title, please set background-"
+"attachment field is \"Fixed\""
+msgstr ""
+
+msgid "Page Title Height"
+msgstr ""
+
+msgid "Pagetitle Text Align"
+msgstr ""
+
+msgid "Center"
+msgstr ""
+
+msgid "The Title"
+msgstr ""
+
+msgid "Show Title"
+msgstr ""
+
+msgid "Choose to show or hide title (only apply for page)"
+msgstr ""
+
+msgid "Page Title Text"
+msgstr ""
+
+msgid "Config typography for page title text"
+msgstr ""
+
+msgid "Breadcrumb"
+msgstr ""
+
+msgid "Show Breadcrumb"
+msgstr ""
+
+msgid "Choose to show or hide breadcrumb"
+msgstr ""
+
+msgid "Breadcrumb Home"
+msgstr ""
+
+msgid "Config typography for breadcrumb title"
+msgstr ""
+
+msgid "Breadcrumb Link"
+msgstr ""
+
+msgid "Breadcrumb Border Bottom Color"
+msgstr ""
+
+msgid "Choose color for border bottom of brreadcrumb"
+msgstr ""
+
+msgid "Breadcrumb Labels"
+msgstr ""
+
+msgid "Car Rents"
+msgstr ""
+
+msgid "Enter breadcrumb label for car rent detail page."
+msgstr ""
+
+msgid "Car Categories"
+msgstr ""
+
+msgid "Enter breadcrumb label for car category page."
+msgstr ""
+
+msgid "Car Locations"
+msgstr ""
+
+msgid "Enter breadcrumb label for car location page."
+msgstr ""
+
+msgid "Enter breadcrumb label for cruise detail page."
+msgstr ""
+
+msgid "Cruises Categories"
+msgstr ""
+
+msgid "Enter breadcrumb label for cruise category page."
+msgstr ""
+
+msgid "Cruises Locations"
+msgstr ""
+
+msgid "Enter breadcrumb label for cruise location page."
+msgstr ""
+
+msgid "Cruises Facilities"
+msgstr ""
+
+msgid "Enter breadcrumb label for cruise facility page."
+msgstr ""
+
+msgid "Accommodations"
+msgstr ""
+
+msgid "Enter breadcrumb label for accommodation detail page."
+msgstr ""
+
+msgid "Accommodations Categories"
+msgstr ""
+
+msgid "Enter breadcrumb label for accommodation category page."
+msgstr ""
+
+msgid "Accommodation Facilities"
+msgstr ""
+
+msgid "Enter breadcrumb label for accommodation facility page."
+msgstr ""
+
+msgid "Facilities"
+msgstr ""
+
+msgid "Accommodation Locations"
+msgstr ""
+
+msgid "Enter breadcrumb label for accommodation location page."
+msgstr ""
+
+msgid "Locations"
+msgstr ""
+
+msgid "Tours"
+msgstr ""
+
+msgid "Enter breadcrumb label for tour detail page."
+msgstr ""
+
+msgid "Tour Categories"
+msgstr ""
+
+msgid "Enter breadcrumb label for tour category page."
+msgstr ""
+
+msgid "Tour Locations"
+msgstr ""
+
+msgid "Enter breadcrumb label for tour location page."
+msgstr ""
+
+msgid "Teams"
+msgstr ""
+
+msgid "Enter breadcrumb label for team detail page."
+msgstr ""
+
+msgid "Team Categories"
+msgstr ""
+
+msgid "Enter breadcrumb label for team category page."
+msgstr ""
+
+msgid "Sidebar"
+msgstr ""
+
+msgid "Configuration for sidebar"
+msgstr ""
+
+msgid "Default Sidebar"
+msgstr ""
+
+msgid "Default Sidebar Layout"
+msgstr ""
+
+msgid "Set how to display default sidebar"
+msgstr ""
+
+msgid "You can create new sidebar in Appearance -> %s"
+msgstr ""
+
+msgid "Blog Sidebar"
+msgstr ""
+
+msgid "Blog Sidebar Layout"
+msgstr ""
+
+msgid "Set how to display sidebar for blog single pages."
+msgstr ""
+
+msgid "left"
+msgstr ""
+
+msgid "right"
+msgstr ""
+
+msgid "none"
+msgstr ""
+
+msgid "Tour Sidebar"
+msgstr ""
+
+msgid "Tour Sidebar Layout"
+msgstr ""
+
+msgid "Set how to display sidebar for tour single pages."
+msgstr ""
+
+msgid "Tour Archive Sidebar"
+msgstr ""
+
+msgid "Tour Archive Sidebar Layout"
+msgstr ""
+
+msgid "Set how to display sidebar for tour archive pages."
+msgstr ""
+
+msgid "Tour Archive Sidebar Content"
+msgstr ""
+
+msgid ""
+"Default display tour search bar. Choose sidebar to setting your sidebar. If "
+"\"Tour Archive Sidebar Layout\" is \"No Sidebar\", nothing display. "
+msgstr ""
+
+msgid "Search Bar"
+msgstr ""
+
+msgid "Accommodation Sidebar"
+msgstr ""
+
+msgid "Accommodation Sidebar Layout"
+msgstr ""
+
+msgid "Set how to display sidebar for accommodation single pages."
+msgstr ""
+
+msgid "Accommodation Archive Sidebar"
+msgstr ""
+
+msgid "Accommodation Archive Sidebar Layout"
+msgstr ""
+
+msgid "Set how to display sidebar for accommodation archive pages."
+msgstr ""
+
+msgid "Accommodation Archive Sidebar Content"
+msgstr ""
+
+msgid ""
+"Default display accommodation search bar. Choose sidebar to setting your "
+"sidebar. If \"Accommodation Archive Sidebar Layout\" is \"No Sidebar\", "
+"nothing display. "
+msgstr ""
+
+msgid "Car Rent Sidebar"
+msgstr ""
+
+msgid "Car Rent Sidebar Layout"
+msgstr ""
+
+msgid "Set how to display sidebar for car rent single pages."
+msgstr ""
+
+msgid "Car Rent Archive Sidebar"
+msgstr ""
+
+msgid "Car Rent Archive Sidebar Layout"
+msgstr ""
+
+msgid "Set how to display sidebar for car rent archive pages."
+msgstr ""
+
+msgid "Car Rent Archive Sidebar Content"
+msgstr ""
+
+msgid ""
+"Default display car rent search bar. Choose sidebar to setting your sidebar. "
+"If \"Car Rent Archive Sidebar Layout\" is \"No Sidebar\", nothing display. "
+msgstr ""
+
+msgid "Cruises Sidebar"
+msgstr ""
+
+msgid "Cruises Sidebar Layout"
+msgstr ""
+
+msgid "Set how to display sidebar for cruise single pages."
+msgstr ""
+
+msgid "Cruises Archive Sidebar"
+msgstr ""
+
+msgid "Cruises Archive Sidebar Layout"
+msgstr ""
+
+msgid "Set how to display sidebar for cruise archive pages."
+msgstr ""
+
+msgid "Cruises Archive Sidebar Content"
+msgstr ""
+
+msgid ""
+"Default display cruise search bar. Choose sidebar to setting your sidebar. "
+"If \"Cruises Archive Sidebar Layout\" is \"No Sidebar\", nothing display. "
+msgstr ""
+
+msgid "Shop Sidebar"
+msgstr ""
+
+msgid "Shop Sidebar Layout"
+msgstr ""
+
+msgid "Set how to display shop sidebar"
+msgstr ""
+
+msgid "Block Margin Bottom"
+msgstr ""
+
+msgid "Choose margin bottom between 2 block content on sidebar"
+msgstr ""
+
+msgid "Block Padding Bottom"
+msgstr ""
+
+msgid "Choose padding bottom for one block content on sidebar"
+msgstr ""
+
+msgid "Pre Footer"
+msgstr ""
+
+msgid "Configuration for subscribe section"
+msgstr ""
+
+msgid "Subcribe"
+msgstr ""
+
+msgid "The Subtitle"
+msgstr ""
+
+msgid "Text Information"
+msgstr ""
+
+msgid "Footer"
+msgstr ""
+
+msgid "Configuration for footer of site"
+msgstr ""
+
+msgid "Footer Section"
+msgstr ""
+
+msgid "Show Footer Logo"
+msgstr ""
+
+msgid "Columns"
+msgstr ""
+
+msgid ""
+"Choose grid layout for footer.<br> Please go on \"Appearance->%1$s\" to set "
+"data for footer"
+msgstr ""
+
+msgid "1 Column & text center"
+msgstr ""
+
+msgid "1 Column"
+msgstr ""
+
+msgid "2 Columns"
+msgstr ""
+
+msgid "3 Columns"
+msgstr ""
+
+msgid "4 Columns"
+msgstr ""
+
+msgid "5 Columns"
+msgstr ""
+
+msgid "Footer content when set column"
+msgstr ""
+
+msgid ""
+" - 2 columns: Widgets Footer 1&2 will show.<br> - 3 columns: Widgets Footer "
+"1, 2 & 3 will show.<br> - 4 columns: Widgets Footer 1, 2, 3 & 4 will show."
+"<br> - 5 columns: All Widgets will show."
+msgstr ""
+
+msgid "Footer Style"
+msgstr ""
+
+msgid "Dark"
+msgstr ""
+
+msgid "Light"
+msgstr ""
+
+msgid "Footer Background Image"
+msgstr ""
+
+msgid "Set background image for footer section"
+msgstr ""
+
+msgid "Footer Overlay Background"
+msgstr ""
+
+msgid "Set background color for mask layer above footer"
+msgstr ""
+
+msgid "Footer Padding"
+msgstr ""
+
+msgid "Choose inwards spacing for footer section"
+msgstr ""
+
+msgid "Footer Bottom"
+msgstr ""
+
+msgid "Show Footer Bottom"
+msgstr ""
+
+msgid "Show Partner Slider"
+msgstr ""
+
+msgid "Select categories"
+msgstr ""
+
+msgid "Partner Filter"
+msgstr ""
+
+msgid ""
+"Choose categories of partner to display partners in slider. Leave it blank "
+"if you want to display all partners."
+msgstr ""
+
+msgid "Settings social for footer"
+msgstr ""
+
+msgid "Footer Social"
+msgstr ""
+
+msgid "Social information will get in \"Social\" tab"
+msgstr ""
+
+msgid "Social List"
+msgstr ""
+
+msgid "Blog Display"
+msgstr ""
+
+msgid "Configuration layout for blog template"
+msgstr ""
+
+msgid "Show Blog Title"
+msgstr ""
+
+msgid ""
+"Choose show or hide title on page title (only apply for blog detail page)"
+msgstr ""
+
+msgid "Show Category"
+msgstr ""
+
+msgid "Blog Info"
+msgstr ""
+
+msgid "Choose what information to show below blog content"
+msgstr ""
+
+msgid "Author"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "Comment"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "These information will be used to posts."
+msgstr ""
+
+msgid "Tag Section"
+msgstr ""
+
+msgid "Categories Section"
+msgstr ""
+
+msgid "Comments Section"
+msgstr ""
+
+msgid "Author Section"
+msgstr ""
+
+msgid "Tour Setting"
+msgstr ""
+
+msgid "Setting for tour page."
+msgstr ""
+
+msgid "Tour Status Disable"
+msgstr ""
+
+msgid "Choose disable status. Tours in this status is not display on frontend."
+msgstr ""
+
+msgid "Hide Passed Tours"
+msgstr ""
+
+msgid "Automatically hide tours which have already passed"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Page Title Background"
+msgstr ""
+
+msgid ""
+"Setting page title background for single page. Select featured image or page "
+"title background image."
+msgstr ""
+
+msgid "Featured Image"
+msgstr ""
+
+msgid "Title Setting"
+msgstr ""
+
+msgid "Configuration for title. This content will display below breadcrumb."
+msgstr ""
+
+msgid "Show Tour Title"
+msgstr ""
+
+msgid ""
+"Choose to show or hide title - only apply for tour page (archive,detail)"
+msgstr ""
+
+msgid "Custom Tour Title"
+msgstr ""
+
+msgid "Custom title for tour archive, tour category page"
+msgstr ""
+
+msgid "Custom Tour Detail Title"
+msgstr ""
+
+msgid "Custom title for tour detail page"
+msgstr ""
+
+msgid "Show Price"
+msgstr ""
+
+msgid "Choose to show or hide price on page title of tour detail page"
+msgstr ""
+
+msgid "Show Related Tours"
+msgstr ""
+
+msgid "Show or hide related tours in tour detail page."
+msgstr ""
+
+msgid "Setting Tour Search"
+msgstr ""
+
+msgid "Set the filter conditions in tour result page"
+msgstr ""
+
+msgid "Tours Per Page"
+msgstr ""
+
+msgid "Select a number of tours to show on search tour result page"
+msgstr ""
+
+msgid "Categories Section On Top Page"
+msgstr ""
+
+msgid "Tour Filter By"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Find Tour Box"
+msgstr ""
+
+msgid "Price"
+msgstr ""
+
+msgid "Review Rating"
+msgstr ""
+
+msgid "Price Filter Max Value"
+msgstr ""
+
+msgid "Show Result Found"
+msgstr ""
+
+msgid "Choose to show or hide Result Found box in tour list"
+msgstr ""
+
+msgid "Show Sort By"
+msgstr ""
+
+msgid "Choose to show or hide Sort By box in tour list"
+msgstr ""
+
+msgid "Setting Tour List"
+msgstr ""
+
+msgid "Setting field in tour list"
+msgstr ""
+
+msgid "Tour List Info"
+msgstr ""
+
+msgid "Share"
+msgstr ""
+
+msgid "Review"
+msgstr ""
+
+msgid "Wishlist"
+msgstr ""
+
+msgid "Accommodations  Setting"
+msgstr ""
+
+msgid "Setting for accommodation page."
+msgstr ""
+
+msgid "Accommodations Status Disable"
+msgstr ""
+
+msgid ""
+"Choose disable status. Accommodations in this status is not display on "
+"frontend."
+msgstr ""
+
+msgid "Room Status Disable"
+msgstr ""
+
+msgid "Choose disable status. Room in this status is not display on frontend."
+msgstr ""
+
+msgid "Show Accommodation Title"
+msgstr ""
+
+msgid ""
+"Choose to show or hide title - only apply for accommodation page (archive,"
+"detail)"
+msgstr ""
+
+msgid "Custom Accommodation Title"
+msgstr ""
+
+msgid "Custom title for accommodation archive, accommodation category page"
+msgstr ""
+
+msgid "Custom Accommodation Detail Title"
+msgstr ""
+
+msgid "Custom title for accommodation detail page"
+msgstr ""
+
+msgid "Choose to show or hide price on page title of accommodation detail page"
+msgstr ""
+
+msgid "Show Star"
+msgstr ""
+
+msgid ""
+"Choose to show or hide accommodation star number on page title of  detail "
+"page."
+msgstr ""
+
+msgid "Show Map & Contact"
+msgstr ""
+
+msgid "Choose to show or hide map and contact on accommodation detail page"
+msgstr ""
+
+msgid "Show Related Accommodations"
+msgstr ""
+
+msgid "Show or hide related accommodations in accommodation detail page."
+msgstr ""
+
+msgid "Setting Accommodation Search"
+msgstr ""
+
+msgid "Set the filter conditions in accommodation result page"
+msgstr ""
+
+msgid "Accommodations Per Page"
+msgstr ""
+
+msgid ""
+"Select a number of accommodations to show on search accommodation result page"
+msgstr ""
+
+msgid "Accommodation Search By"
+msgstr ""
+
+msgid "Find Hotel Box"
+msgstr ""
+
+msgid "Star Rating"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "Setting maximum price value in search box."
+msgstr ""
+
+msgid "Max Star Rate"
+msgstr ""
+
+msgid "Setting maximum star rating value in search box."
+msgstr ""
+
+msgid "Choose to show or hide Result Found box in accommodation list"
+msgstr ""
+
+msgid "Choose to show or hide Sort By box in accommodation list"
+msgstr ""
+
+msgid "Setting Accommodation List"
+msgstr ""
+
+msgid "Setting field in accommodation list"
+msgstr ""
+
+msgid "Accommodation List Info"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "Car Rent Setting"
+msgstr ""
+
+msgid "Setting for car rent page."
+msgstr ""
+
+msgid "Car Status Disable"
+msgstr ""
+
+msgid "Choose disable status. Cars in this status is not display on frontend."
+msgstr ""
+
+msgid "Show Car Rent Title"
+msgstr ""
+
+msgid ""
+"Choose to show or hide title - only apply for car rent page (archive,detail)"
+msgstr ""
+
+msgid "Custom Car Rent Title"
+msgstr ""
+
+msgid "Custom title for car rent archive, car category page"
+msgstr ""
+
+msgid "Custom Car Rent Detail Title"
+msgstr ""
+
+msgid "Custom title for car rent detail page"
+msgstr ""
+
+msgid "Choose to show or hide price on page title of car rent detail page"
+msgstr ""
+
+msgid "Show Related Cars Rent"
+msgstr ""
+
+msgid "Show or hide related cars in car rent detail page."
+msgstr ""
+
+msgid "Show Share Button"
+msgstr ""
+
+msgid "Show or hide share button in car list page."
+msgstr ""
+
+msgid "Setting Car Rent Search"
+msgstr ""
+
+msgid "Set the filter conditions in car rent result page"
+msgstr ""
+
+msgid "Cars Per Page"
+msgstr ""
+
+msgid "Select a number of cars to show on search car result page"
+msgstr ""
+
+msgid "Car Filter By"
+msgstr ""
+
+msgid "Find Cars Box"
+msgstr ""
+
+msgid "Choose to show or hide Result Found box in car list"
+msgstr ""
+
+msgid "Choose to show or hide Sort By box in car list"
+msgstr ""
+
+msgid "Cruises Setting"
+msgstr ""
+
+msgid "Setting for cruises page."
+msgstr ""
+
+msgid "Cruise Status Disable"
+msgstr ""
+
+msgid ""
+"Choose disable status. Cruises in this status is not display on frontend."
+msgstr ""
+
+msgid "Show Cruises Title"
+msgstr ""
+
+msgid ""
+"Choose to show or hide title - only apply for cruises page (archive,detail)"
+msgstr ""
+
+msgid "Custom Cruises Title"
+msgstr ""
+
+msgid "Custom title for cruises archive, cruises category page"
+msgstr ""
+
+msgid "Custom Cruises Detail Title"
+msgstr ""
+
+msgid "Custom title for cruises detail page"
+msgstr ""
+
+msgid "Choose to show or hide price on page title of cruises detail page"
+msgstr ""
+
+msgid "Show Related Cruises"
+msgstr ""
+
+msgid "Show or hide related cruises in cruises detail page."
+msgstr ""
+
+msgid "Show or hide share button in cruise list page."
+msgstr ""
+
+msgid "Setting Cruises Search"
+msgstr ""
+
+msgid "Set the filter conditions in cruises result page"
+msgstr ""
+
+msgid "Cruises Per Page"
+msgstr ""
+
+msgid "Select a number of cruises to show on search cruises result page"
+msgstr ""
+
+msgid "Cruises Filter By"
+msgstr ""
+
+msgid "Find Cruises Box"
+msgstr ""
+
+msgid "Choose to show or hide Result Found box in cruises list"
+msgstr ""
+
+msgid "Choose to show or hide Sort By box in cruises list"
+msgstr ""
+
+msgid "Booking Setting"
+msgstr ""
+
+msgid "Setting for booking information"
+msgstr ""
+
+msgid "Booking Active"
+msgstr ""
+
+msgid "Choose what you want to show booking button."
+msgstr ""
+
+msgid "Checkout by Woocommerce"
+msgstr ""
+
+msgid "Choose what you want to checkout booking by using Woocommerce."
+msgstr ""
+
+msgid "Choose Redirect Page"
+msgstr ""
+
+msgid ""
+"Choose a page that redirect to after booking finished. This only apply when "
+"Checkout by Woocommerce option is disabled."
+msgstr ""
+
+msgid "Tour Booking Email Setting"
+msgstr ""
+
+msgid "Configuration for email"
+msgstr ""
+
+msgid "Booking Method"
+msgstr ""
+
+msgid "Choose booking method in detail page."
+msgstr ""
+
+msgid "Booking Form"
+msgstr ""
+
+msgid "Contact Form"
+msgstr ""
+
+msgid "Booking Form and Contact Form"
+msgstr ""
+
+msgid " Contact Form Booking"
+msgstr ""
+
+msgid "Choose contact form to booking"
+msgstr ""
+
+msgid "Send Email To Manager"
+msgstr ""
+
+msgid "Enable or disable send booking infomation to manager."
+msgstr ""
+
+msgid "To"
+msgstr ""
+
+msgid ""
+"Enter a receiver email. Booking infomation will be sent to this email and "
+"customer email."
+msgstr ""
+
+msgid "From"
+msgstr ""
+
+msgid ""
+"Enter a sender email. If this field is empty, Sender email is admin email."
+msgstr ""
+
+msgid "Subject"
+msgstr ""
+
+msgid "Tour booking email subject."
+msgstr ""
+
+msgid "Reply To"
+msgstr ""
+
+msgid "Tour booking email reply to."
+msgstr ""
+
+msgid "Message Body"
+msgstr ""
+
+msgid "Tour booking email message."
+msgstr ""
+
+msgid "Accomodation Booking Email Setting"
+msgstr ""
+
+msgid "Hotel booking email subject."
+msgstr ""
+
+msgid "Hotel booking email reply to."
+msgstr ""
+
+msgid "Hotel booking email message."
+msgstr ""
+
+msgid "Car Booking Email Setting"
+msgstr ""
+
+msgid "Car booking email subject."
+msgstr ""
+
+msgid "Car booking email reply to."
+msgstr ""
+
+msgid "Car booking email message."
+msgstr ""
+
+msgid "Cruise Booking Email Setting"
+msgstr ""
+
+msgid "Cruise booking email subject."
+msgstr ""
+
+msgid "Cruise booking email reply to."
+msgstr ""
+
+msgid "Cruise booking email message."
+msgstr ""
+
+msgid "Product Setting"
+msgstr ""
+
+msgid "Setting for product pages."
+msgstr ""
+
+msgid ""
+"Configuration for title of product detail pages. This content will display "
+"below breadcrumb."
+msgstr ""
+
+msgid "Choose to show or hide product detail title."
+msgstr ""
+
+msgid "Custom Title"
+msgstr ""
+
+msgid "Custom title for product detail pages."
+msgstr ""
+
+msgid ""
+"Configuration for page title of product pages ( product detail, archive )"
+msgstr ""
+
+msgid "404 Setting"
+msgstr ""
+
+msgid "This page will display options for 404 page"
+msgstr ""
+
+msgid "404 Page Background"
+msgstr ""
+
+msgid "Main Title"
+msgstr ""
+
+msgid "404"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Page Not Found"
+msgstr ""
+
+msgid "Back To Home Text"
+msgstr ""
+
+msgid "Back To Home"
+msgstr ""
+
+msgid "Button 02 Text"
+msgstr ""
+
+msgid "Get Help"
+msgstr ""
+
+msgid "Button 02 Link(Custom)"
+msgstr ""
+
+msgid "Empty this field if you want to choose link to page"
+msgstr ""
+
+msgid "Button 02 Link(Link To Page)"
+msgstr ""
+
+msgid "Extras"
+msgstr ""
+
+msgid "Teams Setting"
+msgstr ""
+
+msgid "Show Teammate?"
+msgstr ""
+
+msgid "Show or hide list team in team detail pages."
+msgstr ""
+
+msgid "Login Page Setting"
+msgstr ""
+
+msgid "Choose Login Page"
+msgstr ""
+
+msgid "Choose a page that is displayed as login page."
+msgstr ""
+
+msgid "Background Login Page"
+msgstr ""
+
+msgid "Choose image"
+msgstr ""
+
+msgid "Logo In Login Page"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid ""
+"Enter title content. This content will display below logo in login page."
+msgstr ""
+
+msgid "sign in to your exploore.com account! "
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "This content will display below sign in button in login page."
+msgstr ""
+
+msgid "Don't have a exploore account yet?"
+msgstr ""
+
+msgid "Register Page Setting"
+msgstr ""
+
+msgid "Choose Register Page"
+msgstr ""
+
+msgid "Choose a page that is displayed as register page."
+msgstr ""
+
+msgid "Background Register Page"
+msgstr ""
+
+msgid "Logo In Register Page"
+msgstr ""
+
+msgid ""
+"Enter title content. This content will display below logo in register page."
+msgstr ""
+
+msgid "Show Terms Of Service"
+msgstr ""
+
+msgid "Show or hide checkbox term of service in register page."
+msgstr ""
+
+msgid "Terms Of Service"
+msgstr ""
+
+msgid "Enter content to display at checkbox terms of service in register page."
+msgstr ""
+
+msgid "Show Captcha"
+msgstr ""
+
+msgid ""
+"Show or hide google reCaptcha in register page. Go to %s to create Key API & "
+"Secret Key API for this your site."
+msgstr ""
+
+msgid "Key API"
+msgstr ""
+
+msgid "Enter Key API if using reCaptcha in register page."
+msgstr ""
+
+msgid "Secret Key API"
+msgstr ""
+
+msgid "Enter Secret Key API if using reCaptcha in register page."
+msgstr ""
+
+msgid "Custom Style"
+msgstr ""
+
+msgid "Customize your site by code"
+msgstr ""
+
+msgid "CSS Code"
+msgstr ""
+
+msgid "Paste your CSS code here."
+msgstr ""
+
+msgid "Custom Script"
+msgstr ""
+
+msgid "JS Code"
+msgstr ""
+
+msgid "Paste your JS code here."
+msgstr ""
+
+msgid "Typography"
+msgstr ""
+
+msgid "Body Text"
+msgstr ""
+
+msgid "Set font "
+msgstr ""
+
+msgid "Paragraph Text"
+msgstr ""
+
+msgid "Links Color Option"
+msgstr ""
+
+msgid "Only color validation can be done on this field type"
+msgstr ""
+
+msgid "H1 Text"
+msgstr ""
+
+msgid "H2 Text"
+msgstr ""
+
+msgid "H3 Text"
+msgstr ""
+
+msgid "H4 Text"
+msgstr ""
+
+msgid "H5 Text"
+msgstr ""
+
+msgid "H6 Text"
+msgstr ""
+
+msgid "Theme Information 1"
+msgstr ""
+
+msgid "This is the tab content, HTML is allowed."
+msgstr ""
+
+msgid "Theme Information 2"
+msgstr ""
+
+msgid "This is the sidebar content, HTML is allowed."
+msgstr ""
+
+msgid "Exploore"
+msgstr ""
+
+msgid "Exploore_options"
+msgstr ""
+
+msgid "Exploore Option Panel"
+msgstr ""
+
+msgid "Theme options"
+msgstr ""
+
+msgid "<p>Thank you for purchased Exploore!</p>"
+msgstr ""
+
+msgid "Like us on Facebook"
+msgstr ""
+
+msgid "Follow us on themeforest"
+msgstr ""
+
+msgid "Send us email"
+msgstr ""
+
+msgid "Articles"
+msgstr ""
+
+msgid "Comments"
+msgstr ""
+
+msgid "Leave your comment"
+msgstr ""
+
+msgid "Reviews"
+msgstr ""
+
+msgid "Add your review"
+msgstr ""
+
+msgid "%1$s %2$s"
+msgid_plural "%1$s %3$s"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Comments are closed"
+msgstr ""
+
+msgid "Your Name"
+msgstr ""
+
+msgid "Please enter your name."
+msgstr ""
+
+msgid "Your Email"
+msgstr ""
+
+msgid "Please enter your email address."
+msgstr ""
+
+msgid "Please enter a valid email address."
+msgstr ""
+
+msgid "Your Message"
+msgstr ""
+
+msgid "Please enter comment."
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Send Message"
+msgstr ""
+
+msgid "SEND NOW"
+msgstr ""
+
+msgid "Main Navigation"
+msgstr ""
+
+msgid "404 Pages"
+msgstr ""
+
+msgid "&copy; 2016 BY SWLABS. ALL RIGHT RESERVE."
+msgstr ""
+
+msgid "Page not found."
+msgstr ""
+
+msgid "Go Back"
+msgstr ""
+
+msgid "Install Required Plugins"
+msgstr ""
+
+msgid "Install Plugins"
+msgstr ""
+
+msgid "Installing Plugin: %s"
+msgstr ""
+
+msgid "Updating Plugin: %s"
+msgstr ""
+
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+msgid "Return to the Dashboard"
+msgstr ""
+
+msgid "Plugin activated successfully."
+msgstr ""
+
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+msgid "Dismiss this notice"
+msgstr ""
+
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+msgid "Update Required"
+msgstr ""
+
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+msgid "and"
+msgstr ""
+
+msgid "TGMPA v%s"
+msgstr ""
+
+msgid "Required"
+msgstr ""
+
+msgid "Recommended"
+msgstr ""
+
+msgid "WordPress Repository"
+msgstr ""
+
+msgid "External Source"
+msgstr ""
+
+msgid "Pre-Packaged"
+msgstr ""
+
+msgid "Not Installed"
+msgstr ""
+
+msgid "Installed But Not Activated"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Required Update not Available"
+msgstr ""
+
+msgid "Requires Update"
+msgstr ""
+
+msgid "Update recommended"
+msgstr ""
+
+msgid "%1$s, %2$s"
+msgstr ""
+
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "unknown"
+msgstr ""
+
+msgid "Installed version:"
+msgstr ""
+
+msgid "Minimum required version:"
+msgstr ""
+
+msgid "Available version:"
+msgstr ""
+
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+msgid "Plugin"
+msgstr ""
+
+msgid "Source"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Version"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Install %2$s"
+msgstr ""
+
+msgid "Update %2$s"
+msgstr ""
+
+msgid "Activate %2$s"
+msgstr ""
+
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+msgid "Install"
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "Activate"
+msgstr ""
+
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+msgid "Plugin activation failed."
+msgstr ""
+
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+msgid "The installation of %1$s failed."
+msgstr ""
+
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+msgid "Show Details"
+msgstr ""
+
+msgid "Hide Details"
+msgstr ""
+
+msgid "All installations and activations have been completed."
+msgstr ""
+
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+msgid "%1$s installed successfully."
+msgstr ""
+
+msgid "All installations have been completed."
+msgstr ""
+
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+msgid "Delete image"
+msgstr ""
+
+msgid "Add gallery images"
+msgstr ""
+
+msgid "Gallery Images"
+msgstr ""
+
+msgid "Add to gallery"
+msgstr ""
+
+msgid "Remove  attachment"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Add Media"
+msgstr ""
+
+msgid "Attachments"
+msgstr ""
+
+msgid "Add media"
+msgstr ""
+
+msgid "Upload Image"
+msgstr ""
+
+msgid "Error 404"
+msgstr ""
+
+msgid "Posts tagged"
+msgstr ""
+
+msgid "Search results for"
+msgstr ""
+
+msgid "Page"
+msgstr ""
+
+msgid "Categories:"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Posted By : "
+msgstr ""
+
+msgid "%s"
+msgid_plural "%s"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Logo Footer"
+msgstr ""
+
+msgid "English"
+msgstr ""
+
+msgid "Japan"
+msgstr ""
+
+msgid "Korea"
+msgstr ""
+
+msgid "My Account"
+msgstr ""
+
+msgid "My Profile"
+msgstr ""
+
+msgid "Sign out"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Register"
+msgstr ""
+
+msgid "Search results"
+msgstr ""
+
+msgid "F Y"
+msgstr ""
+
+msgid "F j, Y"
+msgstr ""
+
+msgid "from"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Search..."
+msgstr ""
+
+msgid "share to :"
+msgstr ""
+
+msgid "Tags:"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Posted by:"
+msgstr ""
+
+msgid "View more"
+msgstr ""
+
+msgid "login"
+msgstr ""
+
+msgid "register"
+msgstr ""
+
+msgid "Client"
+msgstr ""
+
+msgid "Please provide a valid email address."
+msgstr ""
+
+msgid "An account is already registered with your email address. Please login."
+msgstr ""
+
+msgid "Please enter a valid account username."
+msgstr ""
+
+msgid ""
+"An account is already registered with that username. Please choose another."
+msgstr ""
+
+msgid "Please enter an account username."
+msgstr ""
+
+msgid "Please enter an account password."
+msgstr ""
+
+msgid "ERROR"
+msgstr ""
+
+msgid ""
+"Couldn&#8217;t register you&hellip; please contact us if you continue to "
+"have problems."
+msgstr ""
+
+msgid "Your username and password info"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Pasword"
+msgstr ""
+
+msgid "Name field is required."
+msgstr ""
+
+msgid "Email field is required."
+msgstr ""
+
+msgid "Password field is required."
+msgstr ""
+
+msgid "Please fill out all password fields."
+msgstr ""
+
+msgid "Password is not match."
+msgstr ""
+
+msgid "Captcha incorrect."
+msgstr ""
+
+msgid ""
+"To register for membership, you must agree to the terms and conditions of "
+"our."
+msgstr ""
+
+msgid "Email is required."
+msgstr ""
+
+msgid "Password is required."
+msgstr ""
+
+msgid "A user could not be found with this email address."
+msgstr ""
+
+msgid "You are now logged in as <strong>%s</strong>"
+msgstr ""
+
+msgid "Header Style 1"
+msgstr ""
+
+msgid "Header Style 2"
+msgstr ""
+
+msgid "Header Style 3"
+msgstr ""
+
+msgid "Header Style 4"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Slider"
+msgstr ""
+
+msgid "Custom Slider"
+msgstr ""
+
+msgid "Youtube"
+msgstr ""
+
+msgid "Vimeo"
+msgstr ""
+
+msgid "Requirements & Recommendations"
+msgstr ""
+
+msgid "Plugins"
+msgstr ""
+
+msgid "Exploore Icons"
+msgstr ""
+
+msgid "Changes Log"
+msgstr ""
+
+msgid "Theme Options"
+msgstr ""
+
+msgid "Welcome"
+msgstr ""
+
+msgid "Deactivate %2$s"
+msgstr ""
+
+msgid "Deactivate"
+msgstr ""
+
+msgid "on"
+msgstr ""
+
+msgid "Page Setting"
+msgstr ""
+
+msgid "Version 1.0"
+msgstr ""
+
+msgid "Initital"
+msgstr ""
+
+msgid "Header Content"
+msgstr ""
+
+msgid "Page Title"
+msgstr ""
+
+msgid "Hide Header"
+msgstr ""
+
+msgid "Show/Hide header."
+msgstr ""
+
+msgid "Body Extra Class"
+msgstr ""
+
+msgid "Add custom class if you want to change style of your site."
+msgstr ""
+
+msgid "Enter content top/bottom padding (px)"
+msgstr ""
+
+msgid "Content Padding <br/> (Top/Bottom)"
+msgstr ""
+
+msgid "Default Setting"
+msgstr ""
+
+msgid ""
+"Using setting of theme options. All below setting will NOT be allowed. "
+"Uncheck to change setting this page."
+msgstr ""
+
+msgid "Setting background in the page."
+msgstr ""
+
+msgid "Transparent"
+msgstr ""
+
+msgid "Header Sticky"
+msgstr ""
+
+msgid "Enable/Disable fixed header when scroll"
+msgstr ""
+
+msgid "Enable"
+msgstr ""
+
+msgid "Header Style"
+msgstr ""
+
+msgid "Choose header layout to display in the page."
+msgstr ""
+
+msgid "Show Topbar Menu"
+msgstr ""
+
+msgid "Show/Hide menu in topbar."
+msgstr ""
+
+msgid "Select menu for topbar menu"
+msgstr ""
+
+msgid "Header content type. "
+msgstr ""
+
+msgid "Choose header content type to display in the page. "
+msgstr ""
+
+msgid "Choose Slider"
+msgstr ""
+
+msgid ""
+"Display or not slider in the page.<br/> Default no display slider in the "
+"page. To add new slider, please go to "
+msgstr ""
+
+msgid "Search Form"
+msgstr ""
+
+msgid "Show/Hide search form(only aplly for header one,two,three)."
+msgstr ""
+
+msgid "Header Background(required)"
+msgstr ""
+
+msgid "Add image, video link in header."
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "Video"
+msgstr ""
+
+msgid "Add video to make background for header(only aplly for header four)."
+msgstr ""
+
+msgid "MP4 Upload"
+msgstr ""
+
+msgid "Choose file .mp4 to upload"
+msgstr ""
+
+msgid "Caption"
+msgstr ""
+
+msgid "Enter information to caption in header."
+msgstr ""
+
+msgid "Caption Text 1"
+msgstr ""
+
+msgid "Font size (px)"
+msgstr ""
+
+msgid "Caption Text 2"
+msgstr ""
+
+msgid "Button"
+msgstr ""
+
+msgid "Enter information to button in header."
+msgstr ""
+
+msgid "Button Content 1"
+msgstr ""
+
+msgid "Button Hover Content"
+msgstr ""
+
+msgid "Button Link"
+msgstr ""
+
+msgid ""
+"Choose header content type to display in the page. Default display page "
+"title background or Featured image ( setting from Theme options > Tour "
+"Setting > Page Title Background )."
+msgstr ""
+
+msgid ""
+"Choose header content type to display in the page. Default display page "
+"title background or Featured image ( setting from Theme options > "
+"Accommodations Setting > Page Title Background )."
+msgstr ""
+
+msgid ""
+"Choose header content type to display in the page. Default display page "
+"title background or Featured image ( setting from Theme options > Car Rent "
+"Setting > Page Title Background )."
+msgstr ""
+
+msgid ""
+"Choose header content type to display in the page. Default display page "
+"title background or Featured image ( setting from Theme options > Cruises "
+"Setting > Page Title Background )."
+msgstr ""
+
+msgid "Height"
+msgstr ""
+
+msgid "Enter header content height."
+msgstr ""
+
+msgid "Slider Speed"
+msgstr ""
+
+msgid "Enter speed of slider. Default: 300."
+msgstr ""
+
+msgid "Images"
+msgstr ""
+
+msgid "Upload images for slider."
+msgstr ""
+
+msgid "Show/Hide page title in the page"
+msgstr ""
+
+msgid "Background Style"
+msgstr ""
+
+msgid "Setting background of page title in the page."
+msgstr ""
+
+msgid "Insert page title height (px)"
+msgstr ""
+
+msgid "Show/Hide title in page title"
+msgstr ""
+
+msgid "Enter custom title to display in page title."
+msgstr ""
+
+msgid "Show/Hide breadcrumb"
+msgstr ""
+
+msgid "Sidebar Layout"
+msgstr ""
+
+msgid "Choose locate to display sidebar in the page."
+msgstr ""
+
+msgid "Sidebar Name"
+msgstr ""
+
+msgid ""
+"Choose sidebar to display in the page. To add new sidebar, please go to "
+msgstr ""
+
+msgid "Show/Hide footer"
+msgstr ""
+
+msgid "Select style to footer in the page."
+msgstr ""
+
+msgid "Show NewsLetter"
+msgstr ""
+
+msgid "Show/Hide newsletter on footer"
+msgstr ""
+
+msgid "Show/Hide footer bottom"
+msgstr ""
+
+msgid ""
+"These are the plugins we include with theme. You can activate, deactivate or "
+"update the plugins from this tab."
+msgstr ""
+
+msgid "Active:"
+msgstr ""
+
+msgid "Tested Plugins"
+msgstr ""
+
+msgid ""
+"These are the plugins we tested with Exploore and they are compatible with "
+"together. If you want to use these plugins, you can activate, deactivate or "
+"update them in this tab."
+msgstr ""
+
+msgid "Update Available: Version %s"
+msgstr ""
+
+msgid "Recommend"
+msgstr ""
+
+msgid "Uploads folder writable"
+msgstr ""
+
+msgid ""
+"Please set the write permission (755) to your wp-content/uploads folders."
+msgstr ""
+
+msgid "Mbstring Extension"
+msgstr ""
+
+msgid "Please enable the Mbstring extension for PHP on your server."
+msgstr ""
+
+msgid "PHP Version"
+msgstr ""
+
+msgid "Currently: "
+msgstr ""
+
+msgid "Currently:"
+msgstr ""
+
+msgid "Recommended: 5.3"
+msgstr ""
+
+msgid "Memory Limit"
+msgstr ""
+
+msgid "Recommended: 256M"
+msgstr ""
+
+msgid "Increasing Memory Limit"
+msgstr ""
+
+msgid "Upload Max Filesize"
+msgstr ""
+
+msgid "Recommended: 32M"
+msgstr ""
+
+msgid "Increasing Upload Max Filesize"
+msgstr ""
+
+msgid "Post Max Size"
+msgstr ""
+
+msgid "Increasing Post Max Size"
+msgstr ""
+
+msgid "Time Limit:"
+msgstr ""
+
+msgid "Recommended: 1800"
+msgstr ""
+
+msgid "Increasing Time Limit"
+msgstr ""
+
+msgid "PHP Max Input Vars:"
+msgstr ""
+
+msgid "Recommended: 6000"
+msgstr ""
+
+msgid "Debug Mode"
+msgstr ""
+
+msgid "Welcome to Exploore!"
+msgstr ""
+
+msgid ""
+"Exploore is now installed and ready to use!  Get ready to build something "
+"beautiful. Please register your purchase to get support and automatic theme "
+"updates. Read below for additional information. We hope you enjoy it!"
+msgstr ""
+
+msgid "List of accommodation."
+msgstr ""
+
+msgid "SLZ: Accommodation"
+msgstr ""
+
+msgid "Accommodation"
+msgstr ""
+
+msgid "Display the thumnail"
+msgstr ""
+
+msgid "Display price accommdation"
+msgstr ""
+
+msgid "--All Categories--"
+msgstr ""
+
+msgid "--All Location--"
+msgstr ""
+
+msgid "Featured"
+msgstr ""
+
+msgid "Number Post"
+msgstr ""
+
+msgid "Featured Accomodation"
+msgstr ""
+
+msgid "Sort By"
+msgstr ""
+
+msgid "Accommodation Categories"
+msgstr ""
+
+msgid "Accomodation Location"
+msgstr ""
+
+msgid "Price from "
+msgstr ""
+
+msgid "A list of Car."
+msgstr ""
+
+msgid "SLZ: Car"
+msgstr ""
+
+msgid "Car"
+msgstr ""
+
+msgid "Display price car"
+msgstr ""
+
+msgid "--All Car Categories--"
+msgstr ""
+
+msgid "--All Car Location--"
+msgstr ""
+
+msgid "Featured Car"
+msgstr ""
+
+msgid "Car Location"
+msgstr ""
+
+msgid "Slz categories"
+msgstr ""
+
+msgid "SLZ: Categories"
+msgstr ""
+
+msgid "Title: "
+msgstr ""
+
+msgid "Show count categories"
+msgstr ""
+
+msgid "Slz Contact"
+msgstr ""
+
+msgid "SLZ: Contact"
+msgstr ""
+
+msgid "Contact us"
+msgstr ""
+
+msgid "Description: "
+msgstr ""
+
+msgid "Address: "
+msgstr ""
+
+msgid "Phone number: "
+msgstr ""
+
+msgid "Email: "
+msgstr ""
+
+msgid "A list of Cruise."
+msgstr ""
+
+msgid "SLZ: Cruise"
+msgstr ""
+
+msgid "Cruise"
+msgstr ""
+
+msgid "Display price cruise"
+msgstr ""
+
+msgid "--All Cruise Categories--"
+msgstr ""
+
+msgid "--All Cruise Location--"
+msgstr ""
+
+msgid "Featured Cruise"
+msgstr ""
+
+msgid "Cruise Categories"
+msgstr ""
+
+msgid "Cruise Location"
+msgstr ""
+
+msgid "List of custom link."
+msgstr ""
+
+msgid "SLZ: Custom Link"
+msgstr ""
+
+msgid "Custom Link"
+msgstr ""
+
+msgid "Subtitle"
+msgstr ""
+
+msgid "Or Link to Page"
+msgstr ""
+
+msgid "--All Pages--"
+msgstr ""
+
+msgid "A list of faq_request"
+msgstr ""
+
+msgid "SLZ: FAQs Request"
+msgstr ""
+
+msgid "SEND YOUR REQUEST"
+msgstr ""
+
+msgid "-None-"
+msgstr ""
+
+msgid "Title:"
+msgstr ""
+
+msgid "Contact form:"
+msgstr ""
+
+msgid "A list image of tour or accommodation post type."
+msgstr ""
+
+msgid "SLZ: Gallery"
+msgstr ""
+
+msgid "Gallery"
+msgstr ""
+
+msgid "Style"
+msgstr ""
+
+msgid "Landing Page"
+msgstr ""
+
+msgid "Number Item"
+msgstr ""
+
+msgid "Category ID"
+msgstr ""
+
+msgid "Example : 1, 2, 3"
+msgstr ""
+
+msgid "Choose Column"
+msgstr ""
+
+msgid "3 Column"
+msgstr ""
+
+msgid "4 Column"
+msgstr ""
+
+msgid "Choose Post Type"
+msgstr ""
+
+msgid "Default Widget Area"
+msgstr ""
+
+msgid "Add widgets here to appear in sidebar of posts and pages"
+msgstr ""
+
+msgid "Footer Widget Area %s"
+msgstr ""
+
+msgid "Add widgets here to appear in footer column %s."
+msgstr ""
+
+msgid "Main Widget Area"
+msgstr ""
+
+msgid "Add widgets here to appear in sidebar pages."
+msgstr ""
+
+msgid "Blog Widget Area"
+msgstr ""
+
+msgid "Add widgets here to appear in sidebar of posts."
+msgstr ""
+
+msgid "Search Widget Area"
+msgstr ""
+
+msgid "Add widgets here to appear in sidebar of search page."
+msgstr ""
+
+msgid "Shop Widget Area"
+msgstr ""
+
+msgid "Add widgets here to appear in sidebar of products."
+msgstr ""
+
+msgid "Do you really want to delete this widget area?"
+msgstr ""
+
+msgid "Exploore Custom Widgets"
+msgstr ""
+
+msgid "Enter Name of the new Widget Area here"
+msgstr ""
+
+msgid "Enter class display on front-end"
+msgstr ""
+
+msgid "Add Widget Area"
+msgstr ""
+
+msgid "Newsletter widget to add subscription forms."
+msgstr ""
+
+msgid "Newsletter"
+msgstr ""
+
+msgid "Description:"
+msgstr ""
+
+msgid "Enter description to display on newsletter form."
+msgstr ""
+
+msgid "Email address"
+msgstr ""
+
+msgid "A recent posts list."
+msgstr ""
+
+msgid "SLZ: Recent Posts"
+msgstr ""
+
+msgid "Recent Post"
+msgstr ""
+
+msgid "Display the title"
+msgstr ""
+
+msgid "Display post date"
+msgstr ""
+
+msgid "Display view count"
+msgstr ""
+
+msgid "Display comment count"
+msgstr ""
+
+msgid "Display thumbnail"
+msgstr ""
+
+msgid "A Search Form."
+msgstr ""
+
+msgid "SLZ: Search"
+msgstr ""
+
+msgid "Search Type"
+msgstr ""
+
+msgid "A list social links."
+msgstr ""
+
+msgid "SLZ: Social"
+msgstr ""
+
+msgid "List of taxonomy"
+msgstr ""
+
+msgid "SLZ: Taxonomy"
+msgstr ""
+
+msgid "Taxonomy: "
+msgstr ""
+
+msgid "List of tour."
+msgstr ""
+
+msgid "SLZ: Tour"
+msgstr ""
+
+msgid "Display price tour"
+msgstr ""
+
+msgid "Featured Tour"
+msgstr ""
+
+msgid "Tour Location"
+msgstr ""
+
+msgid "Behance"
+msgstr ""
+
+msgid "Delicious"
+msgstr ""
+
+msgid "Deviantart"
+msgstr ""
+
+msgid "Flickr"
+msgstr ""
+
+msgid "Foursquare"
+msgstr ""
+
+msgid "Lastfm"
+msgstr ""
+
+msgid "Linkedin"
+msgstr ""
+
+msgid "Github"
+msgstr ""
+
+msgid "Google+"
+msgstr ""
+
+msgid "Odnoklassniki"
+msgstr ""
+
+msgid "RSS"
+msgstr ""
+
+msgid "Skype"
+msgstr ""
+
+msgid "Soundcloud"
+msgstr ""
+
+msgid "Stumbleupon"
+msgstr ""
+
+msgid "TripAdvisor"
+msgstr ""
+
+msgid "Tumblr"
+msgstr ""
+
+msgid "VK"
+msgstr ""
+
+msgid "Weibo"
+msgstr ""
+
+msgid "XING"
+msgstr ""
+
+msgid "YouTube"
+msgstr ""
+
+msgid "- Latest -"
+msgstr ""
+
+msgid "A to Z"
+msgstr ""
+
+msgid "Z to A"
+msgstr ""
+
+msgid "Random posts today"
+msgstr ""
+
+msgid "Random posts a week ago"
+msgstr ""
+
+msgid "Random posts a month ago"
+msgstr ""
+
+msgid "Random Posts"
+msgstr ""
+
+msgid "Most Commented"
+msgstr ""
+
+msgid "Popular"
+msgstr ""
+
+msgid "Dropcaps"
+msgstr ""
+
+msgid "Box"
+msgstr ""
+
+msgid "Circle"
+msgstr ""
+
+msgid "Regular"
+msgstr ""
+
+msgid "Bold"
+msgstr ""
+
+msgid "Text highlighting"
+msgstr ""
+
+msgid "Black censured"
+msgstr ""
+
+msgid "Red marker"
+msgstr ""
+
+msgid "Blue marker"
+msgstr ""
+
+msgid "Green marker"
+msgstr ""
+
+msgid "Yellow  marker"
+msgstr ""
+
+msgid "Pink  marker"
+msgstr ""
+
+msgid "Text Blockquote"
+msgstr ""
+
+msgid "Style 01"
+msgstr ""
+
+msgid "Style 02"
+msgstr ""
+
+msgid "Style 03"
+msgstr ""
+
+msgid "Style 04"
+msgstr ""
+
+msgid "Self-Hosted Video"
+msgstr ""
+
+msgid "-Background Repeat-"
+msgstr ""
+
+msgid "No Repeat"
+msgstr ""
+
+msgid "Repeat All"
+msgstr ""
+
+msgid "Repeat Horizontally"
+msgstr ""
+
+msgid "Repeat Vertically"
+msgstr ""
+
+msgid "Inherit"
+msgstr ""
+
+msgid "-Background Size-"
+msgstr ""
+
+msgid "Cover"
+msgstr ""
+
+msgid "Contain"
+msgstr ""
+
+msgid "-Background Position-"
+msgstr ""
+
+msgid "Left Top"
+msgstr ""
+
+msgid "Left center"
+msgstr ""
+
+msgid "Left Bottom"
+msgstr ""
+
+msgid "Center Top"
+msgstr ""
+
+msgid "Center Center"
+msgstr ""
+
+msgid "Center Bottom"
+msgstr ""
+
+msgid "Right Top"
+msgstr ""
+
+msgid "Right center"
+msgstr ""
+
+msgid "Right Bottom"
+msgstr ""
+
+msgid "-Background Attachment-"
+msgstr ""
+
+msgid "Fixed"
+msgstr ""
+
+msgid "Scroll"
+msgstr ""
+
+msgid "view"
+msgstr ""
+
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr ""
+
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+msgid " ago"
+msgstr ""
+
+msgid "%s (Pending)"
+msgstr ""
+
+msgid "Edit Menu Item"
+msgstr ""
+
+msgid "URL"
+msgstr ""
+
+msgid "Navigation Label"
+msgstr ""
+
+msgid "Title Attribute"
+msgstr ""
+
+msgid "Link Target"
+msgstr ""
+
+msgid "Same window or tab"
+msgstr ""
+
+msgid "New window or tab"
+msgstr ""
+
+msgid "CSS Classes (optional)"
+msgstr ""
+
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+msgid "Sub Label"
+msgstr ""
+
+msgid "Select label type"
+msgstr ""
+
+msgid "Label Default"
+msgstr ""
+
+msgid "Label Primary"
+msgstr ""
+
+msgid "Label Success"
+msgstr ""
+
+msgid "Label Info"
+msgstr ""
+
+msgid "Label Warning"
+msgstr ""
+
+msgid "Label Danger"
+msgstr ""
+
+msgid "Enter icon for menu"
+msgstr ""
+
+msgid "Ex:fa-crosshairs"
+msgstr ""
+
+msgid "Use as Mega Menu"
+msgstr ""
+
+msgid "Select style for megamenu"
+msgstr ""
+
+msgid "Block"
+msgstr ""
+
+msgid "Tab"
+msgstr ""
+
+msgid "Select column number for megamenu"
+msgstr ""
+
+msgid "Enter title  for mega menu style \"Tab\" "
+msgstr ""
+
+msgid "Select Widget Area"
+msgstr ""
+
+msgid "Original: %s"
+msgstr ""
+
+msgid "This theme requires the following plugin installed or update: %1$s."
+msgid_plural ""
+"This theme requires the following plugins installed or updated: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "This theme recommends the following plugin installed or updated: %1$s."
+msgid_plural ""
+"This theme recommends the following plugins installed or updated: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+msgid "Reply"
+msgstr ""
+
+msgid "We can&rsquo;t find what you&rsquo;re looking for!"
+msgstr ""
+
+msgid "Ready to publish your first post?"
+msgstr ""
+
+msgid "Get started here"
+msgstr ""
+
+msgid "Please try again with different keywords."
+msgstr ""
+
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+msgid "Helpful Links"
+msgstr ""
+
+msgid "Read more"
+msgstr ""
+
+msgid "Pages:"
+msgstr ""
+
+msgid "Sale Off"
+msgstr ""
+
+msgid "Review Ratings: %s"
+msgstr ""
+
+msgid "You Will Also Like"
+msgstr ""
+
+msgid "Cabin Types"
+msgstr ""
+
+msgid "Book Now"
+msgstr ""
+
+msgid "Hotel Overview"
+msgstr ""
+
+msgid "Contact Us"
+msgstr ""
+
+msgid "Open Map"
+msgstr ""
+
+msgid "special offer"
+msgstr ""
+
+msgid "Talk to me!"
+msgstr ""
+
+msgid "Teammate"
+msgstr ""
+
+msgid "Monday"
+msgstr ""
+
+msgid "Tuesday"
+msgstr ""
+
+msgid "Wednesday"
+msgstr ""
+
+msgid "Thursday"
+msgstr ""
+
+msgid "Friday"
+msgstr ""
+
+msgid "Saturday"
+msgstr ""
+
+msgid "Sunday"
+msgstr ""
+
+msgid "Daily"
+msgstr ""
+
+msgid "Every "
+msgstr ""
+
+msgid " of every month"
+msgstr ""
+
+msgid "Departure Date"
+msgstr ""
+
+msgid "Duration"
+msgstr ""
+
+msgid "Views"
+msgstr ""
+
+msgid "Review Ratings"
+msgstr ""
+
+msgid "Maximum Seats"
+msgstr ""
+
+msgid "email"
+msgstr ""
+
+msgid "password"
+msgstr ""
+
+msgid "Remember me"
+msgstr ""
+
+msgid "sign in"
+msgstr ""
+
+msgid "create now"
+msgstr ""
+
+msgid "create your account and join with us"
+msgstr ""
+
+msgid "User Name"
+msgstr ""
+
+msgid "Please enter a username."
+msgstr ""
+
+msgid "Your username must consist of at least 6 characters."
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Please enter your email."
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Please provide a password."
+msgstr ""
+
+msgid "Your password must be at least 8 characters long."
+msgstr ""
+
+msgid "Confirm Password"
+msgstr ""
+
+msgid "Please enter the same password as above."
+msgstr ""
+
+msgid "Please authentication I'm not a robot."
+msgstr ""
+
+msgid "Create Account"
+msgstr ""
+
+msgid ""
+"Sorry, but nothing matched your search filters. Please try again with "
+"different search filters."
+msgstr ""
+
+msgid ""
+"Sorry, but nothing matched your search  filters. Please try again with "
+"different search filters."
+msgstr ""
+
+msgid "Posts navigation"
+msgstr ""
+
+msgid "Older posts"
+msgstr ""
+
+msgid "Newer posts"
+msgstr ""
+
+msgid "Post navigation"
+msgstr ""
+
+msgid "Search here..."
+msgstr ""
+
+msgid "Product"
+msgstr ""
+
+msgid "Quantity"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Remove this item"
+msgstr ""
+
+msgid "Available on backorder"
+msgstr ""
+
+msgid "Coupon"
+msgstr ""
+
+msgid "Coupon code"
+msgstr ""
+
+msgid "Apply Coupon"
+msgstr ""
+
+msgid "Update Cart"
+msgstr ""
+
+msgid "Sale"
+msgstr ""

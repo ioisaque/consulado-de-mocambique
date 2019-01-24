@@ -1,0 +1,608 @@
+/*------------------------------------------------------------------
+[Table of contents]
+
+This file include some global style admin panel
+
+- Custom Redux framework
+- Utilities element
+- Custom Metabox
+- Widget
+-------------------------------------------------------------------*/
+
+@CHARSET "UTF-8";
+#adminmenu #toplevel_page_Exploore_options > .toplevel_page_Exploore_options {
+	/*background-image: url("../images/menu-icon.png");*/
+	background-repeat: no-repeat;
+	background-position: 10px center;
+}
+#adminmenu #toplevel_page_Exploore_options > .toplevel_page_Exploore_options img {
+	/*display: none;*/
+}
+/* Custom theme option - redux framework */
+#adminmenu .wp-menu-image img {
+	padding-top: 11px;
+}
+#slz-footerbt-partner-slides-ul .slide-title{
+	display: none;
+}
+#slz-footerbt-partner-slides-ul .large-text{
+	display: none;
+}
+#redux_rAds,
+#redux_dashboard_widget,
+#redux-header .rAds,
+.redux-messageredux-notice,
+.redux-message.redux-notice {
+	display: none !important;
+	opacity: 0 !important;
+}
+.slz-sub-session{
+	margin-left: 44px;
+}
+.admin-color-fresh #redux-header,
+.wp-customizer #redux-header {
+	background: #292F32;
+	border-color: #ffdd00;
+}
+
+.redux-main #redux-sticky #info_bar {
+	height: 40px;
+}
+
+.redux-main #redux-sticky #info_bar .expand_options {
+	margin-top: 9px;
+}
+
+#redux_save {
+	background: #51A3ED;
+	border-color: #51A3ED;
+	color: #FFF;
+	padding: 3px 15px;
+	border-radius: 0px;
+	height: auto;
+	box-shadow: none;
+	font-weight: bold;
+	margin-right: 5px;
+}
+
+#redux_save[disabled] {
+	background: #51A3ED !important;
+	border-color: #51A3ED !important;
+}
+
+#redux_save:hover {
+	background: #62B4FE;
+	border-color: #62B4FE;
+}
+
+#redux-defaults-section, 
+#redux-defaults {
+	background: #20CEB3;
+	border-color: #20CEB3;
+	color: #FFF;
+	padding: 3px 15px;
+	border-radius: 0px;
+	height: auto;
+	box-shadow: none;
+	font-weight: bold;
+	margin-right: 5px;
+}
+
+#redux-defaults-section[disabled],
+#redux-defaults[disabled] {
+	background: #20CEB3 !important;
+	border-color: #20CEB3 !important;
+	-webkit-text-shadow: none !important;
+	-moz-text-shadow: none !important;
+	text-shadow: none !important;
+}
+
+#redux-defaults-section:hover,
+#redux-defaults:hover {
+	background: #24E9CA;
+	border-color: #24E9CA;
+}
+
+.redux-sidebar .redux-group-menu li a {
+	padding: 12px 4px 14px 14px;
+}
+
+.redux-container-image_select .redux-image-select .tiles,
+.redux-container-image_select .redux-image-select img {
+	border-color: rgb(236, 236, 236);
+	margin-right: 10px;
+}
+
+.redux-container-image_select .redux-image-select .tiles,
+.redux-container-image_select .redux-image-select img:hover {
+	border-color: #d5d5d5;
+}
+
+.admin-color-fresh .redux-container-image_select .redux-image-select-selected img,
+.wp-customizer .redux-container-image_select .redux-image-select-selected img {
+	border-width: 3px;
+	border-color: #20CEB3;
+}
+
+.redux-container-image_select .redux-image-select {
+	max-width: 100%;
+}
+
+.select2-container .select2-choice {
+	height: 28px;
+}
+.redux-container #redux-footer #redux-share {
+	line-height: 33px;
+}
+.redux-container .redux-action_bar .spinner {
+	margin-top: 8px;
+}
+/* for menu */
+.menu-item-depth-0 .slz-mega-menu-d0{
+	display:block !important;
+}
+.menu-item-depth-0 .slz-show-megamenu.slz-mega-menu-d0,.menu-item-depth-0 .megamenu-column.slz-mega-menu-d0 {
+	display:block;
+}
+.slz_menu_options .show-widget ,.slz_menu_options .tab-title ,
+.slz_menu_options .choose-widgetarea,.slz_menu_options .widget-column,
+.slz_menu_options .megamenu-column,.slz_menu_options .slz-show-megamenu,
+.slz_menu_options .megamenu-style{
+	display:none;
+}
+.slz_menu_options .menu-text-box{
+	width: 190px;
+}
+.menu-item-depth-1 .widget-column.open,.menu-item-depth-1 .choose-widgetarea.open , .menu-item-depth-1 .widget-column.open,
+.menu-item-depth-1 .choose-widgetarea.open,.menu-item-depth-0 .tab-title.open{
+	display: block;
+}
+
+/* Page option */
+/*
+#slz_mbox_page_setting .inside {
+	padding: 0;
+	margin: 0;
+}
+.tab-panel {
+	display: table;
+	width: 100%;
+}
+.tab-panel .tab-list {
+	background-color: #f2f2f2;
+}
+.tab-list {
+	width: 20%;
+	float: left;
+	margin: 0;
+}
+.tab-list li {
+	display: block;
+	width: 100%;
+	margin: 0;
+}
+.tab-list li a {
+	padding: 12px 4px 12px 14px;
+	display: block;
+	background: #F2F2F2;
+	border-width: 1px 0px;
+	border-style: solid;
+	border-top: 0;
+	border-bottom: 1px solid #E7E7E7;
+	opacity: 0.7;
+	color: #555;
+	font-weight: bold;
+	text-decoration: none;
+	-webkit-transition: none 0s ease 0s;
+	-moz-transition: none 0s ease 0s;
+	transition: none 0s ease 0s;
+}
+.tab-list li a:hover {
+	background: #E5E5E5 none repeat scroll 0% 0%;
+	color: #777;
+	opacity: 1;
+}
+.tab-list li a:focus {
+	box-shadow: none;
+}
+
+.tab-list li.active a {
+	background: #FFFFFF;
+	color: #000;
+	opacity: 1;
+}
+.tab-container {
+	width: 80%;
+	float: left;
+	background-color: #fff;
+	border-left: 1px solid #dfdfdf;
+}
+.tab-wrapper {
+	padding: 0 10px 10px 15px;
+}
+.tab-container .tab-content {
+	display: none;
+}
+.tab-container .tab-content.active {
+	display: block;
+}
+.slz-btn-remove {
+	color: #ef521d !important;
+}
+.slz-page-meta .form-table tr {
+	border-bottom: 1px solid #e7e7e7;
+	font-size: 13px;
+}
+.slz-page-meta {
+	border-left: 1px solid #d8d8d8;
+}
+.slz-page-meta .form-table th,
+.slz-page-meta .form-table td {
+	font-size: 13px;
+}
+.slz-page-meta .form-table p.description {
+	font-size: 11px;
+}
+.slz-w200 {
+	width: 200px;
+}
+.slz-w190 {
+	width: 190px;
+}
+.slz-image-select img {
+	border-color: rgb(236, 236, 236);
+	border-style: solid;
+	border-width: 4px;
+}
+
+.slz-image-select-selected img {
+	border-color: #20CEB3 !important;
+	border-style: solid;
+	border-width: 4px;
+}
+.slz-image-select img:hover {
+	border-color: #d5d5d5;
+	border-style: solid;
+	border-width: 4px;
+}
+*/
+/* Widget CSS */
+form.slz-add-widget{
+	background-color: #fff;
+	border: 1px solid #e5e5e5;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+	margin: 10px 0 0;
+	padding: 10px;
+	text-align: center;
+	height:100px;
+}
+form.slz-add-widget .slz_style_wrap{
+	float:left;
+	width:300px;
+	height:40px;
+	margin:0 20px;
+}
+form.slz-add-widget .slz_button{
+	float:left;
+	border:none;
+	border-radius: 3px;
+	background: #62b4fe;
+	color:#fff;
+	font-weight:bold;
+	height:40px;
+	padding:0 15px;
+}
+form.slz-add-widget .slz_button:hover{
+	background-color: #7bc0fe;
+	border-color: #7bc0fe;
+}
+form.slz-add-widget .slz_button:active{
+	box-shadow: 0 3px 3px rgba(0,0,0,0.5) inset;
+}
+
+.sidebar-slz-custom{
+	position: relative;
+}
+
+.slz-sidebar-delete-button{
+	font-size: 25px;
+	font-weight:bold;
+	color: #ccc;
+	position: absolute;
+	z-index: 100;
+	left: 250px;
+	top: 12px;
+}
+
+.slz-sidebar-delete-button:hover{
+	cursor: pointer;
+	color:#20CEB3;
+}
+
+/* Theme Info CSS */
+.slz-tab-style .about-wrap h1 {
+	margin: 20px 0;
+	padding: 0;
+	color: #32373c;
+	line-height: 1.2em;
+	font-size: 2.8em;
+	font-weight: 400;
+}
+.slz-tab-style .slz-important-notice{
+	background: #f9f9fb none repeat scroll 0 0;
+	margin: 0;
+	padding: 25px 30px;
+}
+.slz-tab-style .about-description{
+	margin: 0;
+	font-size: 16px;
+}
+.slz-tab-style .about-text{
+	margin: 20px 0;
+	font-size: 16px;
+}
+.theme-browser .theme .theme-actions{
+	opacity:1;
+}
+.slz-install-plugins .plugin-info {
+	font-size: 14px;
+	position: absolute;
+	text-align: center;
+	top: 175px;
+	width: 100%;
+	color: #333333;
+	font-weight:bold;
+}
+.slz-install-plugins .plugin-required {
+	background: rgba(213, 78, 33, 0.9) none repeat scroll 0 0;
+	color: #fff;
+	padding: 4px 8px;
+	position: absolute;
+	top: 0;
+}
+.slz-install-plugins .plugin-recommend {
+	background: #B0D029 none repeat scroll 0 0;
+	color: #fff;
+	padding: 4px 8px;
+	position: absolute;
+	top: 0;
+}
+.theme-browser .theme .theme-name{
+	padding-right:100px;
+}
+.theme-browser .theme .theme-actions .button-primary{
+	margin-right: 0;
+}
+.slz-system-status table {
+	margin-bottom: 20px;
+}
+.widefat thead tr th{
+	font-weight: bold;
+}
+.slz-tab-style .slz-demo-themes.slz-install-plugins{
+	padding: 30px;
+	background-color: #f9f9fb;
+}
+.slz-tab-style h2.nav-tab-wrapper{
+	padding: 0;
+}
+.slz-system-status table td:first-child {
+	width: 33%;
+}
+.theme-browser .theme .theme-screenshot img{
+	height: 100%;
+}
+.slz-tab-style h1.nav-tab-wrapper, .slz-tab-style h2.nav-tab-wrapper, .slz-tab-style h3.nav-tab-wrapper{
+	border: 0;
+}
+.slz-tab-style h2 .nav-tab{
+	border: 0;
+	margin: 0 5px 0 0;
+	font-size: 14px;
+	text-transform: uppercase;
+	padding: 7px 15px;
+}
+.slz-tab-style .nav-tab-wrapper .nav-tab-active{
+	background-color: #f9f9fb;
+	color: #d54e21;
+}
+.slz-tab-style .slz-system-status{
+	background-color: #f9f9fb;
+	padding: 30px;
+}
+.slz-tab-style .widefat thead tr th{
+	background-color: #f0f0f0;
+}
+.slz-tab-style .widefat td, .slz-tab-style .widefat th {
+	padding: 10px 15px;
+	border-top: 1px solid #f0f0f0;	
+}
+.slz-tab-style .feature-section {
+	padding: 0;
+	border-bottom: 0	
+}
+.slz-requirement td .fa-check-square{
+	color: #27AE60;
+	font-size:18px;
+}
+.slz-requirement td .fa-info-circle{
+	color: #E74C3C;
+	font-size:18px;
+}
+.slz-requirement td:nth-child(2) span{
+	margin-left:15px;
+}
+.slz-requirement td:nth-child(2) a{
+	margin-left:15px;
+	background:#3498DB;
+	display: inline-block;
+	padding: 0px 10px 1px;
+	transition: all 0.2s ease-out 0s;
+	line-height: 26px;
+	height: 27px;
+	color: #FFF;
+}
+.slz-requirement td:nth-child(2) a:hover{
+	background: #2980B9;
+}
+.slz-icons .clearfix:before, .slz-icons .clearfix:after {
+	content: " ";
+	display: table;
+}
+.slz-icons .clearfix:after {
+	clear: both;
+}
+.slz-icons .glyph {
+	font-size: 22px;
+	width: 12em;
+	margin: 1em 2em 0 0;
+	float: left;
+	overflow: hidden;
+}
+.slz-icons .glyph .pbs {
+	box-shadow: inset 0 -2px #E7E7E7;
+	padding-bottom: 1em;
+	padding-top: 0.5em;
+}
+.slz-icons .glyph .mls {
+	margin-left: 0.25em;
+}
+/*accordion widget*/
+.widget-content .widget-accordion-item {
+	border: 1px solid rgba(12, 1, 1, 0.16);
+	margin-bottom: 20px;
+	padding: 4px;
+}
+/*Custom Styles to WordPress Visual Editor*/
+.mce-menu-sub .mce-menu-item .mce-text {
+	font-size: 14px !important;
+	text-transform: none !important;
+}
+/*widget accordion*/
+.widget-box{
+	border: 1px solid rgba(21, 19, 19, 0.22);
+	padding: 5px;
+	margin-bottom: 15px;
+}
+
+/* Add widget  CSS */
+/* Widget CSS */
+form.slzexploore-add-widget{
+	background-color: #fff;
+	border: 1px solid #e5e5e5;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+	margin: 10px 0 0;
+	padding: 10px;
+	text-align: center;
+	height:170px;
+}
+form.slzexploore-add-widget .slzexploore_style_wrap{
+	float:left;
+	width:300px;
+	height:40px;
+	margin:10px 20px;
+}
+form.slzexploore-add-widget .slzexploore_button{
+	float:left;
+	border:none;
+	border-radius: 3px;
+	background: #62b4fe;
+	color:#fff;
+	font-weight:bold;
+	height:40px;
+	padding:0 15px;
+	margin-top: 10px;
+}
+form.slzexploore-add-widget .slzexploore_button:hover{
+	background-color: #7bc0fe;
+	border-color: #7bc0fe;
+}
+form.slzexploore-add-widget .slzexploore_button:active{
+	box-shadow: 0 3px 3px rgba(0,0,0,0.5) inset;
+}
+
+.sidebar-slzexploore-custom{
+	position: relative;
+}
+
+.slzexploore-sidebar-delete-button{
+	font-size: 25px;
+	font-weight:bold;
+	color: #ccc;
+	position: absolute;
+	z-index: 100;
+	right: 5px;
+	top: 0;
+}
+.sidebar-slz-custom .sidebar-name .activate_spinner{
+	visibility: visible;
+}
+
+.slzexploore-sidebar-delete-button:hover{
+	cursor: pointer;
+	color:#20CEB3;
+}
+ /*select link*/
+.slz-link-desc{
+	margin-right: 62px;
+}
+
+/* login logo images */
+#login p.message {
+	border-left: 4px solid #2aacff;
+}
+/* Change Log CSS */
+.slz-demo-themes .des .update-content {
+	background: #CEFFDD	 ;
+	padding: 15px 15px;
+}
+.slz-demo-themes .des .update-file {
+	background-color: #FBE5DA;
+	padding: 1px 15px 15px;
+}
+.slz-demo-themes .des .update-file p {
+	margin-bottom: 5px;
+}
+.slz-demo-themes .des .update-file ul {
+	margin-top: 0;
+}
+.slz-changelog-list {
+	margin-top: 0;
+}
+.slz-changelog-list dd {
+	border-top: 1px dashed #C6C6C6;
+    padding-bottom: 25px;
+    margin-left: 0;
+}
+.slz-changelog-list dd:first-child {
+	border-top: 0;
+}
+.slz-changelog-list li{
+	list-style-type: disc;
+	margin-left: 33px;
+}
+.slz-changelog-list .title {
+	text-transform: uppercase;
+}
+/*css for field in redux framword*/
+.redux-sorter-container.redux-sorter h3{
+	text-transform: capitalize;
+}
+.redux-main .redux-group-tab table.form-table-section-indented{
+  margin-left: 5%;
+}
+.redux-main table.form-table  .redux-container-background  .select2-container{
+  display: inline-block !important;
+  margin-bottom: 10px;
+}
+/* RTL css */
+.rtl .tab-panel .tab-list,
+.rtl .slz-custom-meta .slz-meta-row .slz-desc,
+.rtl .slz-page-meta .cruise-status td .f-left,
+.rtl .slz-page-meta .booking-status td .f-left{
+	float: right;
+}
+.rtl .slz-custom-meta .slz-meta-row .slz-desc .f-right,
+.rtl .slz-page-meta .form-table th .f-right{
+	float: none;
+}

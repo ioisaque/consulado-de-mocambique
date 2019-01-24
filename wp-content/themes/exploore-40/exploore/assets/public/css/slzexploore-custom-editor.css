@@ -1,0 +1,150 @@
+/* CSS Document */
+
+/*Custom Styles to WordPress Visual Editor*/
+.dropcap {
+	float: left;
+	display: block;
+	font-size: 50px;
+	line-height: 1;
+	color: #737373;
+	font-family: "Roboto", Helvetica, Arial, sans-serif;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-right: 25px;
+}
+.dropcap1 {
+	float: left;
+	display: block;
+	font-size: 36px;
+	line-height: 1;
+	border-radius:50%;
+	font-family: "Roboto", Helvetica, Arial, sans-serif;
+	text-transform: uppercase;
+	padding: 5px 12px;
+	margin-right: 8px;
+	border: 0;
+	background-color: #737373;
+	color: #fff;
+}
+.dropcap2 {
+	background-color: transparent !important;
+	color: #4B4B4B;
+	font-size: 79px;
+	line-height: 69px;
+	margin: 0px 9px 0px 0px;
+	padding: 0px 13px 0px 0px;
+}
+.dropcap3 {
+	background-color: transparent !important;
+	color: #4B4B4B;
+	font-weight: bold;
+	font-size: 79px;
+	line-height: 69px;
+	margin: 0px 9px 0px 0px;
+	padding: 0px 13px 0px 0px;
+}
+.highlight {
+	background-color: rgba(0, 0, 0, 0.77);
+	padding: 5px 0px 6px;
+	margin: 0px 8px;
+	box-shadow: 8px 0px 0px rgba(0, 0, 0, 0.77), -8px 0px 0px rgba(0, 0, 0, 0.77);
+	color: #2A2A2A;
+	transition: color 400ms ease 0s;
+}
+.highlight_maker {
+	padding: 5px 0px 6px;
+	margin: 0px 8px;
+	color: #FFF;
+	transition: color 400ms ease 0s;
+}
+.highlight:hover {
+	color: #F9F9F9;
+}
+.highlight_maker.red {
+	background-color: rgba(255, 28, 26, 0.62);
+	box-shadow: 8px 0px 0px rgba(255, 28, 26, 0.62), -8px 0px 0px rgba(255, 28, 26, 0.62);
+}
+.highlight_maker.blue {
+	background-color: rgba(57, 213, 255, 0.75);
+	box-shadow: 8px 0px 0px rgba(57, 213, 255, 0.75), -8px 0px 0px rgba(57, 213, 255, 0.75);
+}
+.highlight_maker.green {
+	background-color: rgba(77, 216, 69, 0.65);
+	box-shadow: 8px 0px 0px rgba(77, 216, 69, 0.65), -8px 0px 0px rgba(77, 216, 69, 0.65);
+}
+.highlight_maker.yellow {
+	background-color: rgba(255, 203, 0, 0.75);
+	box-shadow: 8px 0px 0px rgba(255, 203, 0, 0.75), -8px 0px 0px rgba(255, 203, 0, 0.75);
+}
+.highlight_maker.pink {
+	background-color: rgba(255, 101, 243, 0.75);
+	box-shadow: 8px 0px 0px rgba(255, 101, 243, 0.75), -8px 0px 0px rgba(255, 101, 243, 0.75);
+}
+/* Blcok quote css*/
+.blockquote {
+	color: #737373;
+	font-family: 'Roboto', sans-serif;
+	padding-left: 15px;
+	font-weight: 300;
+	font-style: italic;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+.blockquote-01 {
+	font-size: 18px;
+}
+blockquote.blockquote-01 p {
+	font-size: 18px;
+}
+blockquote.blockquote-01 {
+	padding-left: 20px;
+}
+
+blockquote.blockquote-02 {
+	border-left: 0;
+	font-size: 24px;
+	padding-left: 60px;
+	color: #333333;
+	position: relative;
+}
+blockquote.blockquote-02:before {
+	position: absolute;
+	content: '\f10d';
+	font-family: 'FontAwesome';
+	top: -10px;
+	left: 0;
+	font-size: 40px;
+	color: #f1f1f1;
+}
+blockquote.blockquote-02 p {
+	font-size: 24px;
+}
+.blockquote-03 {
+	padding: 30px;
+	border-top: 2px solid #333;
+	border-left: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	margin-left: 0;
+	margin-right: 0;
+}
+blockquote.blockquote-03 p {
+	font-size: 18px;
+	border-left: 0;
+	padding: 10px 20px 10px 40px;
+	margin-bottom: 0;
+	position: relative;
+}
+blockquote.blockquote-03 p:before {
+	position: absolute;
+	content: '\f10d';
+	font-family: 'FontAwesome';
+	top: 5px;
+	left: 0;
+	font-size: 30px;
+	color: #f1f1f1;
+}
+blockquote.blockquote-04 p {
+	font-size: 14px;
+}
+/* -----Custom Styles to WordPress Visual Editor-------*/

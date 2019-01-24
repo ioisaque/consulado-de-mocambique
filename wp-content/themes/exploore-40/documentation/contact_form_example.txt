@@ -1,0 +1,71 @@
+===============================>>>><<<<================================================
+*** Add contact form 7 for "BOOKING NOW" ***
+===================================================
+
+- To add new form, please go to Admin Panel -> Contact -> Add New 
+- Enter title and content of form as below : 
+	+ Title : "Booking Contact".
+	+ In Form tab, Enter code below : 
+	======================================================================
+	<h5 class="title">Contact us</h5><p class="text">Just pack and go! Let leave your travel plan to travel experts!</p>
+[text* your-name class:form-control class:form-input placeholder "Your Name*"]
+[email* your-email class:form-control class:form-input placeholder "Your Email*"]
+[textarea your-message class:form-control class:form-input placeholder "Your Message"][dynamichidden booking_name class:cf7_booking_name][dynamichidden booking_url class:cf7_booking_url][email* booking_cc class:cf7_booking_cc class:cft-hidden ][email* booking_bcc class:cf7_booking_bcc class:cft-hidden ]<div class="contact-submit">[submit class:btn class:btn-slide "SEND MESSENGER"]</div>
+	======================================================================
+	+ In Mail tab, Enter below information :
+		To : enter a custom mail address which you want to user send mail to.
+		From : enter code "[your-name] [your-email]".
+		Additional Headers: enter code below:
+			Reply-To: [your-email]
+			Cc: [booking_cc]
+			Bcc: [booking_bcc]
+		Message Body: enter code below:
+			From: [your-name] <[your-email]>
+			Subject: Booking : [booking_name] --- [your-subject]
+
+			Title : [booking_name]
+			URL : [booking_url]
+			[your-message]
+
+===============================>>>><<<<================================================
+*** Add contact form 7 for "CONTACT" block ***
+===================================================
+
+- To add new form, please go to Admin Panel -> Contact -> Add New 
+- Enter title and content of form as below : 
+	+ Title : "Contact".
+	+ In Form tab, Enter code below : 
+	======================================================================
+	[text* your-name class:form-control class:form-input placeholder "Your Name"]
+	[email* your-email class:form-control class:form-input placeholder "Your Email"]
+	[textarea* your-subject class:form-control class:form-input placeholder "Your Message"]
+	<div class="contact-submit">[submit class:btn class:btn-slide "SEND MESSENGER"]</div>
+	======================================================================
+	+ In Mail tab, Enter below information :
+		To : enter a custom mail address which you want to user send mail to.
+		From : enter code "[your-name] [your-email]".
+
+===============================>>>><<<<================================================
+*** Add contact form 7 for "FAQs Request" block ***
+===================================================
+- To add new form, please go to Admin Panel -> Contact -> Add New 
+- Enter title and content of form as below : 
+	+ Title : "FAQs Request".
+	+ In Form tab, Enter code below : 
+	======================================================================
+	[text* your-name class:form-control class:form-input placeholder "Name *"][email* your-email class:form-control class:form-input placeholder "Email *"][textarea* your-subject class:form-control class:form-input placeholder "Question *"]
+	<div class="contact-submit">
+		[submit class:btn class:btn-slide "SEND QUESTION"]
+	</div>
+	======================================================================
+	+ In Mail tab, Enter below information :
+		To : enter a custom mail address which you want to user send mail to.
+		From : enter code "[your-name] [your-email]".
+
+========================================>>>><<<<================================================
+Notes : 
+If you want to change error message of contact form with exploore custom format. Please follow the example below.
+Example : To change message "The field is required." to message "Your Name is required." or "Your Email is required." then do the following steps :
+	1. In Messages tab, find mesaage "The field is required." and replace to "[field_name] is required.".
+	2. In Additional Settings, add code 'on_submit: "$.slzexploore_cf7_custom_error_message();"'.
+	

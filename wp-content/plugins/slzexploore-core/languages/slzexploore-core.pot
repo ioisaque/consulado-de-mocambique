@@ -1,0 +1,4517 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-06-23 14:54+0700\n"
+"PO-Revision-Date: 2016-07-20 11:45+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html__;esc_html_e;esc_html_x;_n:1,2;"
+"_n_noop:1,2;_nx:1,2;_nx_noop:1,2;esc_attr__;esc_attr_e;esc_attr_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Select URL"
+msgstr ""
+
+msgid "Switch to LTR"
+msgstr ""
+
+msgid "Switch to RTL"
+msgstr ""
+
+msgid "Demo Already Imported"
+msgstr ""
+
+msgid "Demo Importer"
+msgstr ""
+
+msgid "Requirements"
+msgstr ""
+
+msgid ""
+"Works best to import on a new install of WordPress. You should remove all "
+"posts, pages, widgets content before import demo data. When progress go too "
+"long ( > 15 mins ), please try to refresh page and re-import, or use other "
+"tools in documentation"
+msgstr ""
+
+msgid "Please install required plugins and go to "
+msgstr ""
+
+msgid " to setting your server before click import demo."
+msgstr ""
+
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+msgid "Site does not support widget"
+msgstr ""
+
+msgid "Widget already exists"
+msgstr ""
+
+msgid "Imported"
+msgstr ""
+
+msgid "Imported to Inactive"
+msgstr ""
+
+msgid "No Title"
+msgstr ""
+
+msgid "Sorry, there has been an error."
+msgstr ""
+
+msgid "The file does not exist, please try again."
+msgstr ""
+
+msgid "All done."
+msgstr ""
+
+msgid "Have fun!"
+msgstr ""
+
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+msgid "Assign Authors"
+msgstr ""
+
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+msgid "Import Attachments"
+msgstr ""
+
+msgid "Download and import file attachments"
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "Import author:"
+msgstr ""
+
+msgid "or create new user with login name:"
+msgstr ""
+
+msgid "as a new user:"
+msgstr ""
+
+msgid "assign posts to an existing user:"
+msgstr ""
+
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+msgid "- Select -"
+msgstr ""
+
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+msgid "Failed to import category %s"
+msgstr ""
+
+msgid "Failed to import post tag %s"
+msgstr ""
+
+msgid "Failed to import %s %s"
+msgstr ""
+
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+msgid "Invalid file type"
+msgstr ""
+
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+msgid "Remote file is incorrect size"
+msgstr ""
+
+msgid "Zero size file downloaded"
+msgstr ""
+
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+msgid "Import WordPress"
+msgstr ""
+
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+msgid "Import Demo"
+msgstr ""
+
+msgid "Demo Imported"
+msgstr ""
+
+msgid "Please Wait..."
+msgstr ""
+
+msgid "Re-Import"
+msgstr ""
+
+msgid "No Demo Data Provided"
+msgstr ""
+
+msgid "Car Rent"
+msgstr ""
+
+msgid "Car Categories"
+msgstr ""
+
+msgid "Car Locations"
+msgstr ""
+
+msgid "Cruises"
+msgstr ""
+
+msgid "Cruise Categories"
+msgstr ""
+
+msgid "Cruise Locations"
+msgstr ""
+
+msgid "Cruise Facilities"
+msgstr ""
+
+msgid "Accommodations"
+msgstr ""
+
+msgid "Accommodation Categories"
+msgstr ""
+
+msgid "Facilities"
+msgstr ""
+
+msgid "Locations"
+msgstr ""
+
+msgid "Tours"
+msgstr ""
+
+msgid "Tour Categories"
+msgstr ""
+
+msgid "Tour Locations"
+msgstr ""
+
+msgid "Teams"
+msgstr ""
+
+msgid "Team Categories"
+msgstr ""
+
+msgid "All Accommodations"
+msgstr ""
+
+msgid "Add New"
+msgstr ""
+
+msgid "Add New Accommodation"
+msgstr ""
+
+msgid "Edit Accommodation"
+msgstr ""
+
+msgid "Add New Category"
+msgstr ""
+
+msgid "Edit Category"
+msgstr ""
+
+msgid "Parent Category"
+msgstr ""
+
+msgid "Search Categories"
+msgstr ""
+
+msgid "Add New Facility"
+msgstr ""
+
+msgid "Edit Facility"
+msgstr ""
+
+msgid "Parent Facility"
+msgstr ""
+
+msgid "Search Facilities"
+msgstr ""
+
+msgid "Add New Location"
+msgstr ""
+
+msgid "Edit Location"
+msgstr ""
+
+msgid "Parent Location"
+msgstr ""
+
+msgid "Search Locations"
+msgstr ""
+
+msgid "Accommodation Status"
+msgstr ""
+
+msgid "Add New Accommodation Status"
+msgstr ""
+
+msgid "Edit Accommodation Status"
+msgstr ""
+
+msgid "Parent Accommodation Status"
+msgstr ""
+
+msgid "Search Accommodation Status"
+msgstr ""
+
+msgid "All Room Types"
+msgstr ""
+
+msgid "Add New Room Type"
+msgstr ""
+
+msgid "Edit Room Type"
+msgstr ""
+
+msgid "Room Type Categories"
+msgstr ""
+
+msgid "Add New Room Type Category"
+msgstr ""
+
+msgid "Edit Room Type Category"
+msgstr ""
+
+msgid "Parent Room Type Category"
+msgstr ""
+
+msgid "Search Room Type Categories"
+msgstr ""
+
+msgid "Room Status"
+msgstr ""
+
+msgid "Add New Room Status"
+msgstr ""
+
+msgid "Edit Room Status"
+msgstr ""
+
+msgid "Parent Room Status"
+msgstr ""
+
+msgid "Search Room Status"
+msgstr ""
+
+msgid "All Vacancies"
+msgstr ""
+
+msgid "Add New Vacancy"
+msgstr ""
+
+msgid "Edit Vacancy"
+msgstr ""
+
+msgid "All Bookings"
+msgstr ""
+
+msgid "Add New Booking"
+msgstr ""
+
+msgid "Edit Booking"
+msgstr ""
+
+msgid "Booking Status"
+msgstr ""
+
+msgid "Add New Booking Status"
+msgstr ""
+
+msgid "Edit Booking Status"
+msgstr ""
+
+msgid "Parent Booking Status"
+msgstr ""
+
+msgid "Search Booking Status"
+msgstr ""
+
+msgid "All Tours"
+msgstr ""
+
+msgid "Add New Tour"
+msgstr ""
+
+msgid "Edit Tour"
+msgstr ""
+
+msgid "Add New Tour Location"
+msgstr ""
+
+msgid "Edit Tour Location"
+msgstr ""
+
+msgid "Parent Tour Location"
+msgstr ""
+
+msgid "Search Tour Locations"
+msgstr ""
+
+msgid "Tour Tags"
+msgstr ""
+
+msgid "Add New Amenity"
+msgstr ""
+
+msgid "Edit Amenity"
+msgstr ""
+
+msgid "Parent Tag"
+msgstr ""
+
+msgid "Search Tags"
+msgstr ""
+
+msgid "Tour Status"
+msgstr ""
+
+msgid "Add New Tour Status"
+msgstr ""
+
+msgid "Edit Tour Status"
+msgstr ""
+
+msgid "Parent Tour Status"
+msgstr ""
+
+msgid "Search Tour Status"
+msgstr ""
+
+msgid "Tour Bookings"
+msgstr ""
+
+msgid "Add New Tour Booking"
+msgstr ""
+
+msgid "Edit Tour Booking"
+msgstr ""
+
+msgid "Tour Booking Status"
+msgstr ""
+
+msgid "Add New Tour Booking Status"
+msgstr ""
+
+msgid "Edit Tour Booking Status"
+msgstr ""
+
+msgid "Parent Tour Booking Status"
+msgstr ""
+
+msgid "Search Tour Booking Status"
+msgstr ""
+
+msgid "All Schedule"
+msgstr ""
+
+msgid "Add New Schedule"
+msgstr ""
+
+msgid "Edit Schedule"
+msgstr ""
+
+msgid "Extra Items"
+msgstr ""
+
+msgid "All Extra Items"
+msgstr ""
+
+msgid "Add New Item"
+msgstr ""
+
+msgid "Edit Item"
+msgstr ""
+
+msgid "All Teams"
+msgstr ""
+
+msgid "Add New Team"
+msgstr ""
+
+msgid "Edit Team"
+msgstr ""
+
+msgid "Partners"
+msgstr ""
+
+msgid "Add New Partner"
+msgstr ""
+
+msgid "Edit Partner"
+msgstr ""
+
+msgid "Partner Categories"
+msgstr ""
+
+msgid "Gallery"
+msgstr ""
+
+msgid "Add New Gallery"
+msgstr ""
+
+msgid "Edit Gallery"
+msgstr ""
+
+msgid "Gallery Categories"
+msgstr ""
+
+msgid "Testimonials"
+msgstr ""
+
+msgid "Add New Testimonial"
+msgstr ""
+
+msgid "Edit Testimonial"
+msgstr ""
+
+msgid "FAQs"
+msgstr ""
+
+msgid "Add New FAQ"
+msgstr ""
+
+msgid "Edit FAQ"
+msgstr ""
+
+msgid "FAQ Categories"
+msgstr ""
+
+msgid "All Car Rents"
+msgstr ""
+
+msgid "Car Rents"
+msgstr ""
+
+msgid "Add New Car"
+msgstr ""
+
+msgid "Edit Car"
+msgstr ""
+
+msgid "Add New Car Category"
+msgstr ""
+
+msgid "Edit Car Category"
+msgstr ""
+
+msgid "Parent Car Category"
+msgstr ""
+
+msgid "Search Car Categories"
+msgstr ""
+
+msgid "Add New Car Location"
+msgstr ""
+
+msgid "Edit Car Location"
+msgstr ""
+
+msgid "Parent Car Location"
+msgstr ""
+
+msgid "Search Car Locations"
+msgstr ""
+
+msgid "Car Status"
+msgstr ""
+
+msgid "Add New Car Status"
+msgstr ""
+
+msgid "Edit Car Status"
+msgstr ""
+
+msgid "Parent Car Status"
+msgstr ""
+
+msgid "Search Car Status"
+msgstr ""
+
+msgid "Car Bookings"
+msgstr ""
+
+msgid "Add New Car Booking"
+msgstr ""
+
+msgid "Edit Car Booking"
+msgstr ""
+
+msgid "Car Booking Status"
+msgstr ""
+
+msgid "Add New Car Booking Status"
+msgstr ""
+
+msgid "Edit Car Booking Status"
+msgstr ""
+
+msgid "Parent Car Booking Status"
+msgstr ""
+
+msgid "Search Car Booking Status"
+msgstr ""
+
+msgid "All Cruises"
+msgstr ""
+
+msgid "Add New Cruise"
+msgstr ""
+
+msgid "Edit Cruise"
+msgstr ""
+
+msgid "Add New Cruise Location"
+msgstr ""
+
+msgid "Edit Cruise Location"
+msgstr ""
+
+msgid "Parent Cruise Location"
+msgstr ""
+
+msgid "Search Cruise Locations"
+msgstr ""
+
+msgid "Cruise Status"
+msgstr ""
+
+msgid "Add New Cruise Status"
+msgstr ""
+
+msgid "Edit Cruise Status"
+msgstr ""
+
+msgid "Parent Cruise Status"
+msgstr ""
+
+msgid "Search Cruise Status"
+msgstr ""
+
+msgid "All Cabin Types"
+msgstr ""
+
+msgid "Add New Cabin Type"
+msgstr ""
+
+msgid "Edit Cabin Type"
+msgstr ""
+
+msgid "Cabin Type Categories"
+msgstr ""
+
+msgid "Add New Cabin Type Category"
+msgstr ""
+
+msgid "Edit Cabin Type Category"
+msgstr ""
+
+msgid "Parent Cabin Type Category"
+msgstr ""
+
+msgid "Search Cabin Type Categories"
+msgstr ""
+
+msgid "Cruise Bookings"
+msgstr ""
+
+msgid "Add New Cruise Booking"
+msgstr ""
+
+msgid "Edit Cruise Booking"
+msgstr ""
+
+msgid "Cruise Booking Status"
+msgstr ""
+
+msgid "Add New Cruise Booking Status"
+msgstr ""
+
+msgid "Edit Cruise Booking Status"
+msgstr ""
+
+msgid "Parent Cruise Booking Status"
+msgstr ""
+
+msgid "Search Cruise Booking Status"
+msgstr ""
+
+msgid "Delete image"
+msgstr ""
+
+msgid "Add gallery images"
+msgstr ""
+
+msgid "Gallery Images"
+msgstr ""
+
+msgid "Add to gallery"
+msgstr ""
+
+msgid "Remove  attachment"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Add Media"
+msgstr ""
+
+msgid "Attachments"
+msgstr ""
+
+msgid "Add media"
+msgstr ""
+
+msgid "Upload Image"
+msgstr ""
+
+msgid "Taxonomy Options"
+msgstr ""
+
+msgid "Import taxonomy options from a JSON file"
+msgstr ""
+
+msgid ""
+"Below option is used to export taxonomy options. This is not include in All "
+"content option when export."
+msgstr ""
+
+msgid "Return to File Upload"
+msgstr ""
+
+msgid "Import WordPress Options"
+msgstr ""
+
+msgid ""
+"Howdy! Upload your WordPress options JSON file and we&#8217;ll import the "
+"desired data. You&#8217;ll have a chance to review the data prior to import."
+msgstr ""
+
+msgid ""
+"Choose a JSON (.json) file to upload, then click Upload file and import."
+msgstr ""
+
+msgid "The file did not upload properly. Please try again."
+msgstr ""
+
+msgid "The path is not a file, please try again."
+msgstr ""
+
+msgid "All done. That was easy."
+msgstr ""
+
+msgid ""
+"Sorry, there has been an error. This file appears valid, but does not seem "
+"to have any options."
+msgstr ""
+
+msgid "%s adult"
+msgid_plural "%s adults "
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%s available room"
+msgid_plural "%s available rooms "
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"Sorry, we not enough rooms to your booking (%s and %s). Please edit your "
+"booking again."
+msgstr ""
+
+msgid ""
+"Sorry, This room is not available for your booking date. Please edit your "
+"booking again."
+msgstr ""
+
+msgid "On Hold"
+msgstr ""
+
+msgid "Please choose a departure date."
+msgstr ""
+
+msgid "Your booking date is not available. Please edit your booking again."
+msgstr ""
+
+msgid ""
+"Sorry, we do not enough available seats to your booking (%s available "
+"seats). Please edit your booking again."
+msgstr ""
+
+msgid "No extra items."
+msgstr ""
+
+msgid ""
+"Sorry, we do not enough available cars to your booking (%s available cars). "
+"Please edit your booking again."
+msgstr ""
+
+msgid ""
+"Sorry, we do not enough available cabins to your booking (%s available "
+"cabins). Please edit your booking again."
+msgstr ""
+
+msgid ""
+"Sorry, Your booking have exceeded allowed adults (%s allowed adults). Please "
+"edit your booking again."
+msgstr ""
+
+msgid ""
+"Sorry, Your booking have exceeded allowed children (%s allowed children). "
+"Please edit your booking again."
+msgstr ""
+
+msgid ""
+"Sorry, we do not enough available seats for your booking (%s available "
+"seats). Please edit your booking again."
+msgstr ""
+
+msgid "Room Price : "
+msgstr ""
+
+msgid "Discount : "
+msgstr ""
+
+msgid "Accommodations Products"
+msgstr ""
+
+msgid "Adults Price : "
+msgstr ""
+
+msgid "Children Price : "
+msgstr ""
+
+msgid "Tours Products"
+msgstr ""
+
+msgid "Car Rent Price : "
+msgstr ""
+
+msgid "Cars Products"
+msgstr ""
+
+msgid "Cruise Price : "
+msgstr ""
+
+msgid "Adult Price : "
+msgstr ""
+
+msgid ", Children Price : "
+msgstr ""
+
+msgid "Cruises Products"
+msgstr ""
+
+msgid "This is a variable product used for booking processed with WooCommerce"
+msgstr ""
+
+msgid "This is a product variation"
+msgstr ""
+
+msgid "Room Type: %s"
+msgstr ""
+
+msgid "Number room: %s"
+msgstr ""
+
+msgid "Check in date: %s"
+msgstr ""
+
+msgid "Check out date: %s"
+msgstr ""
+
+msgid "Adults: %s"
+msgstr ""
+
+msgid "Children: %s"
+msgstr ""
+
+msgid "Departure date: %s"
+msgstr ""
+
+msgid "Number: %s"
+msgstr ""
+
+msgid "Start date: %s"
+msgstr ""
+
+msgid "Return date: %s"
+msgstr ""
+
+msgid "Drop off location: %s"
+msgstr ""
+
+msgid "Departure Date: %s"
+msgstr ""
+
+msgid "Cabin Type : %s"
+msgstr ""
+
+msgid "%s payable in total"
+msgstr ""
+
+msgid "Payment Method : "
+msgstr ""
+
+msgid ""
+"Sorry, we do not enough available rooms to your hotel booking (%s available "
+"rooms)."
+msgstr ""
+
+msgid ""
+"Sorry, we do not enough available seats to your tour booking (%s available "
+"seats)."
+msgstr ""
+
+msgid ""
+"Sorry, we do not enough available cars to your booking (%s available cars)."
+msgstr ""
+
+msgid ""
+"Sorry, we do not enough available cabins to your cruise booking (%s "
+"available cabins)."
+msgstr ""
+
+msgid ""
+"Sorry, we do not enough available seats to your cruise booking (%s available "
+"seats)."
+msgstr ""
+
+msgid "View Cart"
+msgstr ""
+
+msgid "Cancelled"
+msgstr ""
+
+msgid "Room Type"
+msgstr ""
+
+msgid "Number room"
+msgstr ""
+
+msgid "Check in date"
+msgstr ""
+
+msgid "Check out date"
+msgstr ""
+
+msgid "Adults"
+msgstr ""
+
+msgid "Children"
+msgstr ""
+
+msgid "Number"
+msgstr ""
+
+msgid "Start Date"
+msgstr ""
+
+msgid "Return Date"
+msgstr ""
+
+msgid "Drop Off Location"
+msgstr ""
+
+msgid "Cabin Type"
+msgstr ""
+
+msgid "Departure Date"
+msgstr ""
+
+msgid "Pay in Full "
+msgstr ""
+
+msgid "Pay Deposit"
+msgstr ""
+
+msgid "-- Select Location --"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "book now"
+msgstr ""
+
+msgid "contact us"
+msgstr ""
+
+msgid "Book Car"
+msgstr ""
+
+msgid "Car Name"
+msgstr ""
+
+msgid "Price Per Day"
+msgstr ""
+
+msgid "Availabel Cars"
+msgstr ""
+
+msgid "Max People"
+msgstr ""
+
+msgid "Booking Information"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Price"
+msgstr ""
+
+msgid "Days"
+msgstr ""
+
+msgid "Quantity"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "YYYY-MM-DD"
+msgstr ""
+
+msgid "Number of Cars"
+msgstr ""
+
+msgid "Drop-off Location"
+msgstr ""
+
+msgid "Deposit Method"
+msgstr ""
+
+msgid "Pay a %1$s%% deposit per total price."
+msgstr ""
+
+msgid "Pay a deposit of %1$s per car per day."
+msgstr ""
+
+msgid ""
+"Please select the extra items you wish to be included with your car using "
+"the controls you see below."
+msgstr ""
+
+msgid "Item"
+msgstr ""
+
+msgid "Per Day"
+msgstr ""
+
+msgid "SUMMARY"
+msgstr ""
+
+msgid "Booking"
+msgstr ""
+
+msgid "Discount"
+msgstr ""
+
+msgid "Customer Information"
+msgstr ""
+
+msgid "First Name"
+msgstr ""
+
+msgid "Write your first name"
+msgstr ""
+
+msgid "First Name is required."
+msgstr ""
+
+msgid "Last Name"
+msgstr ""
+
+msgid "Write your last name"
+msgstr ""
+
+msgid "Last Name is required."
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Write your email address"
+msgstr ""
+
+msgid "Email is required."
+msgstr ""
+
+msgid "Please enter a valid email."
+msgstr ""
+
+msgid "Number Phone"
+msgstr ""
+
+msgid "Write your number phone"
+msgstr ""
+
+msgid "Number Phone is required."
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "Write your address"
+msgstr ""
+
+msgid "Address is required."
+msgstr ""
+
+msgid "Note"
+msgstr ""
+
+msgid "Write your note"
+msgstr ""
+
+msgid "Note is required."
+msgstr ""
+
+msgid "Thank You. Your booking have received and booking number is "
+msgstr ""
+
+msgid "book"
+msgstr ""
+
+msgid "back"
+msgstr ""
+
+msgid "next"
+msgstr ""
+
+msgid "Anytime"
+msgstr ""
+
+msgid "Monday"
+msgstr ""
+
+msgid "Tuesday"
+msgstr ""
+
+msgid "Wednesday"
+msgstr ""
+
+msgid "Thursday"
+msgstr ""
+
+msgid "Friday"
+msgstr ""
+
+msgid "Saturday"
+msgstr ""
+
+msgid "Sunday"
+msgstr ""
+
+msgid "Every "
+msgstr ""
+
+msgid " of every month"
+msgstr ""
+
+msgid "Book Cruise"
+msgstr ""
+
+msgid "Cruise Name"
+msgstr ""
+
+msgid "Available Seats"
+msgstr ""
+
+msgid "Duration"
+msgstr ""
+
+msgid "Cabin Type Name"
+msgstr ""
+
+msgid "Cabin Price"
+msgstr ""
+
+msgid "Max Adults"
+msgstr ""
+
+msgid "Max Children"
+msgstr ""
+
+msgid "Persons"
+msgstr ""
+
+msgid "Adult"
+msgstr ""
+
+msgid "Child"
+msgstr ""
+
+msgid "Infant"
+msgstr ""
+
+msgid "Pay a deposit of %1$s per cabin type."
+msgstr ""
+
+msgid ""
+"Please select the extra items you wish to be included with your cruise using "
+"the controls you see below."
+msgstr ""
+
+msgid "Per Person"
+msgstr ""
+
+msgid "Book Hotel"
+msgstr ""
+
+msgid "Number Room"
+msgstr ""
+
+msgid "This room is only available for below period."
+msgstr ""
+
+msgid "End Date"
+msgstr ""
+
+msgid "Check In"
+msgstr ""
+
+msgid "Check Out"
+msgstr ""
+
+msgid "Children / Infant"
+msgstr ""
+
+msgid "Item Name"
+msgstr ""
+
+msgid "Persons/Rooms"
+msgstr ""
+
+msgid "Check in"
+msgstr ""
+
+msgid "Check out"
+msgstr ""
+
+msgid "Pay a deposit of %1$s per room type."
+msgstr ""
+
+msgid ""
+"Please select the extra items you wish to be included with your hotel using "
+"the controls you see below."
+msgstr ""
+
+msgid "Booking Total"
+msgstr ""
+
+msgid "Book Now"
+msgstr ""
+
+msgid "Book"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Book Tour"
+msgstr ""
+
+msgid "Tour Name"
+msgstr ""
+
+msgid "Price Per Adult"
+msgstr ""
+
+msgid "Price Per Child"
+msgstr ""
+
+msgid "The tour price will change according to below schedule."
+msgstr ""
+
+msgid "Maximum Seats"
+msgstr ""
+
+msgid "Adult Price"
+msgstr ""
+
+msgid "Child Price"
+msgstr ""
+
+msgid "Price ( Adults/Children )"
+msgstr ""
+
+msgid "Persons ( Adults/Children )"
+msgstr ""
+
+msgid "Pay a deposit of %1$s per adult."
+msgstr ""
+
+msgid ""
+"Please select the extra items you wish to be included with your tour using "
+"the controls you see below."
+msgstr ""
+
+msgid "Subtotal"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Posted by:"
+msgstr ""
+
+msgid "View more"
+msgstr ""
+
+msgid "Tags:"
+msgstr ""
+
+msgid "Read more"
+msgstr ""
+
+msgid "%s"
+msgid_plural "%s"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "More"
+msgstr ""
+
+msgid "-- None --"
+msgstr ""
+
+msgid "-- All Cars --"
+msgstr ""
+
+msgid "-- All Cruises --"
+msgstr ""
+
+msgid "-- All Cabin Types --"
+msgstr ""
+
+msgid "--All Travel Guide--"
+msgstr ""
+
+msgid "-- All Room Types --"
+msgstr ""
+
+msgid "Featured "
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Show "
+msgstr ""
+
+msgid "Percentage"
+msgstr ""
+
+msgid "Fixed Amount"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Room Types"
+msgstr ""
+
+msgid "Others"
+msgstr ""
+
+msgid "Deposit"
+msgstr ""
+
+msgid "Display Title"
+msgstr ""
+
+msgid "This content will display title of the accommodation publicly."
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Hotel status."
+msgstr ""
+
+msgid "Add new status"
+msgstr ""
+
+msgid "Short Description"
+msgstr ""
+
+msgid "This is the content that will be shown on accommodation blocks."
+msgstr ""
+
+msgid "Thumbnail"
+msgstr ""
+
+msgid "Upload thumbnail using to accommodation blocks."
+msgstr ""
+
+msgid "Check-in Time"
+msgstr ""
+
+msgid "Enter information about time check in accommodation."
+msgstr ""
+
+msgid "Example: 2 PM"
+msgstr ""
+
+msgid "Check-out Time"
+msgstr ""
+
+msgid "Choose time check out accommodation."
+msgstr ""
+
+msgid "Example: 12 AM"
+msgstr ""
+
+msgid "Star Rating"
+msgstr ""
+
+msgid "Star rating in this accommodation."
+msgstr ""
+
+msgid "Example: 5"
+msgstr ""
+
+msgid "Average Price / Subfix"
+msgstr ""
+
+msgid ""
+"Average price per night in this accommodation. Enter price subfix to display "
+"( Example: per night)"
+msgstr ""
+
+msgid "Example: 500 / per night"
+msgstr ""
+
+msgid "Contact to accommodation by email."
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid "Contact to accommodation by phone."
+msgstr ""
+
+msgid "Address of accommodation"
+msgstr ""
+
+msgid "Show Room Types Box?"
+msgstr ""
+
+msgid "Show/Hide room types box in detail page."
+msgstr ""
+
+msgid "Add new room type"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Is Discount?"
+msgstr ""
+
+msgid "Add discount to this accommodation."
+msgstr ""
+
+msgid "Discount this accommodation"
+msgstr ""
+
+msgid "Discount Rate (%)"
+msgstr ""
+
+msgid "Example: 35"
+msgstr ""
+
+msgid "Discount Text"
+msgstr ""
+
+msgid "Example: Sale Off"
+msgstr ""
+
+msgid "Discount Start Date"
+msgstr ""
+
+msgid "Example: 2016-06-12"
+msgstr ""
+
+msgid "Discount End Date"
+msgstr ""
+
+msgid "Example: 2016-07-12"
+msgstr ""
+
+msgid "Booking Email"
+msgstr ""
+
+msgid ""
+"This email will receive user booking information when this accommodation "
+"booked. Emails are separated by commas."
+msgstr ""
+
+msgid "CC Email"
+msgstr ""
+
+msgid "BCC Email"
+msgstr ""
+
+msgid "Mark The Accommodation As Featured?"
+msgstr ""
+
+msgid "Feature Text"
+msgstr ""
+
+msgid ""
+"Enter content if you want to display featured ribbon on block. Ex: Hot, "
+"New, ..."
+msgstr ""
+
+msgid ""
+"Attach PDF files, Map images OR other documents related to the accommodation."
+msgstr ""
+
+msgid "Enable Deposit"
+msgstr ""
+
+msgid "Deposit Unit"
+msgstr ""
+
+msgid ""
+"Fixed Amount only apply for room price, Percentage apply for total price ."
+msgstr ""
+
+msgid "Deposit Amount"
+msgstr ""
+
+msgid "Enter deposit amount."
+msgstr ""
+
+msgid "Example: 100"
+msgstr ""
+
+msgid "Customer"
+msgstr ""
+
+msgid "Acommodation"
+msgstr ""
+
+msgid "-- All Accommodation --"
+msgstr ""
+
+msgid "Number Of Rooms"
+msgstr ""
+
+msgid "Example: 2"
+msgstr ""
+
+msgid "Check-in Date"
+msgstr ""
+
+msgid "Check-out Date"
+msgstr ""
+
+msgid "Example: 2016-07-15"
+msgstr ""
+
+msgid "Example: 4"
+msgstr ""
+
+msgid "Example: 1"
+msgstr ""
+
+msgid "Room Price"
+msgstr ""
+
+msgid "Example: 30"
+msgstr ""
+
+msgid "Extra Price"
+msgstr ""
+
+msgid "Total Price"
+msgstr ""
+
+msgid "Future Payments"
+msgstr ""
+
+msgid "Order ID"
+msgstr ""
+
+msgid "View Order"
+msgstr ""
+
+msgid "SKU"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Company Name"
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "City"
+msgstr ""
+
+msgid "Postcode/Zip"
+msgstr ""
+
+msgid "Customer IP"
+msgstr ""
+
+msgid "Customer Notes"
+msgstr ""
+
+msgid "This content will display title of the cabin type publicly."
+msgstr ""
+
+msgid "Choose Cruise"
+msgstr ""
+
+msgid "Choose cruise that the cabin type belong to."
+msgstr ""
+
+msgid "Maximum adults are allowed in the cabin."
+msgstr ""
+
+msgid "Maximum children are allowed in the cabin."
+msgstr ""
+
+msgid "Number Of Cabins"
+msgstr ""
+
+msgid "Number of cabins in this cruise."
+msgstr ""
+
+msgid "Price of this cabin."
+msgstr ""
+
+msgid "Example: 50"
+msgstr ""
+
+msgid "Infant Price"
+msgstr ""
+
+msgid "This price only apply when calculating booking price by person."
+msgstr ""
+
+msgid "Is Person Price?"
+msgstr ""
+
+msgid "If checked, Above price is price per person."
+msgstr ""
+
+msgid "Yes "
+msgstr ""
+
+msgid "Price Text"
+msgstr ""
+
+msgid "Subfix to description price in detail page."
+msgstr ""
+
+msgid "Example: per night"
+msgstr ""
+
+msgid "This content will display title of the car publicly."
+msgstr ""
+
+msgid "Enter information about car."
+msgstr ""
+
+msgid "Price (per day) / Subfix"
+msgstr ""
+
+msgid ""
+"Price (per day ) in this car. Enter price subfix to display ( Example: per "
+"day)"
+msgstr ""
+
+msgid "Example: 50 / per day"
+msgstr ""
+
+msgid "Available Cars"
+msgstr ""
+
+msgid "Number of available cars for rent."
+msgstr ""
+
+msgid "Maximum people are allowed in the car."
+msgstr ""
+
+msgid "Example: 7"
+msgstr ""
+
+msgid "car status."
+msgstr ""
+
+msgid "Address of tour"
+msgstr ""
+
+msgid "Add discount to this car."
+msgstr ""
+
+msgid "Discount this car"
+msgstr ""
+
+msgid "Example: 2016-08-12"
+msgstr ""
+
+msgid ""
+"Images should have minimum size: 900x500. Bigger size images will be cropped "
+"automatically."
+msgstr ""
+
+msgid ""
+"Fixed Amount only apply for car price per day, Percentage apply for total "
+"price ."
+msgstr ""
+
+msgid "Booking Method"
+msgstr ""
+
+msgid ""
+"Choose booking method when click BOOK NOW button in car detail page. This "
+"option overidde value in theme option."
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Booking Form"
+msgstr ""
+
+msgid "Contact Form"
+msgstr ""
+
+msgid "Both"
+msgstr ""
+
+msgid ""
+"This email will receive user booking information when this car booked. "
+"Emails are separated by commas."
+msgstr ""
+
+msgid "Hide (it is fully booked) ?"
+msgstr ""
+
+msgid " Auto hide this post when it is fully booked."
+msgstr ""
+
+msgid "Mark The Car As Featured ?"
+msgstr ""
+
+msgid "Attach PDF files, other documents related to the car."
+msgstr ""
+
+msgid "Car"
+msgstr ""
+
+msgid "Date From"
+msgstr ""
+
+msgid "Date To"
+msgstr ""
+
+msgid "Drop-off Locations"
+msgstr ""
+
+msgid "Basic Price"
+msgstr ""
+
+msgid "Fixed Days"
+msgstr ""
+
+msgid "Show"
+msgstr ""
+
+msgid "Cabin Types"
+msgstr ""
+
+msgid "This content will display title of the cruise publicly."
+msgstr ""
+
+msgid "Information"
+msgstr ""
+
+msgid "This is the content that will be shown on cruise detail page."
+msgstr ""
+
+msgid "This is the content that will be shown on cruise blocks."
+msgstr ""
+
+msgid "Star rating in this cruise."
+msgstr ""
+
+msgid "Date Type"
+msgstr ""
+
+msgid ""
+"Choose date type for the cruise. Check Fixed Days if the cruise open with "
+"fixed date."
+msgstr ""
+
+msgid "Date Frequency"
+msgstr ""
+
+msgid ""
+"Choose departure time of the cruise is weekly, monthly, any day during the "
+"season or a specific day."
+msgstr ""
+
+msgid "Weekly"
+msgstr ""
+
+msgid "Monthly"
+msgstr ""
+
+msgid "Season"
+msgstr ""
+
+msgid "Specific Day"
+msgstr ""
+
+msgid "Day Of Week"
+msgstr ""
+
+msgid "Choose day that the cruise open weekly."
+msgstr ""
+
+msgid "Day Of Month"
+msgstr ""
+
+msgid "Choose day that the cruise open monthly."
+msgstr ""
+
+msgid "Cruise Date"
+msgstr ""
+
+msgid "Enter date of the cruise."
+msgstr ""
+
+msgid "Example: 2016-06-01"
+msgstr ""
+
+msgid "Duration information in the cruise."
+msgstr ""
+
+msgid "Example: 4 days"
+msgstr ""
+
+msgid "Price for an adult in the cruise."
+msgstr ""
+
+msgid "Example: 9800"
+msgstr ""
+
+msgid "Price for an child in the cruise."
+msgstr ""
+
+msgid "Example: 1000"
+msgstr ""
+
+msgid "Max people in the cruise."
+msgstr ""
+
+msgid "Example: 10"
+msgstr ""
+
+msgid "Destination"
+msgstr ""
+
+msgid "Destination of this cruise"
+msgstr ""
+
+msgid "Example: London, UK"
+msgstr ""
+
+msgid "Add discount this cruise."
+msgstr ""
+
+msgid "Discount this cruise"
+msgstr ""
+
+msgid "cruise status."
+msgstr ""
+
+msgid "Show Gallery?"
+msgstr ""
+
+msgid "Show/ Hide gallery in cruise detail."
+msgstr ""
+
+msgid "Show Cabin Types Box?"
+msgstr ""
+
+msgid "Show/Hide cabin types box in detail page."
+msgstr ""
+
+msgid "Add new cabin type"
+msgstr ""
+
+msgid ""
+"Fixed Amount apply for each cabin price, Percentage apply for total price ."
+msgstr ""
+
+msgid ""
+"Choose booking method when click BOOK NOW button in cruise detail page. This "
+"option overidde value in theme option."
+msgstr ""
+
+msgid ""
+"This email will receive user booking information when this cruise booked. "
+"Emails are separated by commas."
+msgstr ""
+
+msgid "Mark The Cruise As Featured ?"
+msgstr ""
+
+msgid "Attach PDF files, Map images OR other documents related to the cruise."
+msgstr ""
+
+msgid "Cruise"
+msgstr ""
+
+msgid "Support"
+msgstr ""
+
+msgid "Price Per Item"
+msgstr ""
+
+msgid "Example: 350"
+msgstr ""
+
+msgid "Is Price Per Day"
+msgstr ""
+
+msgid "Only apply for Accomodation and Car."
+msgstr ""
+
+msgid "Is Price Per Person"
+msgstr ""
+
+msgid "Only apply for Accomodation, Cruise and Tour."
+msgstr ""
+
+msgid "Max Allowed Items"
+msgstr ""
+
+msgid "Fixed Item"
+msgstr ""
+
+msgid "Is fixed item number"
+msgstr ""
+
+msgid ""
+"If checked the price is charged per entire duration of accommodation stay, "
+"tour, car rent, cruise. Example tax."
+msgstr ""
+
+msgid "Accomodation Categories"
+msgstr ""
+
+msgid "The accommodation categories that this extra item is applicable to."
+msgstr ""
+
+msgid "The car categories that this extra item is applicable to."
+msgstr ""
+
+msgid "The cruise categories that this extra item is applicable to."
+msgstr ""
+
+msgid "The tour categories that this extra item is applicable to."
+msgstr ""
+
+msgid "Accomodation Posts"
+msgstr ""
+
+msgid "The accomodation posts that this extra item is applicable to."
+msgstr ""
+
+msgid "Car Posts"
+msgstr ""
+
+msgid "The car posts that this extra item is applicable to."
+msgstr ""
+
+msgid "Cruise Posts"
+msgstr ""
+
+msgid "The cruise posts that this extra item is applicable to."
+msgstr ""
+
+msgid "Tour Posts"
+msgstr ""
+
+msgid "The tour posts that this extra item is applicable to."
+msgstr ""
+
+msgid "FAQs Request"
+msgstr ""
+
+msgid "No content"
+msgstr ""
+
+msgid ""
+"Please, choose \"Video Format\" to use \"Featured Video\". It will be "
+"embedded in the post and Featured Image will use to thumb of this post."
+msgstr ""
+
+msgid "Video Thumbnail"
+msgstr ""
+
+msgid ""
+"Create thumbnail from video and using it as featured image? (Only for "
+"youtube and vimeo)."
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "MP4 Upload"
+msgstr ""
+
+msgid "Choose file .mp4 to upload"
+msgstr ""
+
+msgid "Vimeo ID"
+msgstr ""
+
+msgid "Example the Video ID for "
+msgstr ""
+
+msgid "Youtube ID"
+msgstr ""
+
+msgid "URL:"
+msgstr ""
+
+msgid "This content will display title of the room type publicly."
+msgstr ""
+
+msgid "Room status."
+msgstr ""
+
+msgid "Accommodation"
+msgstr ""
+
+msgid "Choose accommodation that the room type belong to."
+msgstr ""
+
+msgid "Maximum adults are allowed in the room."
+msgstr ""
+
+msgid "Maximum children are allowed in the room."
+msgstr ""
+
+msgid "Number of rooms in this accommodation."
+msgstr ""
+
+msgid "Price of this room per night."
+msgstr ""
+
+msgid ""
+"Images should have minimum size: 800x540. Bigger size images will be cropped "
+"automatically."
+msgstr ""
+
+msgid ""
+"Choose booking method when click BOOK NOW button in accommodation detail "
+"page. This option overidde value in theme option."
+msgstr ""
+
+msgid "Tour"
+msgstr ""
+
+msgid ""
+"If this field is blank, this value is set by tour maximum seats. Example: 50."
+msgstr ""
+
+msgid "If you leave this field blank it will be set as current date."
+msgstr ""
+
+msgid "If you leave this field blank it will be set as start date."
+msgstr ""
+
+msgid ""
+"If this field is blank, this price is set by tour adult price. Example: 900."
+msgstr ""
+
+msgid "Price Per Child "
+msgstr ""
+
+msgid ""
+"If this field is blank, this price is set by tour child price. Example: 100."
+msgstr ""
+
+msgid "Social"
+msgstr ""
+
+msgid "Upload Thumbnail Image."
+msgstr ""
+
+msgid "Enter Team Description."
+msgstr ""
+
+msgid "Position"
+msgstr ""
+
+msgid "Enter Position of Him (or Her)."
+msgstr ""
+
+msgid "Enter Address to Contact."
+msgstr ""
+
+msgid "Enter Phone Number to Contact."
+msgstr ""
+
+msgid "Enter Email to Contact."
+msgstr ""
+
+msgid "Skype"
+msgstr ""
+
+msgid "Enter Skype Name being used."
+msgstr ""
+
+msgid "Position of testimonial."
+msgstr ""
+
+msgid "Thumbnail picture of testimonial."
+msgstr ""
+
+msgid "Travel Guide"
+msgstr ""
+
+msgid "This content will display title of the tour publicly."
+msgstr ""
+
+msgid "This is the content that will be shown on tour blocks."
+msgstr ""
+
+msgid ""
+"Choose date type for the tour. Check Fixed Days if the tour open with fixed "
+"date."
+msgstr ""
+
+msgid ""
+"Choose departure time of the tour is weekly, monthly, any day during the "
+"season or a specific day."
+msgstr ""
+
+msgid "Choose day that the tour open weekly."
+msgstr ""
+
+msgid "Choose day that the tour open monthly."
+msgstr ""
+
+msgid "Tour Date"
+msgstr ""
+
+msgid "Enter date of the tour."
+msgstr ""
+
+msgid "Duration information in the tour."
+msgstr ""
+
+msgid "Max people in the tour."
+msgstr ""
+
+msgid "Price for an adult in the tour."
+msgstr ""
+
+msgid "Price for an child in the tour."
+msgstr ""
+
+msgid "Price Per Infant"
+msgstr ""
+
+msgid "Price for an infant in the tour."
+msgstr ""
+
+msgid "Example: 500"
+msgstr ""
+
+msgid "Destination of this tour"
+msgstr ""
+
+msgid "Add discount this tour."
+msgstr ""
+
+msgid "Discount this tour"
+msgstr ""
+
+msgid "Tour status."
+msgstr ""
+
+msgid "Show/ Hide gallery in tour detail."
+msgstr ""
+
+msgid "Gallery Title"
+msgstr ""
+
+msgid "Enter title to gallery box in tour detail."
+msgstr ""
+
+msgid "Gallery Background"
+msgstr ""
+
+msgid "Choose background for gallery box."
+msgstr ""
+
+msgid "Show Travel Guide Information?"
+msgstr ""
+
+msgid "Show/ Hide travel guide information in tour detail."
+msgstr ""
+
+msgid "Box Title"
+msgstr ""
+
+msgid "Enter title to travel guide box in tour detail."
+msgstr ""
+
+msgid "Enter information to travel guide box in tour detail."
+msgstr ""
+
+msgid "Add new travel guide from "
+msgstr ""
+
+msgid "here"
+msgstr ""
+
+msgid ""
+"Fixed Amount only apply for adult price, Percentage apply for total price ."
+msgstr ""
+
+msgid ""
+"Choose booking method when click BOOK NOW button in tour detail page. This "
+"option overidde value in theme option."
+msgstr ""
+
+msgid ""
+"This email will receive user booking information when this tour booked. "
+"Emails are separated by commas."
+msgstr ""
+
+msgid "Mark The Tour As Featured ?"
+msgstr ""
+
+msgid "Attach PDF files, Map images OR other documents related to the tour."
+msgstr ""
+
+msgid "-- All Tour --"
+msgstr ""
+
+msgid "Number of adults in the tour. Example: 10"
+msgstr ""
+
+msgid "Number of children in the tour. Example: 1"
+msgstr ""
+
+msgid "Tour Price"
+msgstr ""
+
+msgid "Leave it blank if this rooms are available all the time."
+msgstr ""
+
+msgid "If this field is blank, this price is set by room price. Example: 50."
+msgstr ""
+
+msgid "Choose or Upload an Image"
+msgstr ""
+
+msgid "Use this image"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "ID"
+msgstr ""
+
+msgid "Customer Name"
+msgstr ""
+
+msgid "Accomodation"
+msgstr ""
+
+msgid "Person"
+msgstr ""
+
+msgid "Items"
+msgstr ""
+
+msgid "Supports"
+msgstr ""
+
+msgid " adults"
+msgstr ""
+
+msgid " children"
+msgstr ""
+
+msgid "Restore"
+msgstr ""
+
+msgid "Delete Permanently"
+msgstr ""
+
+msgid "Trash"
+msgstr ""
+
+msgid "Vacancies"
+msgstr ""
+
+msgid "Bookings"
+msgstr ""
+
+msgid "Tour Schedule"
+msgstr ""
+
+msgid "Car base"
+msgstr ""
+
+msgid "Car category base"
+msgstr ""
+
+msgid "Car location base"
+msgstr ""
+
+msgid "Cruise base"
+msgstr ""
+
+msgid "Cruise category base"
+msgstr ""
+
+msgid "Cruise facility base"
+msgstr ""
+
+msgid "Cruise location base"
+msgstr ""
+
+msgid "Accommodation base"
+msgstr ""
+
+msgid "Accommodation category base"
+msgstr ""
+
+msgid "Accommodation facility base"
+msgstr ""
+
+msgid "Accommodation location base"
+msgstr ""
+
+msgid "Tour base"
+msgstr ""
+
+msgid "Tour category base"
+msgstr ""
+
+msgid "Tour location base"
+msgstr ""
+
+msgid "Team base"
+msgstr ""
+
+msgid "Team category base"
+msgstr ""
+
+msgid "accommodations"
+msgstr ""
+
+msgid "accommodation-category"
+msgstr ""
+
+msgid "facility"
+msgstr ""
+
+msgid "location"
+msgstr ""
+
+msgid "tours"
+msgstr ""
+
+msgid "tour-category"
+msgstr ""
+
+msgid "tour-location"
+msgstr ""
+
+msgid "teams"
+msgstr ""
+
+msgid "team-category"
+msgstr ""
+
+msgid "car_rent"
+msgstr ""
+
+msgid "car-category"
+msgstr ""
+
+msgid "car-location"
+msgstr ""
+
+msgid "cruises"
+msgstr ""
+
+msgid "cruise-category"
+msgstr ""
+
+msgid "cruise-location"
+msgstr ""
+
+msgid "cruise-facility"
+msgstr ""
+
+msgid "Exploore Products update"
+msgstr ""
+
+msgid "We need to update your store's database to the latest version."
+msgstr ""
+
+msgid "Run the updater"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Text Color"
+msgstr ""
+
+msgid ""
+"Text color is how it appears on each property item. Leaving empty will using "
+"default style."
+msgstr ""
+
+msgid "Background Color"
+msgstr ""
+
+msgid ""
+"Background color is how it appears on each property item. Leaving empty will "
+"using default style."
+msgstr ""
+
+msgid "sale"
+msgstr ""
+
+msgid " Locations"
+msgstr ""
+
+msgid " Adult(s)"
+msgstr ""
+
+msgid " Children"
+msgstr ""
+
+msgid " Star(s)"
+msgstr ""
+
+msgid " Review Star(s)"
+msgstr ""
+
+msgid " Categories"
+msgstr ""
+
+msgid " Facilities"
+msgstr ""
+
+msgid "Clear All"
+msgstr ""
+
+msgid " for "
+msgstr ""
+
+msgid "No results"
+msgstr ""
+
+msgid "Showing"
+msgstr ""
+
+msgid "of"
+msgstr ""
+
+msgid "result"
+msgid_plural "results "
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Review Ratings: %1$s/%2$s"
+msgstr ""
+
+msgid " Cruise Star(s)"
+msgstr ""
+
+msgid "Fields"
+msgstr ""
+
+msgid "Meta"
+msgstr ""
+
+msgid "Url"
+msgstr ""
+
+msgid "Contact Us"
+msgstr ""
+
+msgid "CONTACT US"
+msgstr ""
+
+msgid "Choose Location"
+msgstr ""
+
+msgid "Thumbnail Image"
+msgstr ""
+
+msgid "find your hotel"
+msgstr ""
+
+msgid "Keyword?"
+msgstr ""
+
+msgid "Enter a keyword"
+msgstr ""
+
+msgid "Where?"
+msgstr ""
+
+msgid "Number of Adult"
+msgstr ""
+
+msgid "Number of Child"
+msgstr ""
+
+msgid "search now"
+msgstr ""
+
+msgid "search"
+msgstr ""
+
+msgid "More Filter"
+msgstr ""
+
+msgid "Less Filter"
+msgstr ""
+
+msgid "price"
+msgstr ""
+
+msgid "Clear"
+msgstr ""
+
+msgid "Review Rating"
+msgstr ""
+
+msgid "star rating"
+msgstr ""
+
+msgid "no rated"
+msgstr ""
+
+msgid "facilities"
+msgstr ""
+
+msgid "FIND CARS"
+msgstr ""
+
+msgid "SEARCH NOW"
+msgstr ""
+
+msgid "SEARCH"
+msgstr ""
+
+msgid "find your car"
+msgstr ""
+
+msgid "review rating"
+msgstr ""
+
+msgid "locations"
+msgstr ""
+
+msgid "Open Map"
+msgstr ""
+
+msgid "FIND CRUISES"
+msgstr ""
+
+msgid "find your cruises"
+msgstr ""
+
+msgid "FIND HOTELS"
+msgstr ""
+
+msgid "No Room Type Chosen. Please choose a room type to display."
+msgstr ""
+
+msgid "HOTELS"
+msgstr ""
+
+msgid "TOURS"
+msgstr ""
+
+msgid "CAR RENT"
+msgstr ""
+
+msgid "CRUISES"
+msgstr ""
+
+msgid "FIND TOURS"
+msgstr ""
+
+msgid "find your tour"
+msgstr ""
+
+msgid ""
+"Sorry, but nothing matched your search filters. Please try again with "
+"different search filters."
+msgstr ""
+
+msgid "Sort by:"
+msgstr ""
+
+msgid "One"
+msgstr ""
+
+msgid "Two"
+msgstr ""
+
+msgid "Three"
+msgstr ""
+
+msgid "Capitalize"
+msgstr ""
+
+msgid "Uppercase"
+msgstr ""
+
+msgid "Lowercase"
+msgstr ""
+
+msgid "Initial"
+msgstr ""
+
+msgid "Inherit"
+msgstr ""
+
+msgid "- Latest -"
+msgstr ""
+
+msgid "A to Z"
+msgstr ""
+
+msgid "Z to A"
+msgstr ""
+
+msgid "Random posts today"
+msgstr ""
+
+msgid "Random posts a week ago"
+msgstr ""
+
+msgid "Random posts a month ago"
+msgstr ""
+
+msgid "Random Posts"
+msgstr ""
+
+msgid "Most Commented"
+msgstr ""
+
+msgid "Exploore Icons"
+msgstr ""
+
+msgid "Visual Composer Icons"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Center"
+msgstr ""
+
+msgid "Price Ascending"
+msgstr ""
+
+msgid "Price Descending"
+msgstr ""
+
+msgid "Discount Ascending"
+msgstr ""
+
+msgid "Discount Descending"
+msgstr ""
+
+msgid "Star Rating Ascending"
+msgstr ""
+
+msgid "Star Rating Descending"
+msgstr ""
+
+msgid "Random"
+msgstr ""
+
+msgid "Tour Date Ascending"
+msgstr ""
+
+msgid "Tour Date Descending"
+msgstr ""
+
+msgid "Review Rating Ascending"
+msgstr ""
+
+msgid "Review Rating Descending"
+msgstr ""
+
+msgid "Departure Date Ascending"
+msgstr ""
+
+msgid "Departure Date Descending"
+msgstr ""
+
+msgid "Post is selected"
+msgstr ""
+
+msgid "Name - Ascending"
+msgstr ""
+
+msgid "Name - Descending"
+msgstr ""
+
+msgid "Star Rating - Ascending"
+msgstr ""
+
+msgid "Star Rating - Descending"
+msgstr ""
+
+msgid "Review Rating - Ascending"
+msgstr ""
+
+msgid "Review Rating - Descending"
+msgstr ""
+
+msgid "Discount - Low to High"
+msgstr ""
+
+msgid "Discount - High to Low"
+msgstr ""
+
+msgid "Price - Low to High"
+msgstr ""
+
+msgid "Price - High to Low"
+msgstr ""
+
+msgid "Tour Date - Ascending"
+msgstr ""
+
+msgid "Tour Date - Descending"
+msgstr ""
+
+msgid "Departure Date - Ascending"
+msgstr ""
+
+msgid "Departure Date - Descending"
+msgstr ""
+
+msgid "Featured"
+msgstr ""
+
+msgid "Vimeo"
+msgstr ""
+
+msgid "Youtube"
+msgstr ""
+
+msgid "Facebook"
+msgstr ""
+
+msgid "Twitter"
+msgstr ""
+
+msgid "Google+"
+msgstr ""
+
+msgid "YouTube"
+msgstr ""
+
+msgid "RSS"
+msgstr ""
+
+msgid "Delicious"
+msgstr ""
+
+msgid "Flickr"
+msgstr ""
+
+msgid "Lastfm"
+msgstr ""
+
+msgid "Linkedin"
+msgstr ""
+
+msgid "Tumblr"
+msgstr ""
+
+msgid "Pinterest"
+msgstr ""
+
+msgid "Deviantart"
+msgstr ""
+
+msgid "Github"
+msgstr ""
+
+msgid "Instagram"
+msgstr ""
+
+msgid "Stumbleupon"
+msgstr ""
+
+msgid "Behance"
+msgstr ""
+
+msgid "TripAdvisor"
+msgstr ""
+
+msgid "VK"
+msgstr ""
+
+msgid "Foursquare"
+msgstr ""
+
+msgid "XING"
+msgstr ""
+
+msgid "Weibo"
+msgstr ""
+
+msgid "Odnoklassniki"
+msgstr ""
+
+msgid "Fixed"
+msgstr ""
+
+msgid "-None-"
+msgstr ""
+
+msgid "Click here to download"
+msgstr ""
+
+msgid "--All Categories--"
+msgstr ""
+
+msgid "--All Locations--"
+msgstr ""
+
+msgid "--All Facilities--"
+msgstr ""
+
+msgid "-All Authors-"
+msgstr ""
+
+msgid "Columns"
+msgstr ""
+
+msgid "Select column to display list accommodations."
+msgstr ""
+
+msgid "Limit posts"
+msgstr ""
+
+msgid "Add limit posts per page. Set -1 to show all."
+msgstr ""
+
+msgid "Offset post"
+msgstr ""
+
+msgid ""
+"Enter offset to pass over posts. If you want to start on record 6, using "
+"offset 5"
+msgstr ""
+
+msgid "Sort by"
+msgstr ""
+
+msgid "Select order to display list accomodations."
+msgstr ""
+
+msgid "Show pagination"
+msgstr ""
+
+msgid "Show or hide pagination."
+msgstr ""
+
+msgid "Enter background color"
+msgstr ""
+
+msgid "Extra Class"
+msgstr ""
+
+msgid "Add extra class to block"
+msgstr ""
+
+msgid "Featured Accommodation"
+msgstr ""
+
+msgid "Filter by featured accommodation or none."
+msgstr ""
+
+msgid "Filter By"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "Add Category"
+msgstr ""
+
+msgid "Choose special category to filter"
+msgstr ""
+
+msgid "Default no filter by category."
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
+msgid "Select Location"
+msgstr ""
+
+msgid "Choose special location to filter accommodation"
+msgstr ""
+
+msgid "Default no filter by location."
+msgstr ""
+
+msgid "Facility"
+msgstr ""
+
+msgid "Select Facility"
+msgstr ""
+
+msgid "Choose special facility to filter accommodation"
+msgstr ""
+
+msgid "Default no filter by facility."
+msgstr ""
+
+msgid "Author"
+msgstr ""
+
+msgid "Add Author"
+msgstr ""
+
+msgid "Choose special author to filter"
+msgstr ""
+
+msgid "Default no filter by author."
+msgstr ""
+
+msgid "Button Content"
+msgstr ""
+
+msgid "Enter content to button"
+msgstr ""
+
+msgid "Read More Buttons"
+msgstr ""
+
+msgid "URL (Link)"
+msgstr ""
+
+msgid "Add link to button."
+msgstr ""
+
+msgid "Enter text color to button"
+msgstr ""
+
+msgid "Enter background button color to button"
+msgstr ""
+
+msgid "Hover Background Color"
+msgstr ""
+
+msgid "SLZ Hotel Grid"
+msgstr ""
+
+msgid "List accommodations in grid"
+msgstr ""
+
+msgid "Extra class"
+msgstr ""
+
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+msgid "SLZ Search Hotel"
+msgstr ""
+
+msgid "A accomodation search form."
+msgstr ""
+
+msgid "Add extra class to block."
+msgstr ""
+
+msgid "Add Section"
+msgstr ""
+
+msgid "SLZ Accordion"
+msgstr ""
+
+msgid "Collapsible content panels"
+msgstr ""
+
+msgid "Section"
+msgstr ""
+
+msgid "Style 1"
+msgstr ""
+
+msgid "Style 2"
+msgstr ""
+
+msgid "Style 3"
+msgstr ""
+
+msgid "Style"
+msgstr ""
+
+msgid "Choose style to display."
+msgstr ""
+
+msgid "Insert Container"
+msgstr ""
+
+msgid "Checked to insert container for full width."
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Enter title with HTMl tags."
+msgstr ""
+
+msgid "Add Background Image"
+msgstr ""
+
+msgid "Choose background image to add."
+msgstr ""
+
+msgid "Enter extra class name."
+msgstr ""
+
+msgid "Add Video Background Image"
+msgstr ""
+
+msgid "Video"
+msgstr ""
+
+msgid "Video Type"
+msgstr ""
+
+msgid "Choose Type of Video."
+msgstr ""
+
+msgid ""
+"For example the Video ID for http://www.youtube.com/v/8OBfr46Y0cQ is "
+"8OBfr46Y0cQ."
+msgstr ""
+
+msgid "For example the Video ID for http://vimeo.com/86323053 is 86323053."
+msgstr ""
+
+msgid "Enter button text."
+msgstr ""
+
+msgid "Button"
+msgstr ""
+
+msgid "Background Transparent"
+msgstr ""
+
+msgid "Select button background color."
+msgstr ""
+
+msgid "Background Hover Transparent"
+msgstr ""
+
+msgid "Hover Color"
+msgstr ""
+
+msgid "Select button backgroud hover color."
+msgstr ""
+
+msgid "Select text color."
+msgstr ""
+
+msgid "Text Hover Color"
+msgstr ""
+
+msgid "Select text hover color."
+msgstr ""
+
+msgid "Border Color"
+msgstr ""
+
+msgid "Select border color."
+msgstr ""
+
+msgid "Border Color Hover"
+msgstr ""
+
+msgid "Select border color when hover."
+msgstr ""
+
+msgid "SLZ Banner"
+msgstr ""
+
+msgid "Banner with video"
+msgstr ""
+
+msgid "Icons"
+msgstr ""
+
+msgid "---Yes---"
+msgstr ""
+
+msgid "---No---"
+msgstr ""
+
+msgid "Sub Title"
+msgstr ""
+
+msgid "Enter sub title."
+msgstr ""
+
+msgid "Enter title."
+msgstr ""
+
+msgid "Title color"
+msgstr ""
+
+msgid "Select title color."
+msgstr ""
+
+msgid "Title Margin Bottom"
+msgstr ""
+
+msgid "Enter title margin bottom. Example: 70px -> input 70"
+msgstr ""
+
+msgid "Show Line"
+msgstr ""
+
+msgid "Choose show line after title."
+msgstr ""
+
+msgid "Enter description."
+msgstr ""
+
+msgid "Choose Type of Icon"
+msgstr ""
+
+msgid "Choose style to display block."
+msgstr ""
+
+msgid "Choose Icon"
+msgstr ""
+
+msgid "Choose icon to display above title."
+msgstr ""
+
+msgid "Please go on \"Exploore->%s\" to referentce about icons of our theme."
+msgstr ""
+
+msgid "SLZ Block Title"
+msgstr ""
+
+msgid "Block Title"
+msgstr ""
+
+msgid "-All tags-"
+msgstr ""
+
+msgid "-All authors-"
+msgstr ""
+
+msgid "Column"
+msgstr ""
+
+msgid "Choose column to display blog."
+msgstr ""
+
+msgid "Limit Posts"
+msgstr ""
+
+msgid ""
+"Enter limit of posts per page. If it blank the limit posts will be the "
+"number from Wordpress settings -> Reading. If you want show all, enter "
+"\"-1\"."
+msgstr ""
+
+msgid "Offset Posts"
+msgstr ""
+
+msgid ""
+"Enter offset to pass over posts. If you want to start on record 6, using "
+"offset 5."
+msgstr ""
+
+msgid "Sort By"
+msgstr ""
+
+msgid "Choose criteria to display."
+msgstr ""
+
+msgid "Pagination"
+msgstr ""
+
+msgid "Show pagination."
+msgstr ""
+
+msgid "Max post"
+msgstr ""
+
+msgid "Total posts when paging."
+msgstr ""
+
+msgid "Enter extra class."
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "Tag"
+msgstr ""
+
+msgid "Add Tag"
+msgstr ""
+
+msgid "Choose special tag to filter"
+msgstr ""
+
+msgid "Default no filter by tag."
+msgstr ""
+
+msgid "Button Text"
+msgstr ""
+
+msgid "Read More Button"
+msgstr ""
+
+msgid "Set empty If you do not show button."
+msgstr ""
+
+msgid "Button Color"
+msgstr ""
+
+msgid "Enter text color for button."
+msgstr ""
+
+msgid "Button Hover Color"
+msgstr ""
+
+msgid "Enter color when hover in button."
+msgstr ""
+
+msgid "Button Text Color"
+msgstr ""
+
+msgid "Enter color of text ( button )."
+msgstr ""
+
+msgid "Button Text Hover Color"
+msgstr ""
+
+msgid "Enter color of text ( button ) when hover."
+msgstr ""
+
+msgid "Button Border Color"
+msgstr ""
+
+msgid "Enter color of border ( button )."
+msgstr ""
+
+msgid "Button Border Hover Color"
+msgstr ""
+
+msgid "Enter color of border ( button ) when hover."
+msgstr ""
+
+msgid "SLZ Blog"
+msgstr ""
+
+msgid "A list post will be displayed."
+msgstr ""
+
+msgid "Enter block title."
+msgstr ""
+
+msgid "Add link to title."
+msgstr ""
+
+msgid "Select background color."
+msgstr ""
+
+msgid "Background Hover Color"
+msgstr ""
+
+msgid "Select background hover color."
+msgstr ""
+
+msgid "SLZ Button"
+msgstr ""
+
+msgid "Add Button with custom options"
+msgstr ""
+
+msgid "List"
+msgstr ""
+
+msgid "Grid"
+msgstr ""
+
+msgid "Select style to display list cars."
+msgstr ""
+
+msgid "Select column to display list cars."
+msgstr ""
+
+msgid "Select order to display list cars."
+msgstr ""
+
+msgid "Featured Car"
+msgstr ""
+
+msgid "Filter by featured car or none."
+msgstr ""
+
+msgid "Choose special location to filter car"
+msgstr ""
+
+msgid "Authors"
+msgstr ""
+
+msgid "Read More Text"
+msgstr ""
+
+msgid "Buttons"
+msgstr ""
+
+msgid "Custom Button Text"
+msgstr ""
+
+msgid "Custom Button Link"
+msgstr ""
+
+msgid "Add link to custom button."
+msgstr ""
+
+msgid "SLZ Car Grid"
+msgstr ""
+
+msgid "List car in grid."
+msgstr ""
+
+msgid "SLZ Search Car"
+msgstr ""
+
+msgid "A car search form."
+msgstr ""
+
+msgid "Style 1 - Contact form"
+msgstr ""
+
+msgid "Style 2 - Contact form"
+msgstr ""
+
+msgid "Style 3 - Info and Maps"
+msgstr ""
+
+msgid "Insert container"
+msgstr ""
+
+msgid "Choose contact form to display contact page."
+msgstr ""
+
+msgid "Image of Contact form."
+msgstr ""
+
+msgid "Choose image for contact form."
+msgstr ""
+
+msgid "Backgroud Image of Contact form."
+msgstr ""
+
+msgid "Choose background image for contact form."
+msgstr ""
+
+msgid "Icon of address"
+msgstr ""
+
+msgid "Contact Info"
+msgstr ""
+
+msgid "Select icon for address."
+msgstr ""
+
+msgid "Enter address. Address will automatically render the google map."
+msgstr ""
+
+msgid "Icon of phone"
+msgstr ""
+
+msgid "Select icon for phone."
+msgstr ""
+
+msgid "Enter phone."
+msgstr ""
+
+msgid "Icon of email"
+msgstr ""
+
+msgid "Select icon for email."
+msgstr ""
+
+msgid "Enter email."
+msgstr ""
+
+msgid "SLZ Contact"
+msgstr ""
+
+msgid "Contact information."
+msgstr ""
+
+msgid "Select column to display list cruises."
+msgstr ""
+
+msgid "Select order to display list cruises."
+msgstr ""
+
+msgid "Featured Cruise"
+msgstr ""
+
+msgid "Filter by featured cruise or none."
+msgstr ""
+
+msgid "Choose special location to filter cruise"
+msgstr ""
+
+msgid "SLZ Cruise Grid"
+msgstr ""
+
+msgid "List cruise in grid."
+msgstr ""
+
+msgid "SLZ Search Cruise"
+msgstr ""
+
+msgid "A cruise search form."
+msgstr ""
+
+msgid "Style 4"
+msgstr ""
+
+msgid "--Choose number--"
+msgstr ""
+
+msgid "Left Content 1"
+msgstr ""
+
+msgid "Enter content 1"
+msgstr ""
+
+msgid "Left Content 2"
+msgstr ""
+
+msgid "Enter left content 2"
+msgstr ""
+
+msgid "Left Content 3"
+msgstr ""
+
+msgid "Enter left content 3"
+msgstr ""
+
+msgid "Discount (%)"
+msgstr ""
+
+msgid "Enter discount percent"
+msgstr ""
+
+msgid "Discount Text 1"
+msgstr ""
+
+msgid "Enter discount text 1"
+msgstr ""
+
+msgid "Discount Text 2"
+msgstr ""
+
+msgid "Info Right"
+msgstr ""
+
+msgid "Enter info right with HTMl tags."
+msgstr ""
+
+msgid "Add Image"
+msgstr ""
+
+msgid "Choose image to add."
+msgstr ""
+
+msgid "Height of Discount Box"
+msgstr ""
+
+msgid "Enter height of discount box."
+msgstr ""
+
+msgid "Use button"
+msgstr ""
+
+msgid "Choose how many button appear in shortcode"
+msgstr ""
+
+msgid "Button 1 Text"
+msgstr ""
+
+msgid "Enter button text"
+msgstr ""
+
+msgid "Button Background Transparent"
+msgstr ""
+
+msgid "Button Backgroud Color "
+msgstr ""
+
+msgid "Select button backgroud color."
+msgstr ""
+
+msgid "Button Background Hover Transparent"
+msgstr ""
+
+msgid "Button Hover Backgroud Color "
+msgstr ""
+
+msgid "Select button hover backgroud color."
+msgstr ""
+
+msgid "Select button border color."
+msgstr ""
+
+msgid "Button 2 Text"
+msgstr ""
+
+msgid "Button Border Color "
+msgstr ""
+
+msgid "SLZ Discount Box"
+msgstr ""
+
+msgid "Show discount number with backgroud picture"
+msgstr ""
+
+msgid "Select contact form to display."
+msgstr ""
+
+msgid "Enter title of box."
+msgstr ""
+
+msgid "Error Color"
+msgstr ""
+
+msgid "Choose color for error filed, notification response box."
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+msgid "Box Background"
+msgstr ""
+
+msgid "Choose color for box background."
+msgstr ""
+
+msgid "Title Box Color"
+msgstr ""
+
+msgid "Choose color for title box."
+msgstr ""
+
+msgid "Input Background"
+msgstr ""
+
+msgid "Choose color for input background."
+msgstr ""
+
+msgid "Input Color"
+msgstr ""
+
+msgid "Choose color for input text."
+msgstr ""
+
+msgid "Choose color for button text."
+msgstr ""
+
+msgid "Button Text Color Hover"
+msgstr ""
+
+msgid "Choose color for button text when hover."
+msgstr ""
+
+msgid "Button Background"
+msgstr ""
+
+msgid "Choose color for button background."
+msgstr ""
+
+msgid "Button Background Hover"
+msgstr ""
+
+msgid "Choose color for button background when hover."
+msgstr ""
+
+msgid "SLZ FAQs Request"
+msgstr ""
+
+msgid "Form FAQs Request."
+msgstr ""
+
+msgid "-All FAQs-"
+msgstr ""
+
+msgid "FAQ"
+msgstr ""
+
+msgid "-All FAQs Categories-"
+msgstr ""
+
+msgid "Add limit posts per page. Set -1 or empty to show all."
+msgstr ""
+
+msgid "Select order to display list properties."
+msgstr ""
+
+msgid "Display By"
+msgstr ""
+
+msgid "Choose FAQ category or special FAQ to display"
+msgstr ""
+
+msgid "Add FAQ"
+msgstr ""
+
+msgid "Choose special FAQ to show"
+msgstr ""
+
+msgid "Default display all FAQ if no FAQ is selected and Number FAQ is empty."
+msgstr ""
+
+msgid "FAQ Category"
+msgstr ""
+
+msgid "Choose special FAQ category to show"
+msgstr ""
+
+msgid "SLZ FAQs"
+msgstr ""
+
+msgid "List of FAQs."
+msgstr ""
+
+msgid "Four"
+msgstr ""
+
+msgid "Five"
+msgstr ""
+
+msgid "Masonry Grid"
+msgstr ""
+
+msgid "Image Slider"
+msgstr ""
+
+msgid "Image Grid"
+msgstr ""
+
+msgid "Image Regions"
+msgstr ""
+
+msgid "Hide"
+msgstr ""
+
+msgid "Medium"
+msgstr ""
+
+msgid "Large"
+msgstr ""
+
+msgid "Enter title of gallery image"
+msgstr ""
+
+msgid "Arrows?"
+msgstr ""
+
+msgid "Choose show/hide arrows on slider."
+msgstr ""
+
+msgid "Select Image Size"
+msgstr ""
+
+msgid "Choose thumb size of image."
+msgstr ""
+
+msgid "Selecting the columns to display"
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "Add images. For Masonry style, you should choose the 5 photos."
+msgstr ""
+
+msgid "Add Item"
+msgstr ""
+
+msgid "Icon Position Top"
+msgstr ""
+
+msgid ""
+"Enter a number to represent the distance from the container. The unit used "
+"is %. Just enter the number. Example: For the distance to the top is 50%, "
+"you enter the number 50."
+msgstr ""
+
+msgid "Icon Position Left"
+msgstr ""
+
+msgid ""
+"Enter a number to represent the distance from the container. The unit used "
+"is %. Just enter the number. Example: For the distance to the left is 50%, "
+"you enter the number 50."
+msgstr ""
+
+msgid "Choose Image"
+msgstr ""
+
+msgid "Choose single image to display."
+msgstr ""
+
+msgid "Add link to image."
+msgstr ""
+
+msgid "SLZ Image Gallery"
+msgstr ""
+
+msgid "Display image gallery."
+msgstr ""
+
+msgid "Style 5"
+msgstr ""
+
+msgid "Select hover color."
+msgstr ""
+
+msgid "Title Color"
+msgstr ""
+
+msgid "Description Color"
+msgstr ""
+
+msgid "Select description color."
+msgstr ""
+
+msgid "SLZ Icon Box"
+msgstr ""
+
+msgid "Add Icon Box with custom options"
+msgstr ""
+
+msgid "Style 6."
+msgstr ""
+
+msgid "Custom Color"
+msgstr ""
+
+msgid "Line Color"
+msgstr ""
+
+msgid "Select line color."
+msgstr ""
+
+msgid "Item Color"
+msgstr ""
+
+msgid "Select color for all components."
+msgstr ""
+
+msgid "Item Color Hover"
+msgstr ""
+
+msgid "Select color for all components when hover."
+msgstr ""
+
+msgid "Select color of title."
+msgstr ""
+
+msgid "Title Color Hover"
+msgstr ""
+
+msgid "Number of Items"
+msgstr ""
+
+msgid "Enter number of items show in slide."
+msgstr ""
+
+msgid "Infomation"
+msgstr ""
+
+msgid "Enter the first infomation."
+msgstr ""
+
+msgid "First Infomation"
+msgstr ""
+
+msgid "Second Infomation"
+msgstr ""
+
+msgid "Enter the second infomation."
+msgstr ""
+
+msgid "SLZ Item List"
+msgstr ""
+
+msgid "List of items"
+msgstr ""
+
+msgid "Choose Post Type"
+msgstr ""
+
+msgid "Post Columns"
+msgstr ""
+
+msgid "Choose column to display grid post."
+msgstr ""
+
+msgid "Offset Post"
+msgstr ""
+
+msgid "Enter number of offset post."
+msgstr ""
+
+msgid "Select order to display list posts."
+msgstr ""
+
+msgid "Limit Post"
+msgstr ""
+
+msgid "Enter number of limit post."
+msgstr ""
+
+msgid "Insert Container?"
+msgstr ""
+
+msgid ""
+"Checked to insert container for full width (when select \"Stretch row and "
+"content\" on vc_row)"
+msgstr ""
+
+msgid "Map Marker Image"
+msgstr ""
+
+msgid "Map Settings"
+msgstr ""
+
+msgid "Clusterer Image"
+msgstr ""
+
+msgid "Zoom"
+msgstr ""
+
+msgid ""
+"Enter zoom number of map. Number between 0 (farthest) and 22 that sets the "
+"zoom level of the map."
+msgstr ""
+
+msgid "Map Height"
+msgstr ""
+
+msgid "Enter height for map(Unit is px)."
+msgstr ""
+
+msgid "SLZ Map Location"
+msgstr ""
+
+msgid "Map Location"
+msgstr ""
+
+msgid "-All Partner-"
+msgstr ""
+
+msgid "-All Partner Categories-"
+msgstr ""
+
+msgid "Number of Rows"
+msgstr ""
+
+msgid "Choose number of rows to display."
+msgstr ""
+
+msgid "Display by"
+msgstr ""
+
+msgid "Choose partner category or special partners to display"
+msgstr ""
+
+msgid "Choose partner category."
+msgstr ""
+
+msgid "Partner"
+msgstr ""
+
+msgid "Add Partner"
+msgstr ""
+
+msgid "Choose partner to display."
+msgstr ""
+
+msgid "Display content of partners."
+msgstr ""
+
+msgid "SLZ Partner"
+msgstr ""
+
+msgid "List partners"
+msgstr ""
+
+msgid "Post"
+msgstr ""
+
+msgid "Choose post type to display."
+msgstr ""
+
+msgid "Title Length"
+msgstr ""
+
+msgid "Enter length of title to display. Leave blank if display all."
+msgstr ""
+
+msgid "Enter offset post."
+msgstr ""
+
+msgid "Enter limit post."
+msgstr ""
+
+msgid "Select Category"
+msgstr ""
+
+msgid "Choose special category to filter accommodation"
+msgstr ""
+
+msgid "Choose special category to filter tour"
+msgstr ""
+
+msgid "Choose special category to filter car"
+msgstr ""
+
+msgid "Choose special category to filter cruise"
+msgstr ""
+
+msgid "Choose special category to filter post"
+msgstr ""
+
+msgid "SLZ Post Carousel"
+msgstr ""
+
+msgid "List posts or custom posts in carousel."
+msgstr ""
+
+msgid "Title One"
+msgstr ""
+
+msgid "Enter title one, display small text."
+msgstr ""
+
+msgid "Title Two"
+msgstr ""
+
+msgid "Enter title two, display large text. "
+msgstr ""
+
+msgid "Excerpt length"
+msgstr ""
+
+msgid ""
+"Enter limit of text will be truncated. If it is empty, the default is not "
+"cut. It will trim word"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
+msgid ""
+"Display tag if input greater than 0. The number entered will be displayed "
+"tag number. Enter 0 or leave it blank if you do not want to display the tag."
+msgstr ""
+
+msgid "Show info author, date time."
+msgstr ""
+
+msgid "Auto Play"
+msgstr ""
+
+msgid "Carousel automatic play when select yes."
+msgstr ""
+
+msgid "Carousel"
+msgstr ""
+
+msgid "Auto Play Speed"
+msgstr ""
+
+msgid "Set the running time of a turn. Unit is milliseconds"
+msgstr ""
+
+msgid "Speed"
+msgstr ""
+
+msgid "Set the speed of a turn. Unit is milliseconds"
+msgstr ""
+
+msgid "SLZ Recent News"
+msgstr ""
+
+msgid "A list post will be displayed as carousel."
+msgstr ""
+
+msgid "--All Room Types--"
+msgstr ""
+
+msgid "Enter title of block"
+msgstr ""
+
+msgid "Choose criteria to display"
+msgstr ""
+
+msgid "Choose Room Types"
+msgstr ""
+
+msgid "Add Room Type"
+msgstr ""
+
+msgid "Choose special room to display"
+msgstr ""
+
+msgid "Default no room is displayed."
+msgstr ""
+
+msgid "Choose Room Type Categories"
+msgstr ""
+
+msgid "Choose special category to display"
+msgstr ""
+
+msgid "Button Background Color"
+msgstr ""
+
+msgid "Button Hover Background Color"
+msgstr ""
+
+msgid "SLZ Room Types"
+msgstr ""
+
+msgid "A room type list."
+msgstr ""
+
+msgid "Horizontal"
+msgstr ""
+
+msgid "Vertical"
+msgstr ""
+
+msgid "Transparent"
+msgstr ""
+
+msgid "Layout"
+msgstr ""
+
+msgid "Choose layout for search form."
+msgstr ""
+
+msgid "SLZ Search"
+msgstr ""
+
+msgid "A search form."
+msgstr ""
+
+msgid "Add icon?"
+msgstr ""
+
+msgid "Add icon next to section title."
+msgstr ""
+
+msgid "Before title"
+msgstr ""
+
+msgid "After title"
+msgstr ""
+
+msgid "Icon position"
+msgstr ""
+
+msgid "Select icon position."
+msgstr ""
+
+msgid "Choose Exploore Icons"
+msgstr ""
+
+msgid "Enter section title (Note: you can leave it empty)."
+msgstr ""
+
+msgid "Section ID"
+msgstr ""
+
+msgid "Enter section ID ."
+msgstr ""
+
+msgid "Slz Section"
+msgstr ""
+
+msgid "Section for Tabs."
+msgstr ""
+
+msgid "Choose layout for tab."
+msgstr ""
+
+msgid "Color for Tab Active"
+msgstr ""
+
+msgid "Color for Tab Not Active"
+msgstr ""
+
+msgid "Extra class name"
+msgstr ""
+
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+msgid "SLZ Tabs"
+msgstr ""
+
+msgid "Use shortcode tab of exploore theme instead use default."
+msgstr ""
+
+msgid "Tab 1"
+msgstr ""
+
+msgid "Tab 2"
+msgstr ""
+
+msgid "Style 2."
+msgstr ""
+
+msgid "Select style to display."
+msgstr ""
+
+msgid "Title Group"
+msgstr ""
+
+msgid "Choose special category to filter agent"
+msgstr ""
+
+msgid "Title Group Color"
+msgstr ""
+
+msgid "Choose color title group for block."
+msgstr ""
+
+msgid "Line Title Group Color"
+msgstr ""
+
+msgid "Choose color line title group for block."
+msgstr ""
+
+msgid "Box Info Background Color"
+msgstr ""
+
+msgid "Choose background color box info for block."
+msgstr ""
+
+msgid "Line Box Color"
+msgstr ""
+
+msgid "Choose color line box for block."
+msgstr ""
+
+msgid "Choose color title for block."
+msgstr ""
+
+msgid "Choose color title for block when hover."
+msgstr ""
+
+msgid "Position Color"
+msgstr ""
+
+msgid "Choose color position for block."
+msgstr ""
+
+msgid "Icon Color"
+msgstr ""
+
+msgid "Choose color icon for block."
+msgstr ""
+
+msgid "Icon Color Hover"
+msgstr ""
+
+msgid "Choose color icon for block when hover."
+msgstr ""
+
+msgid "SLZ Team Carousel"
+msgstr ""
+
+msgid "List teams in carousel"
+msgstr ""
+
+msgid "Choose column to display."
+msgstr ""
+
+msgid "Choose special category to filter team"
+msgstr ""
+
+msgid "SLZ Team List"
+msgstr ""
+
+msgid "List teams."
+msgstr ""
+
+msgid "--Choose Teams--"
+msgstr ""
+
+msgid "Choose Team"
+msgstr ""
+
+msgid "Choose team to display."
+msgstr ""
+
+msgid "Icon Hover Color"
+msgstr ""
+
+msgid "SLZ Team Single"
+msgstr ""
+
+msgid "Display single team"
+msgstr ""
+
+msgid "Title Top"
+msgstr ""
+
+msgid "Enter title top."
+msgstr ""
+
+msgid "Title Main"
+msgstr ""
+
+msgid "Enter title main."
+msgstr ""
+
+msgid "SLZ Testimonial"
+msgstr ""
+
+msgid "List of testimonials."
+msgstr ""
+
+msgid "Toggle Content"
+msgstr ""
+
+msgid "Enter title here"
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+msgid "Enter content here"
+msgstr ""
+
+msgid "SLZ Toggle Box"
+msgstr ""
+
+msgid "Toggle Box"
+msgstr ""
+
+msgid "Select column to display list tours."
+msgstr ""
+
+msgid "Select order to display list tours."
+msgstr ""
+
+msgid "Featured Tour"
+msgstr ""
+
+msgid "Select filter by featured tour or none."
+msgstr ""
+
+msgid "Choose special location to filter property"
+msgstr ""
+
+msgid "Default no filter by locaton."
+msgstr ""
+
+msgid "Enter text to read more button"
+msgstr ""
+
+msgid "Add To List Text"
+msgstr ""
+
+msgid "Enter text to add to list button"
+msgstr ""
+
+msgid "Include Add To List Action?"
+msgstr ""
+
+msgid "Check it to add action add to list in this button."
+msgstr ""
+
+msgid "Add To List Link"
+msgstr ""
+
+msgid ""
+"Add link to Add To List button if Include Add To List Action is uncheck."
+msgstr ""
+
+msgid "SLZ Tours Carousel"
+msgstr ""
+
+msgid "List tours in carousel"
+msgstr ""
+
+msgid "Choose Category"
+msgstr ""
+
+msgid "Default display all categories."
+msgstr ""
+
+msgid "SLZ Tour Categories"
+msgstr ""
+
+msgid "List tour categories."
+msgstr ""
+
+msgid "--All Tags--"
+msgstr ""
+
+msgid "Filter by featured tour or none."
+msgstr ""
+
+msgid "Choose special location to filter tour"
+msgstr ""
+
+msgid "Select Tag"
+msgstr ""
+
+msgid "Choose special tag to filter tour"
+msgstr ""
+
+msgid "SLZ Tour Grid"
+msgstr ""
+
+msgid "List tours in grid."
+msgstr ""
+
+msgid "Slide"
+msgstr ""
+
+msgid "Fade"
+msgstr ""
+
+msgid "Enter title for block."
+msgstr ""
+
+msgid "Enter title for each item."
+msgstr ""
+
+msgid "Icon"
+msgstr ""
+
+msgid "Select icon for each item."
+msgstr ""
+
+msgid "Information 1"
+msgstr ""
+
+msgid "Enter information for each item."
+msgstr ""
+
+msgid "Information 2"
+msgstr ""
+
+msgid "Add Images"
+msgstr ""
+
+msgid "Choose images for each item."
+msgstr ""
+
+msgid "Add item for tour schedule block."
+msgstr ""
+
+msgid "Show Dots ?"
+msgstr ""
+
+msgid "If choose Yes, block will be show dots."
+msgstr ""
+
+msgid "Slide Custom"
+msgstr ""
+
+msgid "Show Arrow ?"
+msgstr ""
+
+msgid "If choose Yes, block will be show arrow."
+msgstr ""
+
+msgid "Is Auto Play ?"
+msgstr ""
+
+msgid "Choose YES to slide auto play."
+msgstr ""
+
+msgid "Is Loop Infinite ?"
+msgstr ""
+
+msgid "Choose YES to slide loop infinite."
+msgstr ""
+
+msgid "Speed Slide"
+msgstr ""
+
+msgid "Enter number value. Unit is millisecond. Example: 600."
+msgstr ""
+
+msgid "Animation?"
+msgstr ""
+
+msgid "Choose a animation"
+msgstr ""
+
+msgid "SLZ Tour Schedule"
+msgstr ""
+
+msgid "List schedules in the tour."
+msgstr ""
+
+msgid "SLZ Search Tour"
+msgstr ""
+
+msgid "A tour search form."
+msgstr ""
